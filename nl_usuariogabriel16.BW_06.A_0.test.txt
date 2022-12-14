@@ -1,0 +1,900 @@
+script_v1_historia_01_gravacao_02_gabriel || tudo bem e você? ele está ficando com a luz azul isso acontece quando fica ligado.
+script_v1_historia_01_gravacao_04_gabriel || não tenho outro monitor para fazer o teste.
+script_v1_historia_01_gravacao_06_gabriel || não tenho o cabo hdmi e nem a televisão.
+script_v1_historia_01_gravacao_08_gabriel || não tenho outro monitor para testes. até tenho a tv, mas meu filho está vendo desenho e não vou poder usar agora.
+script_v1_historia_01_gravacao_10_gabriel || liguei de novo o notebook mas não está lendo minhas digitais.
+script_v1_historia_01_gravacao_12_gabriel || nenhum outro led aceso. só a luzinha da bateria.
+script_v1_historia_01_gravacao_14_gabriel || certo, já fiz. preciso desinstalar outra coisa?
+script_v1_historia_01_gravacao_16_gabriel || ok. vamos lá. apertei o botão ligar/desligar como você me pediu.
+script_v1_historia_01_gravacao_18_gabriel || fiz o que você pediu. o computador não desligou.
+script_v1_historia_01_gravacao_20_gabriel || ok, vou esperar a mensagem. obrigado!
+script_v1_historia_02_gravacao_02_gabriel || estou bem. o problema é com meu teclado. estava funcionando bem até ontem mas hoje a tecla caps lock não funciona.
+script_v1_historia_02_gravacao_04_gabriel || a bateria do meu notebook não funciona.
+script_v1_historia_02_gravacao_06_gabriel || tenho um monitor sim, você quer que eu teste nesse outro?
+script_v1_historia_02_gravacao_08_gabriel || sim, a tomada funciona normal, porque consegui carregar meu celular na mesma tomada.
+script_v1_historia_02_gravacao_10_gabriel || ok, cliquei para desligar e retirei tudo que estava conectado ao computador.
+script_v1_historia_02_gravacao_12_gabriel || já pressionei e apareceu o "menu", agora? o que fazer?
+script_v1_historia_02_gravacao_14_gabriel || não, também não tenho uma tv com entrada hdmi.
+script_v1_historia_02_gravacao_16_gabriel || desculpe, não tenho outro carregador.
+script_v1_historia_02_gravacao_18_gabriel || a bateria do meu notebook não funciona.
+script_v1_historia_02_gravacao_20_gabriel || também não tenho outro carregador. só lá no meu trabalho. não tem como testar agora.
+script_v1_historia_02_gravacao_22_gabriel || ok, obrigado. ficarei esperando a mensagem. agora não preciso de mais ajuda.
+script_v1_historia_03_gravacao_02_gabriel || boa noite, estou bem e você? quero ajuda com o teclado, eu digito uma letra ou número mas não aparece o que eu quero.
+script_v1_historia_03_gravacao_04_gabriel || escolhi a opção brasil abnt, por que no meu teclado não tem uma tecla ç. a tecla que está com problema, continua ruim.
+script_v1_historia_03_gravacao_06_gabriel || o teclado funciona mas a tecla de interrogação continua com defeito.
+script_v1_historia_03_gravacao_08_gabriel || tá certo. acessei o link que você enviou.
+script_v1_historia_03_gravacao_10_gabriel || está ligando de novo e o problema do touchscreen continua, acho que é defeito de fábrica.
+script_v1_historia_03_gravacao_12_gabriel || sim, agora está funcionando.
+script_v1_historia_03_gravacao_14_gabriel || entrei no site lenovo e coloquei o número de série do aparelho e cliquei na lupa para pesquisar o aparelho.
+script_v1_historia_03_gravacao_16_gabriel || pelo mouse usb funciona, mas o touchpad ainda não funciona.
+script_v1_historia_03_gravacao_18_gabriel || claro, pressionei as teclas.
+script_v1_historia_03_gravacao_20_gabriel || sim, a tomada funciona normal, porque consegui carregar meu celular na mesma tomada.
+script_v1_historia_03_gravacao_22_gabriel || obrigado, vou abrir o whatsapp para ver a mensagem.
+script_v1_historia_04_gravacao_02_gabriel || eu uso cabo da internet, mas minha internet não funciona.
+script_v1_historia_04_gravacao_04_gabriel || não tenho outro cabo de rede para testar.
+script_v1_historia_04_gravacao_06_gabriel || eu tenho um desktop.
+script_v1_historia_04_gravacao_08_gabriel || sim, com certeza, o atendimento foi ótimo, vou colocar na pesquisa.
+script_v1_historia_04_gravacao_10_gabriel || pronto. escolhi e reiniciei o computador.
+script_v1_historia_04_gravacao_12_gabriel || pronto. instalei de novo o driver.
+script_v1_historia_04_gravacao_14_gabriel || sim eu vou! vou avaliar o atendimento na pesquisa de satisfação
+script_v1_historia_04_gravacao_16_gabriel || ainda não consigo entrar na internet.
+script_v1_historia_04_gravacao_18_gabriel || ok. agradeço a sua atenção.
+script_v1_historia_05_gravacao_02_gabriel || isso, meu aparelho é um notebook. comprei para minha filha mas está no meu nome.
+script_v1_historia_05_gravacao_04_gabriel || pronto. entrei no menu e apertei as teclas sugeridas.
+script_v1_historia_05_gravacao_06_gabriel || certo. estou pressionando o botão que você sugeriu.
+script_v1_historia_05_gravacao_08_gabriel || o teclado funciona mas a tecla de interrogação continua com defeito.
+script_v1_historia_05_gravacao_10_gabriel || pronto. apertei no menu e apertei as teclas sugeridas.
+script_v1_historia_05_gravacao_12_gabriel || ainda não consigo entrar na internet.
+script_v1_historia_05_gravacao_14_gabriel || tentei em outro wifi mas não consigo entrar na internet.
+script_v1_historia_05_gravacao_16_gabriel || aqui não tenho outro carregador. só lá no meu trabalho. não tem como testar agora.
+script_v1_historia_05_gravacao_18_gabriel || pronto. apertei no que me disse e também consegui reiniciar o computador.
+script_v1_historia_05_gravacao_20_gabriel || ok. fiz o download dos drivers na ordem sugerida, mas a internet ainda não funciona.
+script_v1_historia_05_gravacao_22_gabriel || melhor, obrigada.
+script_v1_historia_06_gravacao_02_gabriel || boa noite, tudo bem e você? o touchpad do meu notebook não funciona.
+script_v1_historia_06_gravacao_04_gabriel || estou apertando o botão há alguns segundos já.
+script_v1_historia_06_gravacao_06_gabriel || que chato hein? como vou fazer ? vocês me ajudam?
+script_v1_historia_06_gravacao_08_gabriel || sim, apertei as teclas windows e r e estou vendo. o que coloco na caixa?
+script_v1_historia_06_gravacao_10_gabriel || não, eu apertei as teclas e continua ligado.
+script_v1_historia_06_gravacao_12_gabriel || sim, encontrei os "sensores".
+script_v1_historia_06_gravacao_14_gabriel || cliquei em teclado padrão ps/2, depois selecionei a opção que você orientou e já ligou o notebook. posso testar a tecla?
+script_v1_historia_06_gravacao_16_gabriel || fiz o teste apertando as teclas fn + f6, e ainda não se mexeu.
+script_v1_historia_06_gravacao_18_gabriel || tudo bem. o que devo fazer?
+script_v1_historia_06_gravacao_20_gabriel || ok, entrei no site e coloquei o número de série do meu notebook. e agora?
+script_v1_historia_06_gravacao_22_gabriel || está ligando de novo e o problema do touchscreen continua, acho que é defeito de fábrica.
+script_v1_historia_06_gravacao_24_gabriel || o que preciso fazer para enviar meu notebook para a fábrica?
+script_v1_historia_06_gravacao_26_gabriel || certo. muito obrigado pela ajuda!
+script_v1_historia_07_gravacao_02_gabriel || com o computador desligado, coloquei um clipe de papel num buraquinho que encontrei na lateral do computador. e acho que consegui. apareceu o menu com algumas listas, mas não conheço
+script_v1_historia_07_gravacao_04_gabriel || não tenho outro monitor para fazer o teste.
+script_v1_historia_07_gravacao_06_gabriel || pode ser, mas eu não sei como fazer.como faço?
+script_v1_historia_07_gravacao_08_gabriel || pronto. desliguei o notebook e retirei os periféricos. e agora?
+script_v1_historia_07_gravacao_10_gabriel || ok, eu encontrei o cabo e já está conectado ao computador.
+script_v1_historia_07_gravacao_12_gabriel || meu equipamento é um notebook.
+script_v1_historia_07_gravacao_14_gabriel || pronto. apertei no que me disse e também consegui reiniciar o computador.
+script_v1_historia_07_gravacao_16_gabriel || pronto. apertei em cima do nome da placa de vídeo e escolhi "desinstalar".
+script_v1_historia_07_gravacao_18_gabriel || certo. na bios, não tem listras, e já movimentei a tela do notebook.
+script_v1_historia_07_gravacao_20_gabriel || eu acessei a opção sugerida e fiz os downloads necessários.
+script_v1_historia_07_gravacao_22_gabriel || não, não tenho outro carregador. só lá no meu trabalho. não tem como testar agora.
+script_v1_historia_07_gravacao_24_gabriel || certo. estou pressionando o botão que você sugeriu.
+script_v1_historia_07_gravacao_26_gabriel || o que tenho que fazer para configurar o idioma nesse momento então?
+script_v1_historia_07_gravacao_28_gabriel || pronto. apertei em cima do nome da placa de vídeo e escolhi "desinstalar".
+script_v1_historia_07_gravacao_30_gabriel || o notebook está ligando novamente depois que eu cliquei com o botão direito em "desinstalar dispositivo".
+script_v1_historia_07_gravacao_32_gabriel || o que preciso fazer para enviar meu notebook para a fábrica?
+script_v1_historia_07_gravacao_34_gabriel || ok. obrigado.
+script_v1_historia_08_gravacao_02_gabriel || boa noite. tudo bem, e você? o meu notebook não liga.
+script_v1_historia_08_gravacao_04_gabriel || não tenho outro cabo de rede para testar.
+script_v1_historia_08_gravacao_06_gabriel || não tenho outro carregador que combine com meu notebook.
+script_v1_historia_08_gravacao_08_gabriel || reiniciei o notebook, fiz o que pediu, mas a tela continua piscando.
+script_v1_historia_08_gravacao_10_gabriel || esse modelo aqui não tem como tirar, só com chave. a bateria é dentro.
+script_v1_historia_08_gravacao_12_gabriel || sim, podemos fazer a drenagem de energia. como funciona?
+script_v1_historia_08_gravacao_14_gabriel || certo. desliguei meu notebook e retirei tudo que estava conectado a ele. e agora?
+script_v1_historia_08_gravacao_16_gabriel || certo, abri o subgrupo "adaptadores de vídeo". o que preciso encontrar?
+script_v1_historia_08_gravacao_18_gabriel || certo, mas como fazer o teste?
+script_v1_historia_08_gravacao_20_gabriel || certo. escolhi a opção mouse e restaurei as configurações padrões, mas o touchpad não funciona.
+script_v1_historia_08_gravacao_22_gabriel || apertei as teclas sugeridas e digitei a palavra.
+script_v1_historia_08_gravacao_24_gabriel || sim, tenho um monitor externo que dá para fazer testes.
+script_v1_historia_08_gravacao_26_gabriel || fiz o teste na tecla de interrogação, mas continua sem funcionar. como fazer agora?
+script_v1_historia_08_gravacao_28_gabriel || esse modelo aqui não tem como tirar, só com chave. a bateria é dentro.
+script_v1_historia_08_gravacao_30_gabriel || certo, vou responder à pesquisa de satisfação. muito obrigado!
+script_v1_historia_09_gravacao_02_gabriel || consegui. apertei o botão e entrei no "menu". o que preciso agora?
+script_v1_historia_09_gravacao_04_gabriel || está desligado e retirei meu mouse que estava conectado a ele.
+script_v1_historia_09_gravacao_06_gabriel || certo. estou pressionando o botão que você sugeriu.
+script_v1_historia_09_gravacao_08_gabriel || sim, vou fazer drenagem.
+script_v1_historia_09_gravacao_10_gabriel || ok, apertei as teclas e digitei o comando. agora abriu a tela de gerenciador de dispositivos.
+script_v1_historia_09_gravacao_12_gabriel || sem problemas, já desliguei o notebook.
+script_v1_historia_09_gravacao_14_gabriel || não, só esse carregador.
+script_v1_historia_09_gravacao_16_gabriel || consegui. apertei as teclas windows e r e depois abriu uma janela com itens, isso está correto?
+script_v1_historia_09_gravacao_18_gabriel || já retirei todos os periféricos do aparelho.
+script_v1_historia_09_gravacao_20_gabriel || já reiniciei o computador, mas só consegui abrir com a senha.
+script_v1_historia_09_gravacao_22_gabriel || entrei no menu e apertei as teclas sugeridas.
+script_v1_historia_09_gravacao_24_gabriel || pronto. escolhi a opção.
+script_v1_historia_09_gravacao_26_gabriel || já fiz o que pediu. e agora?
+script_v1_historia_09_gravacao_28_gabriel || ok, já fiz tudo isso, desliguei e removi tudo o que estava conectado.
+script_v1_historia_09_gravacao_30_gabriel || ok, muito obrigado!
+script_v1_historia_10_gravacao_02_gabriel || estou bem e você? fiz contato por quê meu computador há alguns dias está desligando sozinho não consigo terminar minhas tarefas.
+script_v1_historia_10_gravacao_04_gabriel || não. como fazer o teste?
+script_v1_historia_10_gravacao_06_gabriel || estou bem obrigada. meu aparelho não está conectando com o bluetooth.
+script_v1_historia_10_gravacao_08_gabriel || tirei da tomada, e está desligado.
+script_v1_historia_10_gravacao_10_gabriel || ok! desliguei o aparelho e retirei todos os periféricos.
+script_v1_historia_10_gravacao_12_gabriel || pronto. desliguei o notebook e retirei os periféricos. e agora?
+script_v1_historia_10_gravacao_14_gabriel || não sei entrar na bios.
+script_v1_historia_10_gravacao_16_gabriel || consegui entrar nas configurações de privacidade e mudar para ativada, mas a webcam continua desligada.
+script_v1_historia_10_gravacao_18_gabriel || sim, tem janela.
+script_v1_historia_10_gravacao_20_gabriel || certo, desligado.
+script_v1_historia_10_gravacao_22_gabriel || sim, ainda vejo as listras. iguais às que apareceram ontem.
+script_v1_historia_10_gravacao_24_gabriel || ok. agradeço a sua atenção.
+script_v1_historia_11_gravacao_02_gabriel || o teclado funciona mas a tecla de interrogação continua com defeito.
+script_v1_historia_11_gravacao_04_gabriel || que pena, como faço isso?
+script_v1_historia_11_gravacao_06_gabriel || certo. agora já desligado.
+script_v1_historia_11_gravacao_08_gabriel || certo. abri o menu e apertei as teclas que vejo.
+script_v1_historia_11_gravacao_10_gabriel || tá bom, consegui apertar as teclas "windows + r" e digitar o comando que você pediu.
+script_v1_historia_11_gravacao_12_gabriel || estou apertando o botão há alguns segundos já.
+script_v1_historia_11_gravacao_14_gabriel || o teclado funciona mas a tecla de interrogação continua com defeito.
+script_v1_historia_11_gravacao_16_gabriel || certo, como faço para ligar o notebook usando o botão recovery?
+script_v1_historia_11_gravacao_18_gabriel || boa noite, meu teclado está com problema na tecla de interrogação, ela está falhando.
+script_v1_historia_11_gravacao_20_gabriel || consegui. apertei as teclas windows e r e depois abriu uma janela com itens, isso está correto?
+script_v1_historia_11_gravacao_22_gabriel || certo, o equipamento está desligado e retirei o mouse e o teclado, não uso outros periféricos.
+script_v1_historia_11_gravacao_24_gabriel || escolhi a opção sugerida.
+script_v1_historia_11_gravacao_26_gabriel || obrigado!
+script_v1_historia_12_gravacao_02_gabriel || estou bem. o problema é com meu teclado. estava funcionando bem até ontem mas hoje a tecla caps lock não funciona.
+script_v1_historia_12_gravacao_04_gabriel || ok. vou aceitar a explicação que você sugerir.
+script_v1_historia_12_gravacao_06_gabriel || vamos ver, abriu a janela depois que apertei as teclas.
+script_v1_historia_12_gravacao_08_gabriel || certo, encontrei "teclado".
+script_v1_historia_12_gravacao_10_gabriel || ok, apertei as teclas e digitei o comando. agora abriu a tela de gerenciador de dispositivos.
+script_v1_historia_12_gravacao_12_gabriel || ok, vou esperar meu notebook ligar.
+script_v1_historia_12_gravacao_14_gabriel || não, continua com o mesmo problema.
+script_v1_historia_12_gravacao_16_gabriel || o que preciso fazer para enviar meu notebook para a fábrica?
+script_v1_historia_12_gravacao_18_gabriel || certo. muito obrigado!
+script_v1_historia_13_gravacao_02_gabriel || estou bem. o problema é com meu teclado. estava funcionando bem até ontem mas hoje a tecla caps lock não funciona.
+script_v1_historia_13_gravacao_04_gabriel || isso demora muito? se precisar, pode ser. vamos instalar o driver de vídeo.
+script_v1_historia_13_gravacao_06_gabriel || vou avaliar sim, até mais.
+script_v1_historia_13_gravacao_08_gabriel || ok, já fiz tudo isso, desliguei e removi tudo o que estava conectado.
+script_v1_historia_13_gravacao_10_gabriel || deixa eu ver vou lá no menu iniciar e farei o que pediu.
+script_v1_historia_13_gravacao_12_gabriel || certo. vou fazer a verificação de erros no sistema.
+script_v1_historia_13_gravacao_14_gabriel || ok, o menu apareceu.
+script_v1_historia_13_gravacao_16_gabriel || escolhi o que sugeriu.
+script_v1_historia_13_gravacao_18_gabriel || as teclas voltaram a funcionar normalmente.
+script_v1_historia_13_gravacao_20_gabriel || apertei as teclas e digitei a palavra.
+script_v1_historia_13_gravacao_22_gabriel || consegui. digitei devmgmt.msc e teclei enter, agora pode continuar nos passos.
+script_v1_historia_13_gravacao_24_gabriel || fui até o canto inferior direito da área de trabalho e cliquei em notificações.
+script_v1_historia_13_gravacao_26_gabriel || ok. vou esperar.
+script_v1_historia_13_gravacao_28_gabriel || sim, agora está funcionando.
+script_v1_historia_13_gravacao_30_gabriel || ok. obrigado.
+script_v1_historia_14_gravacao_02_gabriel || oi, tudo bem. tenho um problema na tecla 8 do meu teclado. ela está digitando sozinha.
+script_v1_historia_14_gravacao_04_gabriel || o que preciso fazer para enviar meu notebook para a fábrica?
+script_v1_historia_14_gravacao_06_gabriel || ok. vou aceitar a explicação que você sugerir.
+script_v1_historia_14_gravacao_08_gabriel || certo. desliguei o meu computador.
+script_v1_historia_14_gravacao_10_gabriel || como já falei é um notebook.
+script_v1_historia_14_gravacao_12_gabriel || apertei várias vezes a tecla que você falou.
+script_v1_historia_14_gravacao_14_gabriel || escolhi o que sugeriu.
+script_v1_historia_14_gravacao_16_gabriel || sim, tem energia elétrica no lugar.
+script_v1_historia_14_gravacao_18_gabriel || o teclado funciona mas a tecla de interrogação continua com defeito.
+script_v1_historia_14_gravacao_20_gabriel || ok. vou apertar as teclas sugeridas.
+script_v1_historia_14_gravacao_22_gabriel || estou apertando o botão há alguns segundos já.
+script_v1_historia_14_gravacao_24_gabriel || apertei as teclas que você disse e apareceu no monitor uma tela, precisa digitar algo, é isso mesmo?
+script_v1_historia_14_gravacao_26_gabriel || certo. cliquei em "desinstalar dispositivo".
+script_v1_historia_14_gravacao_28_gabriel || certo, vou esperar.
+script_v1_historia_14_gravacao_30_gabriel || sim, meu teclado funciona.
+script_v1_historia_14_gravacao_32_gabriel || ok. obrigado.
+script_v1_historia_15_gravacao_02_gabriel || oi, tudo bem. tenho um problema no meu teclado. algumas teclas estão invertidas.
+script_v1_historia_15_gravacao_04_gabriel || ok. o que preciso fazer?
+script_v1_historia_15_gravacao_06_gabriel || meu equipamento é um notebook.
+script_v1_historia_15_gravacao_08_gabriel || ok. vou apertar as teclas sugeridas.
+script_v1_historia_15_gravacao_10_gabriel || pronto. já fiz o que me pediu, pressionei as teclas e digitei o comando.
+script_v1_historia_15_gravacao_12_gabriel || eu não tenho outro monitor.
+script_v1_historia_15_gravacao_14_gabriel || certo. vou fazer a verificação de erros no sistema.
+script_v1_historia_15_gravacao_16_gabriel || certo, vou esperar.
+script_v1_historia_15_gravacao_18_gabriel || sim é um notebook, possui as luzes acesas.
+script_v1_historia_15_gravacao_20_gabriel || ok. obrigado.
+script_v1_historia_16_gravacao_02_gabriel || estou bem. o problema é com meu teclado. estava funcionando bem até ontem mas hoje a tecla caps lock não funciona.
+script_v1_historia_16_gravacao_04_gabriel || o meu computador está desligado.
+script_v1_historia_16_gravacao_06_gabriel || o que mais preciso fazer?
+script_v1_historia_16_gravacao_08_gabriel || ok. vou aceitar a explicação que você sugerir.
+script_v1_historia_16_gravacao_10_gabriel || o meu equipamento é um notebook.
+script_v1_historia_16_gravacao_12_gabriel || ok, vou esperar meu notebook ligar.
+script_v1_historia_16_gravacao_14_gabriel || estou apertando o botão há alguns segundos já.
+script_v1_historia_16_gravacao_16_gabriel || apertei as teclas pedidas, mas a minha webcam ainda não funcionou.
+script_v1_historia_16_gravacao_18_gabriel || sim, pode fazer drenagem.
+script_v1_historia_16_gravacao_20_gabriel || ok. vou apertar as teclas sugeridas.
+script_v1_historia_16_gravacao_22_gabriel || certo, apertei as teclas.
+script_v1_historia_16_gravacao_24_gabriel || apertei as teclas pedidas, mas a minha webcam ainda não funcionou.
+script_v1_historia_16_gravacao_26_gabriel || certo. estou pressionando o botão que você sugeriu.
+script_v1_historia_16_gravacao_28_gabriel || certo, vou esperar.
+script_v1_historia_16_gravacao_30_gabriel || ok, as teclas funcionam normalmente.
+script_v1_historia_16_gravacao_32_gabriel || vou sim! obrigada
+script_v1_historia_17_gravacao_02_gabriel || estou bem, obrigado. então, meu aparelho está aparecendo tela azul e depois para de funcionar.
+script_v1_historia_17_gravacao_04_gabriel || está ligando de novo e o problema do touchscreen continua, acho que é defeito de fábrica.
+script_v1_historia_17_gravacao_06_gabriel || o touchpad ainda não tem movimento.
+script_v1_historia_17_gravacao_08_gabriel || certo. vou ver.
+script_v1_historia_17_gravacao_10_gabriel || consegui. fiz igual o que me ensinou.
+script_v1_historia_17_gravacao_12_gabriel || ok, cliquei para desligar e retirei tudo que estava conectado ao computador.
+script_v1_historia_17_gravacao_14_gabriel || procurei pela palavra-chave webcam e consegui entrar no aplicativo nativo. mas, não tem nenhuma imagem.
+script_v1_historia_17_gravacao_16_gabriel || não, não tem led aceso.
+script_v1_historia_17_gravacao_18_gabriel || ok. vou continuar usando, e ver se o problema volta.
+script_v1_historia_17_gravacao_20_gabriel || ok. muito obrigado por me ajudar
+script_v1_historia_18_gravacao_02_gabriel || ele sempre desliga antes de iniciar o windows.
+script_v1_historia_18_gravacao_04_gabriel || certo, fiz o que me pediu. encontrei "dispositivos de interface humana", e desinstalei "tela touch compatível com hid".
+script_v1_historia_18_gravacao_06_gabriel || ok. apertei as teclas sugeridas.
+script_v1_historia_18_gravacao_08_gabriel || ele sempre desliga antes de iniciar o windows.
+script_v1_historia_18_gravacao_10_gabriel || ok, o menu apareceu.
+script_v1_historia_18_gravacao_12_gabriel || não tenho outro aparelho ligado. o notebook já desligou.
+script_v1_historia_18_gravacao_14_gabriel || certo, vou responder à pesquisa de satisfação. muito obrigado!
+script_v1_historia_18_gravacao_16_gabriel || o teclado funciona mas a tecla de interrogação continua com defeito.
+script_v1_historia_18_gravacao_18_gabriel || certo, o que preciso fazer nesse momento?
+script_v1_historia_18_gravacao_20_gabriel || claro, podemos. vamos instalar de novo o driver de vídeo.
+script_v1_historia_18_gravacao_22_gabriel || ok. obrigado.
+script_v1_historia_19_gravacao_02_gabriel || estou bem. o problema é com meu teclado. estava funcionando bem até ontem mas hoje a tecla caps lock não funciona.
+script_v1_historia_19_gravacao_04_gabriel || certo, o que preciso fazer nesse momento?
+script_v1_historia_19_gravacao_06_gabriel || certo. já entrei e abri aqui. o que digito?
+script_v1_historia_19_gravacao_08_gabriel || consegui. digitei devmgmt.msc e teclei enter, agora pode continuar nos passos.
+script_v1_historia_19_gravacao_10_gabriel || eu não tenho um teclado e um mouse, precisa?
+script_v1_historia_19_gravacao_12_gabriel || o teclado funciona mas a tecla de interrogação continua com defeito.
+script_v1_historia_19_gravacao_14_gabriel || que pena, como faço isso?
+script_v1_historia_19_gravacao_16_gabriel || consegui entrar no site, coloquei os números e agora vou clicar na lupa.
+script_v1_historia_19_gravacao_18_gabriel || entrei nas opções, segui todas as instruções e consegui baixar também.
+script_v1_historia_19_gravacao_20_gabriel || ok. fiz o download dos drivers na ordem sugerida, mas a internet ainda não funciona.
+script_v1_historia_19_gravacao_22_gabriel || fiz o download do driver e instalei. mas, meu problema continua. tem outra coisa para fazer?
+script_v1_historia_19_gravacao_24_gabriel || agradeço o atendimento!
+script_v1_historia_20_gravacao_02_gabriel || escolhi a opção brasil abnt, por que no meu teclado não tem uma tecla ç. a tecla que está com problema, continua ruim.
+script_v1_historia_20_gravacao_04_gabriel || certo. estou pressionando o botão que você sugeriu.
+script_v1_historia_20_gravacao_06_gabriel || escolhi e apaguei todos arquivos mas não mudou. tem algum outro procedimento para fazer?
+script_v1_historia_20_gravacao_08_gabriel || apertei as teclas que você disse e apareceu no monitor uma tela, precisa digitar algo, é isso mesmo?
+script_v1_historia_20_gravacao_10_gabriel || então, ainda não consigo entrar na internet.
+script_v1_historia_20_gravacao_12_gabriel || não sei como fazer para saber dentro das configurações do aplicativo da webcam se a permissão para usar a câmera está ativada.
+script_v1_historia_20_gravacao_14_gabriel || pronto. fiz o que me pediu, clicando no idioma atual, escolhi o que sugeriu e agora, em "adicionar um teclado" abriu uma janela com as listas brasil abnt2 e brasil
+script_v1_historia_20_gravacao_16_gabriel || escolhi brasil abnt2 porque meu teclado tem a tecla ç. antes estava na em abnt. a tecla de interrogação ainda não funciona.
+script_v1_historia_20_gravacao_18_gabriel || apertei as teclas que você disse e apareceu no monitor uma tela, precisa digitar algo, é isso mesmo?
+script_v1_historia_20_gravacao_20_gabriel || não tenho outro monitor para testes. até tenho a tv, mas meu filho está vendo desenho e não vou poder usar agora.
+script_v1_historia_20_gravacao_22_gabriel || encontrei! fui em teclado e depois para teclado padrão ps/2 e o windows reiniciou depois que eu escolhi desinstalar dispositivo. o que eu faço?
+script_v1_historia_20_gravacao_24_gabriel || desculpe, a tecla de interrogação ainda não funciona. tem algo mais que pode ser feito?
+script_v1_historia_20_gravacao_26_gabriel || certo. obrigado pela ajuda. eu estou triste porque não consegui resolver o problema, mas vou esperar o vídeo.
+script_v1_historia_21_gravacao_02_gabriel || boa tarde. tenho problema no meu teclado. ele não funciona!
+script_v1_historia_21_gravacao_04_gabriel || pronto. desliguei o notebook e retirei os periféricos. e agora?
+script_v1_historia_21_gravacao_06_gabriel || oi. as teclas do meu teclado, as setas cima, baixo, direita e esquerda estão com problema.
+script_v1_historia_21_gravacao_08_gabriel || o teclado funciona mas a tecla de interrogação continua com defeito.
+script_v1_historia_21_gravacao_10_gabriel || certo, o equipamento está desligado e retirei o mouse e o teclado, não uso outros periféricos.
+script_v1_historia_21_gravacao_12_gabriel || fiz isso, mudei as configurações de privacidade para ativar, mas continua sem aparecer a minha imagem.
+script_v1_historia_21_gravacao_14_gabriel || escolhi a opção brasil abnt, por que no meu teclado não tem uma tecla ç. a tecla que está com problema, continua ruim.
+script_v1_historia_21_gravacao_16_gabriel || apertei as teclas que você pediu e abriu aqui o painel de controle.
+script_v1_historia_21_gravacao_18_gabriel || meu teclado tem ç, então escolhi brasil abnt2 por que estava com a opção errada mas a tecla continua com defeito.
+script_v1_historia_21_gravacao_20_gabriel || tirei o mouse e o teclado. o computador já está desligado.
+script_v1_historia_21_gravacao_22_gabriel || certo, apareceu "brasil abnt2" e "brasil abnt." qual posso escolher ?
+script_v1_historia_21_gravacao_24_gabriel || o que tenho que fazer para configurar o idioma nesse momento então?
+script_v1_historia_21_gravacao_26_gabriel || sim, posso avaliar. obrigado por acabar com o problema.
+script_v1_historia_21_gravacao_28_gabriel || sim, vou ajudar vocês, obrigada por terem me ajudado.
+script_v1_historia_22_gravacao_02_gabriel || boa noite, estou bem e você? quero ajuda com o teclado, eu digito uma letra ou número mas não aparece o que eu quero.
+script_v1_historia_22_gravacao_04_gabriel || o meu computador é desktop.
+script_v1_historia_22_gravacao_06_gabriel || fiz o download do driver e instalei. mas, meu problema continua. tem outra coisa para fazer?
+script_v1_historia_22_gravacao_08_gabriel || certo. desliguei meu notebook e retirei tudo que estava conectado a ele.
+script_v1_historia_22_gravacao_10_gabriel || certo, vou apertar as teclas.
+script_v1_historia_22_gravacao_12_gabriel || apertei o clipe de papel no buraquinho da lateral do notebook e apertei por alguns segundos até aparecer o menu. e agora?
+script_v1_historia_22_gravacao_14_gabriel || oi. eu comprei a pouco tempo um notebook com touchscreen, mas eu toco na tela e ela não responde. o que eu posso fazer?
+script_v1_historia_22_gravacao_16_gabriel || ok, obrigado. ficarei esperando a mensagem. agora não preciso de mais ajuda.
+script_v1_historia_23_gravacao_02_gabriel || oi, estou bem e você? fiz contato por quê meu computador há alguns dias está desligando sozinho não consigo terminar minhas tarefas.
+script_v1_historia_23_gravacao_04_gabriel || apertei as teclas que você disse e apareceu no monitor uma tela, precisa digitar algo, é isso mesmo?
+script_v1_historia_23_gravacao_06_gabriel || encontrei! fui em teclado e depois para teclado padrão ps/2 e o windows reiniciou depois que eu escolhi desinstalar dispositivo. o que eu faço?
+script_v1_historia_23_gravacao_08_gabriel || o mouse usb funciona, mas pelo touchpad não.
+script_v1_historia_23_gravacao_10_gabriel || certo. encontrei no canto inferior da sua área de trabalho perto das informações de data hora e clima.
+script_v1_historia_23_gravacao_12_gabriel || pronto. o download finalizou e fiz a instalação do driver. meu touchscreen parece que funcionou! muito obrigada!
+script_v1_historia_23_gravacao_14_gabriel || escolhi a aba e cliquei em enter.
+script_v1_historia_24_gravacao_02_gabriel || não tem outras peças conectadas nele.
+script_v1_historia_24_gravacao_04_gabriel || tudo bem. o que preciso fazer para ligar a webcam?
+script_v1_historia_24_gravacao_06_gabriel || apertei as teclas pedidas, mas a minha webcam ainda não funcionou.
+script_v1_historia_24_gravacao_08_gabriel || não sei como fazer para saber dentro das configurações do aplicativo da webcam se a permissão para usar a câmera está ativada.
+script_v1_historia_24_gravacao_10_gabriel || escolhi brasil abnt2 porque meu teclado tem a tecla ç. antes estava na em abnt. a tecla de interrogação ainda não funciona.
+script_v1_historia_24_gravacao_12_gabriel || sim, preciso muito dessas teclas para terminar um trabalho.
+script_v1_historia_24_gravacao_14_gabriel || pronto. desliguei o notebook e retirei os periféricos. e agora?
+script_v1_historia_24_gravacao_16_gabriel || apertei a tecla windows e acessei configurações. cheguei no idioma mas a tecla continua com problema.
+script_v1_historia_24_gravacao_18_gabriel || isso demora muito? se precisar, pode ser. vamos instalar o driver de vídeo.
+script_v1_historia_24_gravacao_20_gabriel || encontrei bios setup na tela e consegui entrar usando as teclas para cima e para baixo.
+script_v1_historia_24_gravacao_22_gabriel || acessei o site de suporte da lenovo e localizei o equipamento.
+script_v1_historia_24_gravacao_24_gabriel || fiz isso, mudei as configurações de privacidade para ativar, mas continua sem aparecer a minha imagem.
+script_v1_historia_24_gravacao_26_gabriel || apertei as teclas que você disse e apareceu no monitor uma tela, precisa digitar algo, é isso mesmo?
+script_v1_historia_24_gravacao_28_gabriel || eu fiz o que me falou, mas não funcionou, o computador continua ligado.
+script_v1_historia_24_gravacao_30_gabriel || como faço o envio do notebook para a fábrica?
+script_v1_historia_24_gravacao_32_gabriel || certo, novamente obrigado!
+script_v1_historia_25_gravacao_02_gabriel || tudo bem e você? não consigo usar o wifi em meu notebook.
+script_v1_historia_25_gravacao_04_gabriel || tem algumas luzes led acesas no notebook sim.
+script_v1_historia_25_gravacao_06_gabriel || sim, tenho um monitor externo que dá para fazer testes.
+script_v1_historia_25_gravacao_08_gabriel || pronto. desliguei o computador e retirei o cabo de energia da tomada.
+script_v1_historia_25_gravacao_10_gabriel || apertei as teclas que você disse e apareceu no monitor uma tela, precisa digitar algo, é isso mesmo?
+script_v1_historia_25_gravacao_12_gabriel || ok! muito obrigado!
+script_v2_historia_01_gravacao_02_gabriel || oi, estou bem e você? fiz contato por quê meu computador há alguns dias está desligando sozinho não consigo terminar minhas tarefas.
+script_v2_historia_01_gravacao_04_gabriel || não tenho outro monitor que possa usar para testar.
+script_v2_historia_01_gravacao_06_gabriel || não tenho o cabo hdmi e nem a televisão.
+script_v2_historia_01_gravacao_08_gabriel || ok. já liguei.
+script_v2_historia_01_gravacao_10_gabriel || o meu computador está desligado.
+script_v2_historia_01_gravacao_12_gabriel || sim, pode fazer drenagem.
+script_v2_historia_01_gravacao_14_gabriel || ok, cliquei para desligar e retirei tudo que estava conectado ao computador.
+script_v2_historia_01_gravacao_16_gabriel || certo. vou fazer a verificação de erros no sistema.
+script_v2_historia_01_gravacao_18_gabriel || a tela continua preta.
+script_v2_historia_01_gravacao_20_gabriel || agradeço o atendimento!
+script_v2_historia_02_gravacao_02_gabriel || tudo bem e você? não consigo usar o wifi em meu notebook.
+script_v2_historia_02_gravacao_04_gabriel || não, a bateria do notebook ainda não carrega.
+script_v2_historia_02_gravacao_06_gabriel || sim, energia funciona normal.
+script_v2_historia_02_gravacao_08_gabriel || sim, já testei outros aparelhos em outras tomadas, e funciona normal.
+script_v2_historia_02_gravacao_10_gabriel || ok, já fiz tudo isso, desliguei e removi tudo o que estava conectado.
+script_v2_historia_02_gravacao_12_gabriel || sim, tem asteriscos aparecendo.
+script_v2_historia_02_gravacao_14_gabriel || até agora a bateria não funciona.
+script_v2_historia_02_gravacao_16_gabriel || não. eu não tenho um kit teclado ou mouse conectado ao meu computador.
+script_v2_historia_02_gravacao_18_gabriel || só um pendrive. já removi.
+script_v2_historia_02_gravacao_20_gabriel || e depois que descarregar?
+script_v2_historia_02_gravacao_22_gabriel || muito bom, vou esperar.
+script_v2_historia_03_gravacao_02_gabriel || tudo bem. sim. o problema é com o leitor biométrico dele.
+script_v2_historia_03_gravacao_04_gabriel || o touchpad ainda não funciona.
+script_v2_historia_03_gravacao_06_gabriel || o touchpad ainda não funciona.
+script_v2_historia_03_gravacao_08_gabriel || certo. desliguei meu notebook e retirei tudo que estava conectado a ele. e agora?
+script_v2_historia_03_gravacao_10_gabriel || ok. fiz o que pediu, cliquei em "desinstalar dispositivo".
+script_v2_historia_03_gravacao_12_gabriel || o touchpad ainda não funciona.
+script_v2_historia_03_gravacao_14_gabriel || consegui entrar no site, coloquei os números e agora vou clicar na lupa.
+script_v2_historia_03_gravacao_16_gabriel || a seta do mouse pelo touchpad não está se mexendo.
+script_v2_historia_03_gravacao_18_gabriel || certo. estou pressionando o botão que você sugeriu.
+script_v2_historia_03_gravacao_20_gabriel || cliquei em mouse e em restaurar as configurações padrão. mas, o touchpad não funciona.
+script_v2_historia_03_gravacao_22_gabriel || que alívio. agradeço muito! vou esperar o vídeo no meu celular.
+script_v2_historia_04_gravacao_02_gabriel || não uso o wifi, estou usando o cabo, mas a internet não liga.
+script_v2_historia_04_gravacao_04_gabriel || só tenho um carregador. não possuo outro carregador compatível.
+script_v2_historia_04_gravacao_06_gabriel || abri o site da lenovo.
+script_v2_historia_04_gravacao_08_gabriel || pronto. já entrei na bios. e agora?
+script_v2_historia_04_gravacao_10_gabriel || o meu sistema operacional de fábrica é original e não foi falsificado.
+script_v2_historia_04_gravacao_12_gabriel || certo, instalei de novo o driver.
+script_v2_historia_04_gravacao_14_gabriel || ok, mudei a conexão do wifi para o cabo.
+script_v2_historia_04_gravacao_16_gabriel || o que preciso fazer para enviar meu notebook para a fábrica?
+script_v2_historia_04_gravacao_18_gabriel || certo. muito obrigado pela ajuda!
+script_v2_historia_05_gravacao_02_gabriel || tudo bem, vou fazer aqui.
+script_v2_historia_05_gravacao_04_gabriel || certo vou apertar as teclas alt+f4.
+script_v2_historia_05_gravacao_06_gabriel || entendi, já conectei o cabo e estou abrindo o navegador.
+script_v2_historia_05_gravacao_08_gabriel || ok, apertei as teclas e já digitei a palavra.
+script_v2_historia_05_gravacao_10_gabriel || consegui. ela ficou destacada e apertei em enter.
+script_v2_historia_05_gravacao_12_gabriel || minha máquina é um notebook.
+script_v2_historia_05_gravacao_14_gabriel || eu ainda não consigo entrar na internet mesmo depois de tentar em outro wifi.
+script_v2_historia_05_gravacao_16_gabriel || ok, vou avaliar de forma positiva, e claro.
+script_v2_historia_05_gravacao_18_gabriel || pronto, abri o site da marca da lenovo e coloquei o número de série do aparelho.
+script_v2_historia_05_gravacao_20_gabriel || no aplicativo da câmera? não sei como saber dentro das configurações se a permissão da câmera está ativada.
+script_v2_historia_05_gravacao_22_gabriel || ok! muito obrigado!
+script_v2_historia_06_gravacao_02_gabriel || oi, tudo joia. sim, o teclado parou de funcionar e não sei como consertar.
+script_v2_historia_06_gravacao_04_gabriel || sim, o sistema operacional está atualizado, acredito que tudo está certo.
+script_v2_historia_06_gravacao_06_gabriel || tirei da tomada, e está desligado.
+script_v2_historia_06_gravacao_08_gabriel || então, não tenho outro carregador. só tenho esse mesmo.
+script_v2_historia_06_gravacao_10_gabriel || consegui. apertei as teclas e digitei o comando.
+script_v2_historia_06_gravacao_12_gabriel || certo, encontrei "teclado".
+script_v2_historia_06_gravacao_14_gabriel || eu acho que deu certo, escolhi e apaguei tudo.
+script_v2_historia_06_gravacao_16_gabriel || o teclado infelizmente ainda não, mas consegui ligar o notebook conectando a fonte na tomada.
+script_v2_historia_06_gravacao_18_gabriel || então, não tenho outro carregador. só tenho esse mesmo.
+script_v2_historia_06_gravacao_20_gabriel || acessei o site de suporte da lenovo e localizei o equipamento.
+script_v2_historia_06_gravacao_22_gabriel || já baixei o driver e fiz a instalação, mas o leitor biométrico continua ruim e não funciona. o que me ajudaria a solucionar esse problema?
+script_v2_historia_06_gravacao_24_gabriel || como funciona o preenchimento da pesquisa de satisfação?
+script_v2_historia_06_gravacao_26_gabriel || tudo bem. se precisar vou enviar para a fábrica, obrigada pela ajuda!
+script_v2_historia_07_gravacao_02_gabriel || oi, boa tarde! tudo certo com você? pode me ajudar com meu notebook, a tela dele está piscando.
+script_v2_historia_07_gravacao_04_gabriel || desculpe, eu não tenho outro dispositivo para usar.
+script_v2_historia_07_gravacao_06_gabriel || tudo bem, mas se ele continuar ligado?
+script_v2_historia_07_gravacao_08_gabriel || sim, minha biometria já está salva e organizada.
+script_v2_historia_07_gravacao_10_gabriel || certo. o que faço depois que ela descarregar?
+script_v2_historia_07_gravacao_12_gabriel || o meu equipamento é um notebook.
+script_v2_historia_07_gravacao_14_gabriel || já fiz. preciso desinstalar outra coisa?
+script_v2_historia_07_gravacao_16_gabriel || então, não tenho outro carregador. só tenho esse mesmo.
+script_v2_historia_07_gravacao_18_gabriel || ele sempre desliga antes de iniciar o windows.
+script_v2_historia_07_gravacao_20_gabriel || claro, podemos. vamos instalar de novo o driver de vídeo.
+script_v2_historia_07_gravacao_22_gabriel || estou bem, obrigado. então, meu aparelho está aparecendo tela azul e depois para de funcionar.
+script_v2_historia_07_gravacao_24_gabriel || entendi, fiz o que você pediu com um clipe de papel que tinha aqui perto, apertei por poucos segundos e já apareceu o menu.
+script_v2_historia_07_gravacao_26_gabriel || encontrei a placa de vídeo integrada.
+script_v2_historia_07_gravacao_28_gabriel || entendi. agora apertei sobre o nome da placa de vídeo e escolhi essa opção "desinstalar".
+script_v2_historia_07_gravacao_30_gabriel || fiz o download do driver e instalei. mas, meu problema continua. tem outra coisa para fazer?
+script_v2_historia_07_gravacao_32_gabriel || sim, preciso muito dessas teclas para terminar um trabalho.
+script_v2_historia_07_gravacao_34_gabriel || sim, consegui abrir o gerenciador de dispositivos. o que faço agora?
+script_v2_historia_08_gravacao_02_gabriel || ok! desliguei o aparelho e retirei todos os periféricos.
+script_v2_historia_08_gravacao_04_gabriel || acessei o gerenciador de tarefas e cliquei em "teclado".
+script_v2_historia_08_gravacao_06_gabriel || não tenho outro monitor para fazer o teste.
+script_v2_historia_08_gravacao_08_gabriel || testei o meu notebook em outras tomadas mas nenhuma funcionou.
+script_v2_historia_08_gravacao_10_gabriel || esse modelo aqui não tem como tirar, só com chave. a bateria é dentro.
+script_v2_historia_08_gravacao_12_gabriel || que chato hein? como vou fazer ? vocês me ajudam?
+script_v2_historia_08_gravacao_14_gabriel || certo.fiz o que me pediu e apertei em "desinstalar dispositivo". o que preciso fazer agora?
+script_v2_historia_08_gravacao_16_gabriel || certo. escolhi a opção mouse e restaurei as configurações padrões, mas o touchpad não funciona.
+script_v2_historia_08_gravacao_18_gabriel || tudo bem e você? ele está ficando com a luz azul isso acontece quando fica ligado.
+script_v2_historia_08_gravacao_20_gabriel || apertei as teclas que você disse e apareceu no monitor uma tela, precisa digitar algo, é isso mesmo?
+script_v2_historia_08_gravacao_22_gabriel || pronto. já escolhi a opção.
+script_v2_historia_08_gravacao_24_gabriel || o que tenho hdmi e nem a televisão.
+script_v2_historia_08_gravacao_26_gabriel || apertei as teclas sugeridas e digitei a palavra.
+script_v2_historia_08_gravacao_28_gabriel || bom, eu não sei fazer. como posso instalar o driver?
+script_v2_historia_08_gravacao_30_gabriel || certo, novamente obrigado!
+script_v2_historia_09_gravacao_02_gabriel || se não tem outro jeito, então tudo bem! eu espero o vídeo no meu celular.
+script_v2_historia_09_gravacao_04_gabriel || isso, meu aparelho é um notebook. comprei para minha filha mas está no meu nome.
+script_v2_historia_09_gravacao_06_gabriel || entendi. só tinha um mouse conectado no usb mas já tirei.
+script_v2_historia_09_gravacao_08_gabriel || têm, apareceu a janela. mas o que eu faço?
+script_v2_historia_09_gravacao_10_gabriel || entendi, já conectei o cabo e estou abrindo o navegador.
+script_v2_historia_09_gravacao_12_gabriel || pronto! o que posso fazer depois de apertar essas teclas?
+script_v2_historia_09_gravacao_14_gabriel || desculpe mas não. continua devagar.
+script_v2_historia_09_gravacao_16_gabriel || então, ainda não. fiz o que pediu mas ele continua ligado, não mudou nada.
+script_v2_historia_09_gravacao_18_gabriel || já digitei, abriu a janela e com mais um monte de arquivos e pastas.
+script_v2_historia_09_gravacao_20_gabriel || já apaguei tudo. pode testar de novo?
+script_v2_historia_09_gravacao_22_gabriel || está aparecendo as mesmas informações do outro aparelho.
+script_v2_historia_09_gravacao_24_gabriel || tudo bem, apertei as teclas e o símbolo "*" apareceu. as teclas voltaram a funcionar. deu certo?
+script_v2_historia_09_gravacao_26_gabriel || a bateria está em 50% agora.
+script_v2_historia_09_gravacao_28_gabriel || já baixei o driver e fiz a instalação, mas o leitor biométrico continua ruim e não funciona. o que me ajudaria a solucionar esse problema?
+script_v2_historia_09_gravacao_30_gabriel || ok. obrigado pela atenção.
+script_v2_historia_10_gravacao_02_gabriel || tudo bem e você? ele está ficando com a luz azul isso acontece quando fica ligado.
+script_v2_historia_10_gravacao_04_gabriel || não sei como fazer. como faço a drenagem de energia e teste da bios?
+script_v2_historia_10_gravacao_06_gabriel || o meu não é esse, é outro modelo.
+script_v2_historia_10_gravacao_08_gabriel || já está desligado o aparelho.
+script_v2_historia_10_gravacao_10_gabriel || pronto. removi os periféricos do equipamento.
+script_v2_historia_10_gravacao_12_gabriel || tirei o mouse e o teclado. o computador já está desligado.
+script_v2_historia_10_gravacao_14_gabriel || não sei o que é bios.
+script_v2_historia_10_gravacao_16_gabriel || escolhi o que sugeriu.
+script_v2_historia_10_gravacao_18_gabriel || encontrei, já escolhi a opção.
+script_v2_historia_10_gravacao_20_gabriel || fui até o canto inferior direito da área de trabalho e cliquei em notificações.
+script_v2_historia_10_gravacao_22_gabriel || a tela continua preta.
+script_v2_historia_10_gravacao_24_gabriel || ok. muito obrigado por me ajudar
+script_v2_historia_11_gravacao_02_gabriel || tudo bem! meu teclado não funciona corretamente.
+script_v2_historia_11_gravacao_04_gabriel || certo, como faço para ligar o notebook usando o botão recovery?
+script_v2_historia_11_gravacao_06_gabriel || certo. agora já desligado.
+script_v2_historia_11_gravacao_08_gabriel || ela está do mesmo jeito.
+script_v2_historia_11_gravacao_10_gabriel || feito. abri o site da lenovo e digitei o número de série do equipamento.
+script_v2_historia_11_gravacao_12_gabriel || pronto. já entrei na bios. e agora?
+script_v2_historia_11_gravacao_14_gabriel || sim, apertei as teclas windows e r e estou vendo. o que coloco na caixa?
+script_v2_historia_11_gravacao_16_gabriel || certo, como faço para ligar o notebook usando o botão recovery?
+script_v2_historia_11_gravacao_18_gabriel || eu fiz o que me falou, mas não funcionou, o computador continua ligado.
+script_v2_historia_11_gravacao_20_gabriel || consegui abrir gerenciador de dispositivos certo?
+script_v2_historia_11_gravacao_22_gabriel || claro, pressionei as teclas.
+script_v2_historia_11_gravacao_24_gabriel || sim, parece que sim. voltou a funcionar. obrigado!
+script_v2_historia_11_gravacao_26_gabriel || certo. muito obrigado!
+script_v2_historia_12_gravacao_02_gabriel || estou bem. o problema é com meu teclado. estava funcionando bem até ontem mas hoje a tecla caps lock não funciona.
+script_v2_historia_12_gravacao_04_gabriel || ok, vou fazer os procedimentos. podemos começar.
+script_v2_historia_12_gravacao_06_gabriel || tá bom, eu digitei as informações que me passou.
+script_v2_historia_12_gravacao_08_gabriel || certo. encontrei no canto inferior da sua área de trabalho perto das informações de data hora e clima.
+script_v2_historia_12_gravacao_10_gabriel || beleza, escolhi essa opção. vamos ver se dá certo.
+script_v2_historia_12_gravacao_12_gabriel || certo. vou fazer a verificação de erros no sistema.
+script_v2_historia_12_gravacao_14_gabriel || sim, continua com o mesmo problema.
+script_v2_historia_12_gravacao_16_gabriel || como faço para arrumar o idioma do teclado?
+script_v2_historia_12_gravacao_18_gabriel || entendi, obrigada pela vontade de ajudar.
+script_v2_historia_13_gravacao_02_gabriel || boa noite,tudo bem. bom, o problema está nas teclas de direção.
+script_v2_historia_13_gravacao_04_gabriel || ok, como faço para arrumar o idioma do teclado?
+script_v2_historia_13_gravacao_06_gabriel || pronto. os arquivos foram escolhidos e apagados.
+script_v2_historia_13_gravacao_08_gabriel || certo. desliguei meu computador.
+script_v2_historia_13_gravacao_10_gabriel || minha máquina é um notebook.
+script_v2_historia_13_gravacao_12_gabriel || ok, já fiz tudo isso, desliguei e removi tudo o que estava conectado.
+script_v2_historia_13_gravacao_14_gabriel || sim, ele funciona normalmente. o notebook está ligando pelo botão que liga.
+script_v2_historia_13_gravacao_16_gabriel || então, você pode primeiro apertar as teclas "windows + r" e digitar devmgmt.msc, depois vai abrir o gerenciador de dispositivos. deu certo?
+script_v2_historia_13_gravacao_18_gabriel || certo vou apertar as teclas alt+f4.
+script_v2_historia_13_gravacao_20_gabriel || tá bom, fiz tudo como falou e só uma vez.
+script_v2_historia_13_gravacao_22_gabriel || certo. abri o menu e apertei as teclas que vejo.
+script_v2_historia_13_gravacao_24_gabriel || certo. fiz o que sugeriu, apertei e apareceu "menu". *aio e desktop.
+script_v2_historia_13_gravacao_26_gabriel || certo, vou esperar.
+script_v2_historia_13_gravacao_28_gabriel || sim, agora voltou a funcionar a tecla 8.
+script_v2_historia_13_gravacao_30_gabriel || sim, vou ajudar vocês, obrigada por terem me ajudado.
+script_v2_historia_14_gravacao_02_gabriel || consegui. apertei o botão e entrei no "menu". o que preciso agora?
+script_v2_historia_14_gravacao_04_gabriel || sim, preciso muito dessas teclas para terminar um trabalho.
+script_v2_historia_14_gravacao_06_gabriel || claro, se for para consertar.
+script_v2_historia_14_gravacao_08_gabriel || consegui. desliguei o computador.
+script_v2_historia_14_gravacao_10_gabriel || minha máquina é um notebook.
+script_v2_historia_14_gravacao_12_gabriel || apertei a tecla windows + r.
+script_v2_historia_14_gravacao_14_gabriel || pronto, cliquei na opção.
+script_v2_historia_14_gravacao_16_gabriel || fiz o procedimento e está dando certo.
+script_v2_historia_14_gravacao_18_gabriel || apertei a tecla defeituosa e apareceram os símbolos!
+script_v2_historia_14_gravacao_20_gabriel || já desliguei o meu computador.
+script_v2_historia_14_gravacao_22_gabriel || já fiz o que me pediu, pressionei as teclas e digitei o comando.
+script_v2_historia_14_gravacao_24_gabriel || certo, encontrei "teclado".
+script_v2_historia_14_gravacao_26_gabriel || fui em teclado e depois em teclado padrão ps/2 e o computador reiniciou. e agora?
+script_v2_historia_14_gravacao_28_gabriel || ok. espera um pouco. pronto. apertei o botão de desligar, contei até 30 e depois soltei.
+script_v2_historia_14_gravacao_30_gabriel || sim, agora voltou a funcionar a tecla 8.
+script_v2_historia_14_gravacao_32_gabriel || claro, se for para consertar.
+script_v2_historia_15_gravacao_02_gabriel || tudo bem! meu teclado não funciona corretamente.
+script_v2_historia_15_gravacao_04_gabriel || ok, como será o teste?
+script_v2_historia_15_gravacao_06_gabriel || meu computador é outro modelo.
+script_v2_historia_15_gravacao_08_gabriel || estou apertando o botão há alguns segundos já.
+script_v2_historia_15_gravacao_10_gabriel || tudo bem. vou esperar.
+script_v2_historia_15_gravacao_12_gabriel || ok, eu já entrei no site da lenovo como você me pediu.
+script_v2_historia_15_gravacao_14_gabriel || já apertei e está aberta a janela do "executar".
+script_v2_historia_15_gravacao_16_gabriel || tudo bem. vou esperar.
+script_v2_historia_15_gravacao_18_gabriel || sim, todas as teclas funcionam normalmente.
+script_v2_historia_15_gravacao_20_gabriel || ok, obrigada.
+script_v2_historia_16_gravacao_02_gabriel || tudo bem. meu problema é com o teclado, algumas teclas estão invertidas.
+script_v2_historia_16_gravacao_04_gabriel || então, não tenho outro carregador. só tenho esse mesmo.
+script_v2_historia_16_gravacao_06_gabriel || o que preciso fazer para enviar meu notebook para a fábrica?
+script_v2_historia_16_gravacao_08_gabriel || certo. agora já desligado.
+script_v2_historia_16_gravacao_10_gabriel || meu equipamento é um notebook.
+script_v2_historia_16_gravacao_12_gabriel || já inseri o clipe e apareceu um menu, com várias opções.
+script_v2_historia_16_gravacao_14_gabriel || escolhi a aba e cliquei em enter.
+script_v2_historia_16_gravacao_16_gabriel || cliquei e segurei e já passaram os 30 segundos.
+script_v2_historia_16_gravacao_18_gabriel || certo. abriu.
+script_v2_historia_16_gravacao_20_gabriel || sim, o monitor tem a imagem igual a tela do notebook.
+script_v2_historia_16_gravacao_22_gabriel || já fiz, digitando o que pediu, mas ele continua ligado.
+script_v2_historia_16_gravacao_24_gabriel || abri a página da lenovo e consegui encontrar o aparelho.
+script_v2_historia_16_gravacao_26_gabriel || tudo bem, já fiz o que pediu e já desinstalei o dispositivo.
+script_v2_historia_16_gravacao_28_gabriel || tudo bem. vou esperar.
+script_v2_historia_16_gravacao_30_gabriel || escolhi a opção brasil abnt, por que no meu teclado não tem uma tecla ç. a tecla que está com problema, continua ruim.
+script_v2_historia_16_gravacao_32_gabriel || sim, vou ajudar vocês, obrigada por terem me ajudado.
+script_v2_historia_17_gravacao_02_gabriel || tudo bem até agora, eu digitei o comando e apertei o enter.
+script_v2_historia_17_gravacao_04_gabriel || sim, o erro da tela azul sempre acontece e de repente.
+script_v2_historia_17_gravacao_06_gabriel || a seta do mouse pelo touchpad não está se mexendo.
+script_v2_historia_17_gravacao_08_gabriel || tá bom, estou esperando.
+script_v2_historia_17_gravacao_10_gabriel || sim, tenho um monitor externo que dá para fazer testes.
+script_v2_historia_17_gravacao_12_gabriel || já escolhi e apaguei todos os arquivos.
+script_v2_historia_17_gravacao_14_gabriel || sim, eu tenho um teclado e um mouse, precisa?
+script_v2_historia_17_gravacao_16_gabriel || o meu sistema operacional de fábrica é original e não foi falsificado.
+script_v2_historia_17_gravacao_18_gabriel || tudo bem! meu teclado não funciona corretamente.
+script_v2_historia_17_gravacao_20_gabriel || ok! muito obrigado!
+script_v2_historia_18_gravacao_02_gabriel || olá, já fiz várias tentativas mas meu computador não desliga.
+script_v2_historia_18_gravacao_04_gabriel || só tenho um carregador. não possuo outro carregador compatível.
+script_v2_historia_18_gravacao_06_gabriel || certo. vou apertar as teclas sugeridas.
+script_v2_historia_18_gravacao_08_gabriel || sim, continua ligado.
+script_v2_historia_18_gravacao_10_gabriel || ok, apertei as teclas e digitei a palavra.
+script_v2_historia_18_gravacao_12_gabriel || ainda não. fiz o que pediu mas ele continua ligado, não mudou nada.
+script_v2_historia_18_gravacao_14_gabriel || pronto. pesquisei o número de série do notebook.
+script_v2_historia_18_gravacao_16_gabriel || já segurei as teclas e abri a janela.
+script_v2_historia_18_gravacao_18_gabriel || pronto. removi os periféricos do equipamento.
+script_v2_historia_18_gravacao_20_gabriel || desculpe, eu não tenho outro dispositivo para usar.
+script_v2_historia_18_gravacao_22_gabriel || não, era só isso.obrigado. vou esperar o vídeo no celular.
+script_v2_historia_19_gravacao_02_gabriel || estou bem obrigada. meu aparelho não está conectando com o bluetooth.
+script_v2_historia_19_gravacao_04_gabriel || entendi, mas eu não sei como se faz. pode me ajudar?
+script_v2_historia_19_gravacao_06_gabriel || fui até o canto inferior direito e encontrei o ícone, obrigada. já apertei em notificações, o que faço agora?
+script_v2_historia_19_gravacao_08_gabriel || eu cliquei em bluetooth. o que fazer agora?
+script_v2_historia_19_gravacao_10_gabriel || o bluetooth não está ligado, como ativo?
+script_v2_historia_19_gravacao_12_gabriel || eu apertei aqui em bluetooth, continua não funcionando.
+script_v2_historia_19_gravacao_14_gabriel || pode ser, mas eu não sei como fazer.como faço?
+script_v2_historia_19_gravacao_16_gabriel || abri a página da lenovo e consegui encontrar o aparelho.
+script_v2_historia_19_gravacao_18_gabriel || já escolhi o que sugeriu.
+script_v2_historia_19_gravacao_20_gabriel || certo. apertei as teclas e digitei o que foi pedido. também consegui entrar no gerenciador de dispositivos e escolhi a câmera disponível em câmeras. e agora?
+script_v2_historia_19_gravacao_22_gabriel || bom o driver deu certo, consegui instalar. mas o bluetooth continua com problema.
+script_v2_historia_19_gravacao_24_gabriel || certo. muito obrigado!
+script_v2_historia_20_gravacao_02_gabriel || boa noite,tudo bem. bom, o problema está nas teclas de direção.
+script_v2_historia_20_gravacao_04_gabriel || ok. apertei as teclas sugeridas e o sistema abriu.
+script_v2_historia_20_gravacao_06_gabriel || apertei as teclas que você disse e apareceu no monitor uma tela, precisa digitar algo, é isso mesmo?
+script_v2_historia_20_gravacao_08_gabriel || cliquei em teclado padrão ps/2, depois selecionei a opção que você orientou e já ligou o notebook. posso testar a tecla?
+script_v2_historia_20_gravacao_10_gabriel || cliquei em bluetooth, mas não funcionou.
+script_v2_historia_20_gravacao_12_gabriel || não sei como fazer para saber dentro das configurações do aplicativo da webcam se a permissão para usar a câmera está ativada.
+script_v2_historia_20_gravacao_14_gabriel || bom dia. tenho problema no meu teclado. a tecla de interrogação não funciona.
+script_v2_historia_20_gravacao_16_gabriel || meu teclado tem ç, então escolhi brasil abnt2 por que estava com a opção errada mas a tecla continua com defeito.
+script_v2_historia_20_gravacao_18_gabriel || apertei as teclas windows + r e digite o comando e apareceu uma tela com uma lista.
+script_v2_historia_20_gravacao_20_gabriel || sim, digitei o comando e apertei enter. agora tem uma janela com uma lista.
+script_v2_historia_20_gravacao_22_gabriel || ok, cliquei para desligar e retirei tudo que estava conectado ao computador.
+script_v2_historia_20_gravacao_24_gabriel || ok, como faço para arrumar o idioma do teclado?
+script_v2_historia_20_gravacao_26_gabriel || eu acho que deu certo, escolhi e apaguei tudo.
+script_v2_historia_21_gravacao_02_gabriel || oi, estou bem obrigada! bom gostaria de ajuda com o meu teclado, ele parou de funcionar do nada.
+script_v2_historia_21_gravacao_04_gabriel || certo. desliguei meu notebook e retirei tudo que estava conectado a ele.
+script_v2_historia_21_gravacao_06_gabriel || ok, já apertei esc e saí da caixa de senha. e agora?
+script_v2_historia_21_gravacao_08_gabriel || não. consegui ligar o computador conectando a fonte de alimentação na tomada, mas meu teclado não funciona.
+script_v2_historia_21_gravacao_10_gabriel || pronto. já digitei e apareceu a janela.
+script_v2_historia_21_gravacao_12_gabriel || ok, já segurei o botão "power" por mais ou menos 30 segundos. já abriu a área de trabalho.
+script_v2_historia_21_gravacao_14_gabriel || sim, entendi. conseguir usar as teclas e encontrei a opção de bios setup.
+script_v2_historia_21_gravacao_16_gabriel || certo. digitei o comando sugerido mas o computador não desligou.
+script_v2_historia_21_gravacao_18_gabriel || bom, fiz o que pediu digitando as teclas, apareceram símbolos de "*" para mim, mas as teclas estão normais agora.
+script_v2_historia_21_gravacao_20_gabriel || boa tarde. o motivo é que eu comprei o meu aparelho notebook faz pouco tempo, ele é com touchscreen. mas eu toco na tela e nada acontece. como resolver?
+script_v2_historia_21_gravacao_22_gabriel || parece difícil, mas tudo bem. fiz como explicou. apertei junto "windows + r", digitei o que você mencionou e abriu uma janela. encontrei o teclado padrão.
+script_v2_historia_21_gravacao_24_gabriel || eu tinha uma tv com entrada hdmi, mas quebrou.
+script_v2_historia_21_gravacao_26_gabriel || ah, que legal. voltou a funcionar. consigo digitar agora. muito obrigado.
+script_v2_historia_21_gravacao_28_gabriel || aqui aparece que a câmera já está ligada.
+script_v2_historia_22_gravacao_02_gabriel || ok! apertei as teclas e agora o que faço?
+script_v2_historia_22_gravacao_04_gabriel || eu acho que deu certo, escolhi e apaguei tudo.
+script_v2_historia_22_gravacao_06_gabriel || o meu computador é desktop.
+script_v2_historia_22_gravacao_08_gabriel || o que preciso fazer para enviar meu notebook para a fábrica?
+script_v2_historia_22_gravacao_10_gabriel || já fiz o que me pediu, pressionei as teclas e digitei o comando.
+script_v2_historia_22_gravacao_12_gabriel || encontrei um clipe de papel e inseri no buraquinho na lateral do computador e pressionei até aparecer o menu. o que eu faço agora?
+script_v2_historia_22_gravacao_14_gabriel || o teclado infelizmente ainda não, mas consegui ligar o notebook conectando a fonte na tomada.
+script_v2_historia_22_gravacao_16_gabriel || que pena que não conseguimos resolver esse problema mas ficarei esperando o vídeo e enviarei meu computador o mais rápido possível.
+script_v2_historia_23_gravacao_02_gabriel || boa tarde. o motivo é que eu comprei o meu aparelho notebook faz pouco tempo, ele é com touchscreen. mas eu toco na tela e nada acontece. como resolver?
+script_v2_historia_23_gravacao_04_gabriel || vamos ver, abriu a janela depois que apertei as teclas.
+script_v2_historia_23_gravacao_06_gabriel || tá bom, eu desliguei ele, usei os clipe no buraquinho na lateral do equipamento para abrir o menu. acho que funcionou. estou vendo aqui o menu com opções, acho que
+script_v2_historia_23_gravacao_08_gabriel || o erro da tela azul acontece de repente e sempre.
+script_v2_historia_23_gravacao_10_gabriel || comprei um notebook onde posso tocar na tela mas quando toco não acontece nada.
+script_v2_historia_23_gravacao_12_gabriel || pronto. instalei de novo o driver.
+script_v2_historia_23_gravacao_14_gabriel || perfeito, funcionou. estou muito feliz. agradeço muito pela ajuda.
+script_v2_historia_24_gravacao_02_gabriel || olá, eu bem e você? a bateria do meu notebook tem um problema.
+script_v2_historia_24_gravacao_04_gabriel || certo. o que faço depois que ela descarregar?
+script_v2_historia_24_gravacao_06_gabriel || apertei as teclas e digitei a palavra.
+script_v2_historia_24_gravacao_08_gabriel || olá, eu bem e você? a bateria do meu notebook tem um problema.
+script_v2_historia_24_gravacao_10_gabriel || eu acessei a opção sugerida e fiz os downloads necessários.
+script_v2_historia_24_gravacao_12_gabriel || sim, preciso desligar meu aparelho da tomada?
+script_v2_historia_24_gravacao_14_gabriel || certo. desliguei meu notebook e retirei tudo que estava conectado a ele.
+script_v2_historia_24_gravacao_16_gabriel || não, a bateria do notebook ainda não carrega.
+script_v2_historia_24_gravacao_18_gabriel || tudo bem e como fazer esse teste?
+script_v2_historia_24_gravacao_20_gabriel || procurei a palavra-chave webcam e entrei mas não tem nada.
+script_v2_historia_24_gravacao_22_gabriel || pronto. já entrei na bios. e agora?
+script_v2_historia_24_gravacao_24_gabriel || apertei as teclas sugeridas e digitei a palavra.
+script_v2_historia_24_gravacao_26_gabriel || tenho certeza que é original, comprei e comecei a usar.
+script_v2_historia_24_gravacao_28_gabriel || feito. está conectado ao monitor externo, o que deveria acontecer?
+script_v2_historia_24_gravacao_30_gabriel || não é isso. não sei qual é.
+script_v2_historia_24_gravacao_32_gabriel || ok. agradeço a sua atenção.
+script_v2_historia_25_gravacao_02_gabriel || boa noite! tudo bem. bom preciso de ajuda com meu aparelho que foi comprado a pouco tempo e o sistema não inicia. o que posso fazer?
+script_v2_historia_25_gravacao_04_gabriel || sim, o teclado tem leds acesos.
+script_v2_historia_25_gravacao_06_gabriel || fui até o canto inferior direito da área de trabalho e cliquei em notificações.
+script_v2_historia_25_gravacao_08_gabriel || pronto. desliguei o notebook e retirei os periféricos. e agora?
+script_v2_historia_25_gravacao_10_gabriel || apertei a tecla defeituosa e apareceram os símbolos!
+script_v2_historia_25_gravacao_12_gabriel || escolhi a aba e apertei a tecla uma vez.
+script_v3_historia_01_gravacao_02_gabriel || pronto. apertei o botão e consegui entrar no "menu". o que fazer agora?
+script_v3_historia_01_gravacao_04_gabriel || também pensei nisso e até já testei em outras tomadas mas não deu certo.
+script_v3_historia_01_gravacao_06_gabriel || consegui. também digitei o que pediu e abriu uma pasta com vários arquivos. posso apagar tudo também?
+script_v3_historia_01_gravacao_08_gabriel || tudo bem.
+script_v3_historia_01_gravacao_10_gabriel || ela está do mesmo jeito.
+script_v3_historia_01_gravacao_12_gabriel || cliquei com o botão direito e o programa já está salvo aqui. o que mais eu preciso fazer?
+script_v3_historia_01_gravacao_14_gabriel || já retirei todos os periféricos do aparelho.
+script_v3_historia_01_gravacao_16_gabriel || ok, já apertei o botão no tempo que você pediu.
+script_v3_historia_01_gravacao_18_gabriel || tirei da tomada, e está desligado.
+script_v3_historia_01_gravacao_20_gabriel || olá, já fiz várias tentativas mas meu computador não desliga.
+script_v3_historia_02_gravacao_02_gabriel || oi, obrigado. a bateria do meu notebook está com problema.
+script_v3_historia_02_gravacao_04_gabriel || não, a bateria do notebook ainda não carrega.
+script_v3_historia_02_gravacao_06_gabriel || sim, a tomada funciona normal, porque consegui carregar meu celular na mesma tomada.
+script_v3_historia_02_gravacao_08_gabriel || também pensei nisso e até já testei em outras tomadas mas não deu certo.
+script_v3_historia_02_gravacao_10_gabriel || entendi. só tinha um mouse conectado no usb mas já tirei.
+script_v3_historia_02_gravacao_12_gabriel || eu uso cabo da internet, mas minha internet não funciona.
+script_v3_historia_02_gravacao_14_gabriel || a bateria está em 50% agora.
+script_v3_historia_02_gravacao_16_gabriel || então, não tenho outro carregador. só tenho esse mesmo.
+script_v3_historia_02_gravacao_18_gabriel || não, o notebook está na temperatura normal.
+script_v3_historia_02_gravacao_20_gabriel || dá para retirar sim. eu já tinha tentado tirar e colocar de novo, mas não deu certo.
+script_v3_historia_02_gravacao_22_gabriel || que bom. vou aguardar então. muito obrigado.
+script_v3_historia_03_gravacao_02_gabriel || o mouse usb funciona, mas pelo touchpad não.
+script_v3_historia_03_gravacao_04_gabriel || fiz o teste apertando as teclas fn + f6, e ainda não se mexeu.
+script_v3_historia_03_gravacao_06_gabriel || o mouse usb funciona, mas pelo touchpad não.
+script_v3_historia_03_gravacao_08_gabriel || apertei as teclas sugeridas e digitei a palavra.
+script_v3_historia_03_gravacao_10_gabriel || beleza, também digitei o que pediu e abriu uma pasta com vários arquivos. posso apagar tudo também?
+script_v3_historia_03_gravacao_12_gabriel || não consigo fazer nada no touchpad.
+script_v3_historia_03_gravacao_14_gabriel || ele sempre desliga antes de iniciar o windows.
+script_v3_historia_03_gravacao_16_gabriel || o mouse usb funciona, mas pelo touchpad não.
+script_v3_historia_03_gravacao_18_gabriel || sim, já apertei e escrevi o que me ensinou e apareceu na tela o gerenciador de dispositivos.
+script_v3_historia_03_gravacao_20_gabriel || cliquei em mouse e em restaurar as configurações padrão. mas, o touchpad não funciona.
+script_v3_historia_03_gravacao_22_gabriel || estou esperando o windows reiniciar.
+script_v3_historia_04_gravacao_02_gabriel || a internet ainda não funciona.
+script_v3_historia_04_gravacao_04_gabriel || sim, tenho um monitor externo que dá para fazer testes.
+script_v3_historia_04_gravacao_06_gabriel || já sim, salvei minhas digitais e ajustei.
+script_v3_historia_04_gravacao_08_gabriel || sim, encontrei os "sensores".
+script_v3_historia_04_gravacao_10_gabriel || pronto! o que posso fazer depois de apertar essas teclas?
+script_v3_historia_04_gravacao_12_gabriel || ele sempre desliga antes de iniciar o windows.
+script_v3_historia_04_gravacao_14_gabriel || entendi, já conectei o cabo e estou abrindo o navegador.
+script_v3_historia_04_gravacao_16_gabriel || tenho certeza que é original, comprei e comecei a usar.
+script_v3_historia_04_gravacao_18_gabriel || voltou a funcionar. maravilha. obrigada!
+script_v3_historia_05_gravacao_02_gabriel || tá bom, eu desliguei ele, usei os clipe no buraquinho na lateral do equipamento para abrir o menu. acho que funcionou. estou vendo aqui o menu com opções, acho que
+script_v3_historia_05_gravacao_04_gabriel || pronto. abri o menu "bios setup" e apertei as teclas que você pediu.
+script_v3_historia_05_gravacao_06_gabriel || e depois que descarregar?
+script_v3_historia_05_gravacao_08_gabriel || pronto! o que posso fazer depois de apertar essas teclas?
+script_v3_historia_05_gravacao_10_gabriel || cliquei em teclado padrão ps/2, depois selecionei a opção que você orientou e já ligou o notebook. posso testar a tecla?
+script_v3_historia_05_gravacao_12_gabriel || então, ainda não consigo entrar na internet.
+script_v3_historia_05_gravacao_14_gabriel || tentei em um wifi diferente mas realmente não consigo acessar a internet.
+script_v3_historia_05_gravacao_16_gabriel || sim, tenho um cabo de rede para fazer o teste.
+script_v3_historia_05_gravacao_18_gabriel || já entrei no site lenovo e coloquei o número de série do aparelho.
+script_v3_historia_05_gravacao_20_gabriel || cliquei com o botão direito e o programa já está salvo aqui. o que mais eu preciso fazer?
+script_v3_historia_05_gravacao_22_gabriel || entendi. obrigado!
+script_v3_historia_06_gravacao_02_gabriel || sim, tudo atualizado.
+script_v3_historia_06_gravacao_04_gabriel || sim, já cadastrei e configurei. gostava porque era uma segurança a mais, mas, aconteceu de parar de funcionar.
+script_v3_historia_06_gravacao_06_gabriel || não sei como fazer. como faço a drenagem de energia e teste da bios?
+script_v3_historia_06_gravacao_08_gabriel || apertei as teclas que você pediu e abriu aqui o painel de controle.
+script_v3_historia_06_gravacao_10_gabriel || eu tinha uma tv com entrada hdmi, mas quebrou.
+script_v3_historia_06_gravacao_12_gabriel || tem sim, consegui encontrar o grupo "sensores". posso clicar em cima?
+script_v3_historia_06_gravacao_14_gabriel || fiz o que você pediu. o sistema já está atualizado.
+script_v3_historia_06_gravacao_16_gabriel || meu computador terminou de reiniciar depois que eu cliquei com o botão direito na opção desinstalar dispositivo.
+script_v3_historia_06_gravacao_18_gabriel || que pena, como faço isso?
+script_v3_historia_06_gravacao_20_gabriel || tentei em um wifi diferente mas realmente não consigo acessar a internet.
+script_v3_historia_06_gravacao_22_gabriel || fiz o download e abri os drivers de webcam. mas, desculpe, a webcam ainda não funciona.
+script_v3_historia_06_gravacao_24_gabriel || é muito difícil fazer isso?
+script_v3_historia_06_gravacao_26_gabriel || maravilha. de novo meu muito obrigado! espero o vídeo no meu celular.
+script_v3_historia_07_gravacao_02_gabriel || está desligado e retirei meu mouse que estava conectado a ele.
+script_v3_historia_07_gravacao_04_gabriel || não tenho outro monitor para testes. até tenho a tv, mas meu filho está vendo desenho e não vou poder usar agora.
+script_v3_historia_07_gravacao_06_gabriel || não sei como fazer. como faço a drenagem de energia e teste da bios?
+script_v3_historia_07_gravacao_08_gabriel || já retirei todos os periféricos do aparelho.
+script_v3_historia_07_gravacao_10_gabriel || tudo bem, apertei o botão e o notebook apagou.
+script_v3_historia_07_gravacao_12_gabriel || minha máquina é um notebook.
+script_v3_historia_07_gravacao_14_gabriel || entendi, já fiz o que me pediu, apertei várias vezes as teclas f1, f2.
+script_v3_historia_07_gravacao_16_gabriel || já fiz o que pediu. e agora?
+script_v3_historia_07_gravacao_18_gabriel || a tela continua preta.
+script_v3_historia_07_gravacao_20_gabriel || isso demora muito? se precisar, pode ser. vamos instalar o driver de vídeo.
+script_v3_historia_07_gravacao_22_gabriel || apareceu aqui o gerenciador de dispositivos e eu já abri a opção "teclado".
+script_v3_historia_07_gravacao_24_gabriel || não tenho outro monitor para testes. até tenho a tv, mas meu filho está vendo desenho e não vou poder usar agora.
+script_v3_historia_07_gravacao_26_gabriel || sim, tenho outro monitor que podemos usar para realizar um teste.
+script_v3_historia_07_gravacao_28_gabriel || cliquei e segurei e já passaram os 30 segundos.
+script_v3_historia_07_gravacao_30_gabriel || apertei duas vezes no arquivo. a execução finalizou neste momento. cliquei na tecla de interrogação mas sem nenhuma resposta, acredito que o computador está com alguma falha.
+script_v3_historia_07_gravacao_32_gabriel || aqui nesse atendimento ?
+script_v3_historia_07_gravacao_34_gabriel || ok! muito obrigado!
+script_v3_historia_08_gravacao_02_gabriel || ele está desligado. fiquei com medo de ligar e dar algum problema.
+script_v3_historia_08_gravacao_04_gabriel || desculpe, a tecla de interrogação ainda não funciona. tem algo mais que pode ser feito?
+script_v3_historia_08_gravacao_06_gabriel || só tenho um carregador. não possuo outro carregador compatível.
+script_v3_historia_08_gravacao_08_gabriel || já testei na outra tomada da minha tv.
+script_v3_historia_08_gravacao_10_gabriel || fiz o que você pediu. o computador não desligou.
+script_v3_historia_08_gravacao_12_gabriel || segui as instruções e reiniciei o aparelho. começou bem mas um tempo depois voltou a piscar.
+script_v3_historia_08_gravacao_14_gabriel || não tenho outro cabo de rede para testar.
+script_v3_historia_08_gravacao_16_gabriel || que pena que não conseguimos resolver esse problema mas ficarei esperando o vídeo e enviarei meu computador o mais rápido possível.
+script_v3_historia_08_gravacao_18_gabriel || entendi. só tinha um mouse conectado no usb mas já tirei.
+script_v3_historia_08_gravacao_20_gabriel || apertei o clipe de papel no buraquinho da lateral do notebook e apertei por alguns segundos até aparecer o menu. e agora?
+script_v3_historia_08_gravacao_22_gabriel || sem problemas, já desliguei o notebook.
+script_v3_historia_08_gravacao_24_gabriel || e depois que descarregar?
+script_v3_historia_08_gravacao_26_gabriel || perfeito, funcionou. estou muito feliz. agradeço muito pela ajuda.
+script_v3_historia_08_gravacao_28_gabriel || aqui nesse atendimento ?
+script_v3_historia_08_gravacao_30_gabriel || que alívio. agradeço muito! vou esperar o vídeo no meu celular.
+script_v3_historia_09_gravacao_02_gabriel || pronto. apertei o botão e consegui entrar no "menu". o que fazer agora?
+script_v3_historia_09_gravacao_04_gabriel || entendi. ainda não tentei apagar os arquivos de log do sistema. como resolver e deixar ele mais rápido?
+script_v3_historia_09_gravacao_06_gabriel || certo, vou fazer. apertei as teclas sugeridas.
+script_v3_historia_09_gravacao_08_gabriel || já não tenho outro monitor que possa usar para testar.
+script_v3_historia_09_gravacao_10_gabriel || fiz o que você pediu. o computador não desligou.
+script_v3_historia_09_gravacao_12_gabriel || não tenho outro aparelho ligado. o notebook já desligou.
+script_v3_historia_09_gravacao_14_gabriel || desculpe mas não. continua devagar.
+script_v3_historia_09_gravacao_16_gabriel || claro, pressionei as teclas.
+script_v3_historia_09_gravacao_18_gabriel || beleza, também digitei o que pediu e abriu uma pasta com vários arquivos. posso apagar tudo também?
+script_v3_historia_09_gravacao_20_gabriel || escolhi e apaguei todos arquivos mas não mudou. tem algum outro procedimento para fazer?
+script_v3_historia_09_gravacao_22_gabriel || certo. fiz o que me sugeriu.
+script_v3_historia_09_gravacao_24_gabriel || já digitei, abriu a janela e com mais um monte de arquivos e pastas.
+script_v3_historia_09_gravacao_26_gabriel || já escolhi e apaguei todos os arquivos.
+script_v3_historia_09_gravacao_28_gabriel || então, não tenho outro carregador. só tenho esse mesmo.
+script_v3_historia_09_gravacao_30_gabriel || concordo, agradeço a ajuda.
+script_v3_historia_10_gravacao_02_gabriel || boa noite. comprei um notebook para minha filha há pouco tempo, mas agora ele está com listras na tela.
+script_v3_historia_10_gravacao_04_gabriel || entendi, tenho o que fazer pra ir mais rápido? e o que eu faço depois?
+script_v3_historia_10_gravacao_06_gabriel || isso, meu aparelho é um notebook. comprei para minha filha mas está no meu nome.
+script_v3_historia_10_gravacao_08_gabriel || oi. as teclas do meu teclado, as setas cima, baixo, direita e esquerda estão com problema.
+script_v3_historia_10_gravacao_10_gabriel || já retirei todos os periféricos do aparelho.
+script_v3_historia_10_gravacao_12_gabriel || sim, procurei pela palavra-chave webcam e consegui entrar no aplicativo nativo. mas, não tem nenhuma imagem.
+script_v3_historia_10_gravacao_14_gabriel || e depois que descarregar?
+script_v3_historia_10_gravacao_16_gabriel || apertei as teclas que você disse e apareceu no monitor uma tela, precisa digitar algo, é isso mesmo?
+script_v3_historia_10_gravacao_18_gabriel || escolhi a aba e cliquei em enter.
+script_v3_historia_10_gravacao_20_gabriel || como faço para arrumar o idioma do teclado?
+script_v3_historia_10_gravacao_22_gabriel || sim, tenho outro monitor que podemos usar para realizar um teste.
+script_v3_historia_10_gravacao_24_gabriel || sim, vou ajudar vocês, obrigada por terem me ajudado.
+script_v3_historia_11_gravacao_02_gabriel || oi, tudo bem. tenho um problema no meu teclado. algumas teclas estão invertidas.
+script_v3_historia_11_gravacao_04_gabriel || o que tenho que fazer para configurar o idioma nesse momento então?
+script_v3_historia_11_gravacao_06_gabriel || já fiz o que me pediu, pressionei as teclas e digitei o comando.
+script_v3_historia_11_gravacao_08_gabriel || minha máquina é um notebook.
+script_v3_historia_11_gravacao_10_gabriel || sim, já testei outros aparelhos em outras tomadas, e funciona normal.
+script_v3_historia_11_gravacao_12_gabriel || sim, meu teclado funciona.
+script_v3_historia_11_gravacao_14_gabriel || sim, esses passos deram certo e meu teclado está funcionando bem.
+script_v3_historia_11_gravacao_16_gabriel || estou bem e como fazer esse teste?
+script_v3_historia_11_gravacao_18_gabriel || já fiz, digitando o que pediu, mas ele continua ligado.
+script_v3_historia_11_gravacao_20_gabriel || abri "adaptadores de vídeo". o que preciso procurar?
+script_v3_historia_11_gravacao_22_gabriel || já fiz o que pediu. e agora?
+script_v3_historia_11_gravacao_24_gabriel || ah, que legal. voltou a funcionar. consigo digitar agora. muito obrigado.
+script_v3_historia_11_gravacao_26_gabriel || ótimo, consegui, está funcionando.
+script_v3_historia_12_gravacao_02_gabriel || estou bem. o problema é com meu teclado. estava funcionando bem até ontem mas hoje a tecla caps lock não funciona.
+script_v3_historia_12_gravacao_04_gabriel || sim, está instalado, mas o bluetooth não funciona, o problema continua.
+script_v3_historia_12_gravacao_06_gabriel || consegui. apertei as teclas e digitei o comando.
+script_v3_historia_12_gravacao_08_gabriel || encontrei a opção teclado e cliquei, mas não abriu nada.
+script_v3_historia_12_gravacao_10_gabriel || não tenho outro monitor para testes. até tenho a tv, mas meu filho está vendo desenho e não vou poder usar agora.
+script_v3_historia_12_gravacao_12_gabriel || certo, vou esperar reiniciar o computador.
+script_v3_historia_12_gravacao_14_gabriel || e depois que descarregar?
+script_v3_historia_12_gravacao_16_gabriel || sim, o sistema operacional está atualizado, acredito que tudo está certo.
+script_v3_historia_12_gravacao_18_gabriel || entendi. vou esperar.
+script_v3_historia_13_gravacao_02_gabriel || oi. as teclas do meu teclado, as setas cima, baixo, direita e esquerda estão com problema.
+script_v3_historia_13_gravacao_04_gabriel || sim, já cadastrei e configurei. gostava porque era uma segurança a mais, mas, aconteceu de parar de funcionar.
+script_v3_historia_13_gravacao_06_gabriel || ok, obrigado. ficarei esperando a mensagem. agora não preciso de mais ajuda.
+script_v3_historia_13_gravacao_08_gabriel || tirei da tomada, e está desligado.
+script_v3_historia_13_gravacao_10_gabriel || o meu equipamento é um notebook.
+script_v3_historia_13_gravacao_12_gabriel || estou esperando o windows reiniciar.
+script_v3_historia_13_gravacao_14_gabriel || pronto. já apertei o botão e o notebook e parece que vai ligar.
+script_v3_historia_13_gravacao_16_gabriel || não está funcionando, o computador ainda está ligado.
+script_v3_historia_13_gravacao_18_gabriel || sim, todas as teclas funcionam normalmente.
+script_v3_historia_13_gravacao_20_gabriel || pronto! pressionei as teclas "windows + r" e digitei o comando.
+script_v3_historia_13_gravacao_22_gabriel || abri o gerenciador de dispositivos e já escolhi a opção "teclado", certo?
+script_v3_historia_13_gravacao_24_gabriel || ok. fiz o que pediu, cliquei em "desinstalar dispositivo".
+script_v3_historia_13_gravacao_26_gabriel || ok, já segurei o botão "power" por mais ou menos 30 segundos. já abriu a área de trabalho.
+script_v3_historia_13_gravacao_28_gabriel || meu computador é um notebook.
+script_v3_historia_13_gravacao_30_gabriel || fiz isso como me explicou mas a imagem ainda não abre.
+script_v3_historia_14_gravacao_02_gabriel || estou bem. o problema é com meu teclado. estava funcionando bem até ontem mas hoje a tecla caps lock não funciona.
+script_v3_historia_14_gravacao_04_gabriel || ok, como faço para realizar a drenagem de energia?
+script_v3_historia_14_gravacao_06_gabriel || não era o que eu queria, mas agradeço muito pela ajuda. vou esperar o vídeo no celular.
+script_v3_historia_14_gravacao_08_gabriel || já está quase desligando.
+script_v3_historia_14_gravacao_10_gabriel || a tela continua preta.
+script_v3_historia_14_gravacao_12_gabriel || entendi, já fiz o que me pediu, apertei várias vezes as teclas f1, f2.
+script_v3_historia_14_gravacao_14_gabriel || pronto, já encontrei a opção "bios setup" e cliquei nela.
+script_v3_historia_14_gravacao_16_gabriel || escolhi a aba e cliquei em enter.
+script_v3_historia_14_gravacao_18_gabriel || já inseri o clipe e apareceu um menu, com várias opções.
+script_v3_historia_14_gravacao_20_gabriel || ok, já acessei o gerenciador de tarefas e apertei em "teclado".
+script_v3_historia_14_gravacao_22_gabriel || ok! apertei as teclas e agora o que faço?
+script_v3_historia_14_gravacao_24_gabriel || ok, abriu o gerenciador de dispositivos, e já escolhi a opção "teclado". o que preciso fazer agora?
+script_v3_historia_14_gravacao_26_gabriel || fui em teclado e depois em teclado padrão ps/2 e o computador reiniciou. e agora?
+script_v3_historia_14_gravacao_28_gabriel || estou esperando reiniciar.
+script_v3_historia_14_gravacao_30_gabriel || sim, vou ajudar vocês, obrigada por terem me ajudado.
+script_v3_historia_14_gravacao_32_gabriel || posso sim, tchau.
+script_v3_historia_15_gravacao_02_gabriel || boa noite, estou bem e você? quero ajuda com o teclado, eu digito uma letra ou número mas não aparece o que eu quero.
+script_v3_historia_15_gravacao_04_gabriel || como faço para arrumar o idioma do teclado?
+script_v3_historia_15_gravacao_06_gabriel || não é isso. não sei qual é.
+script_v3_historia_15_gravacao_08_gabriel || cliquei na aba e apertei a tecla uma vez.
+script_v3_historia_15_gravacao_10_gabriel || pronto. digitei a palavra devmgmt.msc, apertei enter e uma janela abriu com várias listas.
+script_v3_historia_15_gravacao_12_gabriel || o gerenciador de dispositivos abriu e escolhi "teclado".
+script_v3_historia_15_gravacao_14_gabriel || certo. escolhi a opção que explicou.
+script_v3_historia_15_gravacao_16_gabriel || que ruim, apertei o botão power por 30 segundos, mas ainda não ligou.
+script_v3_historia_15_gravacao_18_gabriel || consegui. desliguei o notebook e também removi os fios que estavam conectados nele.
+script_v3_historia_15_gravacao_20_gabriel || cliquei na aba security, e escolhi a opção que você pediu apenas uma vez.
+script_v3_historia_16_gravacao_02_gabriel || boa noite, estou bem e você? quero ajuda com o teclado, eu digito uma letra ou número mas não aparece o que eu quero.
+script_v3_historia_16_gravacao_04_gabriel || eu não tenho um teclado e um mouse, precisa?
+script_v3_historia_16_gravacao_06_gabriel || sim, esses passos deram certo e meu teclado está funcionando bem.
+script_v3_historia_16_gravacao_08_gabriel || consegui. desliguei o notebook e também removi os fios que estavam conectados nele.
+script_v3_historia_16_gravacao_10_gabriel || o meu equipamento está desligado e retirei todos os fios que tinham nele.
+script_v3_historia_16_gravacao_12_gabriel || entendi, fiz o que você pediu com um clipe de papel que tinha aqui perto, apertei por poucos segundos e já apareceu o menu.
+script_v3_historia_16_gravacao_14_gabriel || ok. vou aceitar a explicação que você sugerir.
+script_v3_historia_16_gravacao_16_gabriel || beleza, também digitei o que pediu e abriu uma pasta com vários arquivos. posso apagar tudo também?
+script_v3_historia_16_gravacao_18_gabriel || sim, digitei o comando e apertei enter. agora tem uma janela com uma lista.
+script_v3_historia_16_gravacao_20_gabriel || encontrei a tecla esc e consegui sair da caixa de senha. o que preciso fazer?
+script_v3_historia_16_gravacao_22_gabriel || já fiz o que me pediu, pressionei as teclas e digitei o comando.
+script_v3_historia_16_gravacao_24_gabriel || encontrei e abri o gerenciador de dispositivos e encontrei o "teclado", posso clicar?
+script_v3_historia_16_gravacao_26_gabriel || consegui. fiz igual o que me ensinou.
+script_v3_historia_16_gravacao_28_gabriel || ok. vou esperar.
+script_v3_historia_16_gravacao_30_gabriel || sim, o menu já abriu aqui, e agora?
+script_v3_historia_16_gravacao_32_gabriel || sim, posso avaliar. obrigado por acabar com o problema.
+script_v3_historia_17_gravacao_02_gabriel || estou bem, obrigado. então, meu aparelho está aparecendo tela azul e depois para de funcionar.
+script_v3_historia_17_gravacao_04_gabriel || meu computador é outro modelo.
+script_v3_historia_17_gravacao_06_gabriel || tenho certeza que é original, comprei e comecei a usar.
+script_v3_historia_17_gravacao_08_gabriel || tenho certeza que é original, comprei e comecei a usar.
+script_v3_historia_17_gravacao_10_gabriel || sim, tudo atualizado.
+script_v3_historia_17_gravacao_12_gabriel || cliquei com o botão direito e o programa já está salvo aqui. o que mais eu preciso fazer?
+script_v3_historia_17_gravacao_14_gabriel || não. eu não tenho um kit teclado ou mouse conectado ao meu computador.
+script_v3_historia_17_gravacao_16_gabriel || procurei a palavra-chave webcam e entrei mas não tem nada.
+script_v3_historia_17_gravacao_18_gabriel || consegui. apertei as teclas e digitei o comando.
+script_v3_historia_17_gravacao_20_gabriel || ok. muito obrigado por me ajudar
+script_v3_historia_18_gravacao_02_gabriel || oi, estou bem e você? fiz contato por quê meu computador há alguns dias está desligando sozinho não consigo terminar minhas tarefas.
+script_v3_historia_18_gravacao_04_gabriel || não uso o wifi, estou usando o cabo, mas a internet não liga.
+script_v3_historia_18_gravacao_06_gabriel || certo. vou apertar as teclas sugeridas.
+script_v3_historia_18_gravacao_08_gabriel || não, eu apertei as teclas e continua ligado.
+script_v3_historia_18_gravacao_10_gabriel || esse modelo aqui não tem como tirar, só com chave. a bateria é dentro.
+script_v3_historia_18_gravacao_12_gabriel || sim, continua ligado.
+script_v3_historia_18_gravacao_14_gabriel || o meu não é esse, é outro modelo.
+script_v3_historia_18_gravacao_16_gabriel || ela está do mesmo jeito.
+script_v3_historia_18_gravacao_18_gabriel || não sei como fazer. como faço a drenagem de energia e teste da bios?
+script_v3_historia_18_gravacao_20_gabriel || entendi o que fazer, e se mesmo assim não funcionar?
+script_v3_historia_18_gravacao_22_gabriel || que alívio. agradeço muito! vou esperar o vídeo no meu celular.
+script_v3_historia_19_gravacao_02_gabriel || bom o driver deu certo, consegui instalar. mas o bluetooth continua com problema.
+script_v3_historia_19_gravacao_04_gabriel || espera eu ver, tem como me explicar?
+script_v3_historia_19_gravacao_06_gabriel || certo. encontrei no canto inferior da sua área de trabalho perto das informações de data hora e clima.
+script_v3_historia_19_gravacao_08_gabriel || eu cliquei em bluetooth. o que fazer agora?
+script_v3_historia_19_gravacao_10_gabriel || desculpe, o bluetooth não funciona, o problema continua. e agora ?
+script_v3_historia_19_gravacao_12_gabriel || cliquei no link, abriu uma tela.
+script_v3_historia_19_gravacao_14_gabriel || que alívio. agradeço muito! vou esperar o vídeo no meu celular.
+script_v3_historia_19_gravacao_16_gabriel || ok, eu já entrei no site da lenovo como você me pediu.
+script_v3_historia_19_gravacao_18_gabriel || baixei os downloads, isso vai resolver o problema?
+script_v3_historia_19_gravacao_20_gabriel || cliquei com o botão direito e o programa já está salvo aqui. o que mais eu preciso fazer?
+script_v3_historia_19_gravacao_22_gabriel || eu cliquei em bluetooth. o que fazer agora?
+script_v3_historia_19_gravacao_24_gabriel || que bom. vou aguardar então. muito obrigado.
+script_v3_historia_20_gravacao_02_gabriel || boa noite, meu teclado está com problema na tecla de interrogação, ela está falhando.
+script_v3_historia_20_gravacao_04_gabriel || fiz esse procedimento pressionando as teclas e digitando o comando.
+script_v3_historia_20_gravacao_06_gabriel || já escolhi e apaguei todos os arquivos.
+script_v3_historia_20_gravacao_08_gabriel || no aplicativo da câmera? não sei como saber dentro das configurações se a permissão da câmera está ativada.
+script_v3_historia_20_gravacao_10_gabriel || certo. fiz o download e abri os drivers de webcam. mas, desculpe, a webcam ainda não funciona.
+script_v3_historia_20_gravacao_12_gabriel || sim, agora está funcionando.
+script_v3_historia_20_gravacao_14_gabriel || fui até o canto inferior direito e encontrei o ícone, obrigada. já apertei em notificações, o que faço agora?
+script_v3_historia_20_gravacao_16_gabriel || escolhi a opção brasil abnt, por que no meu teclado não tem uma tecla ç. a tecla que está com problema, continua ruim.
+script_v3_historia_20_gravacao_18_gabriel || pronto. já apertei as teclas e apareceu a janela.
+script_v3_historia_20_gravacao_20_gabriel || sim, digitei e abriu uma janela com uma lista de funções.
+script_v3_historia_20_gravacao_22_gabriel || certo. apertei as teclas e digitei o que foi pedido. também consegui entrar no gerenciador de dispositivos e escolhi a câmera disponível em câmeras. e agora?
+script_v3_historia_20_gravacao_24_gabriel || o teclado funciona mas a tecla de interrogação continua com defeito.
+script_v3_historia_20_gravacao_26_gabriel || ok. muito obrigado por me ajudar
+script_v3_historia_21_gravacao_02_gabriel || oi, estou bem e você? fiz contato por quê meu computador há alguns dias está desligando sozinho não consigo terminar minhas tarefas.
+script_v3_historia_21_gravacao_04_gabriel || já testei na outra tomada da minha tv.
+script_v3_historia_21_gravacao_06_gabriel || consegui. fiz igual o que me ensinou.
+script_v3_historia_21_gravacao_08_gabriel || tá bom! vou prestar atenção e qualquer coisa entro em contato de novo.
+script_v3_historia_21_gravacao_10_gabriel || certo. agora já desligado.
+script_v3_historia_21_gravacao_12_gabriel || não tenho outro aparelho ligado. o notebook já desligou.
+script_v3_historia_21_gravacao_14_gabriel || foi um pouco difícil mas achei a bios setup.
+script_v3_historia_21_gravacao_16_gabriel || certo. apertei as teclas e digitei o que foi pedido. também consegui entrar no gerenciador de dispositivos e escolhi a câmera disponível em câmeras. e agora?
+script_v3_historia_21_gravacao_18_gabriel || cliquei em teclado padrão ps/2, depois selecionei a opção que você orientou e já ligou o notebook. posso testar a tecla?
+script_v3_historia_21_gravacao_20_gabriel || não tem outras peças conectadas nele.
+script_v3_historia_21_gravacao_22_gabriel || certo. apertei as teclas "fn+s+v+ botão de ligar" e as segurei por 60 segundos. mas agora meu computador não liga.
+script_v3_historia_21_gravacao_24_gabriel || apertei as teclas que você pediu e abriu aqui o painel de controle.
+script_v3_historia_21_gravacao_26_gabriel || que pena, como faço isso?
+script_v3_historia_21_gravacao_28_gabriel || ok, apertei o botão e o notebook e parece que vai ligar.
+script_v3_historia_22_gravacao_02_gabriel || oi. eu comprei a pouco tempo um notebook com touchscreen, mas eu toco na tela e ela não responde. o que eu posso fazer?
+script_v3_historia_22_gravacao_04_gabriel || não, a temperatura está normal.
+script_v3_historia_22_gravacao_06_gabriel || era só o mouse que estava conectado. pronto, o notebook já está desligado.
+script_v3_historia_22_gravacao_08_gabriel || já retirei todos os periféricos do aparelho.
+script_v3_historia_22_gravacao_10_gabriel || escolhi a opção brasil abnt, por que no meu teclado não tem uma tecla ç. a tecla que está com problema, continua ruim.
+script_v3_historia_22_gravacao_12_gabriel || já apertei as teclas windows e r e estou vendo uma caixa no canto da tela. o que eu faço agora?
+script_v3_historia_22_gravacao_14_gabriel || não carrega, o led continua apagado.
+script_v3_historia_22_gravacao_16_gabriel || que pena que não conseguimos resolver esse problema mas ficarei esperando o vídeo e enviarei meu computador o mais rápido possível.
+script_v3_historia_23_gravacao_02_gabriel || comprei um notebook onde posso tocar na tela mas quando toco não acontece nada.
+script_v3_historia_23_gravacao_04_gabriel || sim, tenho um monitor externo que dá para fazer testes.
+script_v3_historia_23_gravacao_06_gabriel || ok. fiz o que pediu, cliquei em "desinstalar dispositivo".
+script_v3_historia_23_gravacao_08_gabriel || não mudou nada na tela.
+script_v3_historia_23_gravacao_10_gabriel || pronto. encontrei o número de série do notebook, digitei no campo do site que você passou e encontrei meu aparelho. estou terminando o download do chipset.
+script_v3_historia_23_gravacao_12_gabriel || boa tarde! estou bem e você? meu notebook não funciona.
+script_v3_historia_23_gravacao_14_gabriel || obrigado, vou avaliar muito bem, bom dia.
+script_v3_historia_24_gravacao_02_gabriel || certo. obrigado pela ajuda!
+script_v3_historia_24_gravacao_04_gabriel || podemos verificar sim se a webcam está habilitada.como fazer isso?
+script_v3_historia_24_gravacao_06_gabriel || fiz as duas opções, mas a webcam não abre.
+script_v3_historia_24_gravacao_08_gabriel || no aplicativo da câmera? não sei como saber dentro das configurações se a permissão da câmera está ativada.
+script_v3_historia_24_gravacao_10_gabriel || fiz isso, mudei as configurações de privacidade para ativar, mas continua sem aparecer a minha imagem.
+script_v3_historia_24_gravacao_12_gabriel || sim, mas como fazer o teste?
+script_v3_historia_24_gravacao_14_gabriel || entendi. só tinha um mouse conectado no usb mas já tirei.
+script_v3_historia_24_gravacao_16_gabriel || fiz todo o procedimento, abri a webcam mas continua sem resposta.
+script_v3_historia_24_gravacao_18_gabriel || certo. o que faço depois que ela descarregar?
+script_v3_historia_24_gravacao_20_gabriel || procurei a palavra-chave webcam e entrei mas não tem nada.
+script_v3_historia_24_gravacao_22_gabriel || acessei o site de suporte da lenovo e localizei o equipamento.
+script_v3_historia_24_gravacao_24_gabriel || que ruim, apertei o botão power por 30 segundos, mas ainda não ligou.
+script_v3_historia_24_gravacao_26_gabriel || então, ainda não consigo entrar na internet.
+script_v3_historia_24_gravacao_28_gabriel || já escolhi o que sugeriu.
+script_v3_historia_24_gravacao_30_gabriel || entendi. agora apertei sobre o nome da placa de vídeo e escolhi essa opção "desinstalar".
+script_v3_historia_24_gravacao_32_gabriel || maravilha. de novo meu muito obrigado! espero o vídeo no meu celular.
+script_v3_historia_25_gravacao_02_gabriel || olá. tenho um notebook que uso para trabalho mas ele não funciona, não consigo usar.
+script_v3_historia_25_gravacao_04_gabriel || tem algumas luzes led acesas no notebook sim.
+script_v3_historia_25_gravacao_06_gabriel || sim, tenho um monitor externo que dá para fazer testes.
+script_v3_historia_25_gravacao_08_gabriel || sim, tem energia elétrica no lugar.
+script_v3_historia_25_gravacao_10_gabriel || apertei a tecla defeituosa e apareceram os símbolos!
+script_v3_historia_25_gravacao_12_gabriel || que bom. vou aguardar então. muito obrigado.

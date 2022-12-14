@@ -1,0 +1,34 @@
+script_v1_historia_02_gravacao_02_gustavo || bom dia, tudo bem e você? preciso de ajuda com a bateria do meu notebook.
+script_v1_historia_02_gravacao_04_gustavo || a bateria do meu notebook não funciona.
+script_v1_historia_02_gravacao_06_gustavo || sim. o que preciso para fazer a drenagem de energia?
+script_v1_historia_02_gravacao_08_gustavo || sim, está instalado, mas o bluetooth não funciona, o problema continua.
+script_v1_historia_02_gravacao_10_gustavo || ok! desliguei o aparelho e retirei todos os periféricos.
+script_v1_historia_02_gravacao_12_gustavo || ok. já liguei.
+script_v1_historia_02_gravacao_14_gustavo || não, a minha bateria é dentro.
+script_v1_historia_02_gravacao_16_gustavo || desculpe, não tenho outro carregador.
+script_v1_historia_02_gravacao_18_gustavo || não, o touchpad ainda não tem movimento.
+script_v1_historia_02_gravacao_20_gustavo || certo. digitei o comando sugerido mas o computador não desligou.
+script_v1_historia_02_gravacao_22_gustavo || ok, muito obrigado!
+script_v1_historia_25_gravacao_02_gustavo || sim. as teclas funcionam.
+script_v1_historia_25_gravacao_04_gustavo || sim, digitei e abriu uma janela com uma lista de funções.
+script_v1_historia_25_gravacao_06_gustavo || sim. o que preciso para fazer a drenagem de energia?
+script_v1_historia_25_gravacao_08_gustavo || pronto. já digitei e apareceu a janela.
+script_v1_historia_25_gravacao_10_gustavo || sim, tenho um monitor externo que dá para fazer testes.
+script_v1_historia_25_gravacao_12_gustavo || certo, novamente obrigado!
+script_v3_historia_02_gravacao_02_gustavo || certo, mas como fazer o teste?
+script_v3_historia_02_gravacao_04_gustavo || certo. na bios, não tem listras, e já movimentei a tela do notebook.
+script_v3_historia_02_gravacao_06_gustavo || reiniciei o notebook, fiz o que pediu, mas a tela continua piscando.
+script_v3_historia_02_gravacao_08_gustavo || fiz o teste na tecla de interrogação, mas continua sem funcionar. como fazer agora?
+script_v3_historia_02_gravacao_10_gustavo || certo, vou responder à pesquisa de satisfação. muito obrigado!
+script_v3_historia_02_gravacao_12_gustavo || certo. abri o menu e apertei as teclas que vejo.
+script_v3_historia_02_gravacao_14_gustavo || concordo em fazer a drenagem de energia.
+script_v3_historia_02_gravacao_16_gustavo || fiz o teste na tecla de interrogação, mas continua sem funcionar. como fazer agora?
+script_v3_historia_02_gravacao_18_gustavo || pronto. instalei de novo o driver.
+script_v3_historia_02_gravacao_20_gustavo || a bateria do meu notebook não funciona.
+script_v3_historia_02_gravacao_22_gustavo || sim! está funcionando muito bem! muito obrigado!
+script_v3_historia_25_gravacao_02_gustavo || reiniciei o meu notebook e ele ainda não está com o touchscreen funcionando.
+script_v3_historia_25_gravacao_04_gustavo || certo, novamente obrigado!
+script_v3_historia_25_gravacao_06_gustavo || sim, tenho um monitor externo que dá para fazer testes.
+script_v3_historia_25_gravacao_08_gustavo || sim, tenho um monitor externo que dá para fazer testes.
+script_v3_historia_25_gravacao_10_gustavo || sim, o monitor tem a imagem igual a tela do notebook.
+script_v3_historia_25_gravacao_12_gustavo || posso sim. obrigada!

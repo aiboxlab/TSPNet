@@ -1,0 +1,900 @@
+script_v1_historia_01_gravacao_02_gisleile || boa tarde! tudo bem e você? a tela do meu notebook não está ligando.
+script_v1_historia_01_gravacao_04_gisleile || não tenho outro cabo de rede para testar.
+script_v1_historia_01_gravacao_06_gisleile || não tenho o cabo hdmi e nem a televisão.
+script_v1_historia_01_gravacao_08_gisleile || certo. fiz o que pediu e apareceu uma janela de arquivos da pasta sugerida.
+script_v1_historia_01_gravacao_10_gisleile || liguei de novo o notebook mas não está lendo minhas digitais.
+script_v1_historia_01_gravacao_12_gisleile || podemos verificar sim se a webcam está habilitada.como fazer isso?
+script_v1_historia_01_gravacao_14_gisleile || ok, já fiz tudo isso, desliguei e removi tudo o que estava conectado.
+script_v1_historia_01_gravacao_16_gisleile || ok! apertei as teclas e agora o que faço?
+script_v1_historia_01_gravacao_18_gisleile || não mudou nada. as listras não aparecem.
+script_v1_historia_01_gravacao_20_gisleile || ok, vou esperar a mensagem. obrigado!
+script_v1_historia_02_gravacao_02_gisleile || bom dia. estou bem, e você como está? tenho problemas com a minha webcam.
+script_v1_historia_02_gravacao_04_gisleile || não carrega o notebook.
+script_v1_historia_02_gravacao_06_gisleile || sim, energia funciona normal.
+script_v1_historia_02_gravacao_08_gisleile || sim, a tomada funciona normal, porque consegui carregar meu celular na mesma tomada.
+script_v1_historia_02_gravacao_10_gisleile || já retirei todos os periféricos do aparelho.
+script_v1_historia_02_gravacao_12_gisleile || certo, já cliquei na sugestão.
+script_v1_historia_02_gravacao_14_gisleile || a bateria do meu notebook eu consigo tirar.
+script_v1_historia_02_gravacao_16_gisleile || desculpe, não tenho outro carregador.
+script_v1_historia_02_gravacao_18_gisleile || não, o touchpad ainda não funciona.
+script_v1_historia_02_gravacao_20_gisleile || e depois que descarregar?
+script_v1_historia_02_gravacao_22_gisleile || ok! muito obrigado!
+script_v1_historia_03_gravacao_02_gisleile || boa tarde, estou bem também. eu possuo um notebook que está apresentando problemas no touchpad.
+script_v1_historia_03_gravacao_04_gisleile || pelo mouse usb funciona, mas o touchpad ainda não funciona.
+script_v1_historia_03_gravacao_06_gisleile || a seta do mouse pelo touchpad não está se mexendo.
+script_v1_historia_03_gravacao_08_gisleile || ok! desliguei o aparelho e retirei todos os periféricos.
+script_v1_historia_03_gravacao_10_gisleile || já digitei, abriu a janela e com mais um monte de arquivos e pastas.
+script_v1_historia_03_gravacao_12_gisleile || sim, claro. vou realizar os procedimentos que pedir.
+script_v1_historia_03_gravacao_14_gisleile || ok, digitei a palavra e criei a janela de arquivos da pasta sugerida.
+script_v1_historia_03_gravacao_16_gisleile || a seta do mouse pelo touchpad não está se mexendo.
+script_v1_historia_03_gravacao_18_gisleile || cliquei na aba e apertei a tecla uma vez.
+script_v1_historia_03_gravacao_20_gisleile || fui em teclado e depois em teclado padrão ps/2 e o computador reiniciou. e agora?
+script_v1_historia_03_gravacao_22_gisleile || estou bem obrigada! bom gostaria de ajuda com o meu aparelho na tela do meu notebook.
+script_v1_historia_04_gravacao_02_gisleile || eu uso cabo da internet, mas minha internet não funciona.
+script_v1_historia_04_gravacao_04_gisleile || eu não tenho outro cabo de rede para testar.
+script_v1_historia_04_gravacao_06_gisleile || já fiz o procedimento de movimentar a tela.
+script_v1_historia_04_gravacao_08_gisleile || ok. obrigado pela atenção.
+script_v1_historia_04_gravacao_10_gisleile || pronto. encontrei o número de série do notebook, digitei no campo do site que você passou e encontrei meu aparelho. estou terminando o download do driver do chipset.
+script_v1_historia_04_gravacao_12_gisleile || pronto. instalei de novo o driver.
+script_v1_historia_04_gravacao_14_gisleile || certo, desliguei o notebook e desconectei tudo que estava conectado a ele.
+script_v1_historia_04_gravacao_16_gisleile || entendi, tenho o que fazer pra ir mais rápido? e o que eu faço depois?
+script_v1_historia_04_gravacao_18_gisleile || ok! obrigado pela atenção.
+script_v1_historia_05_gravacao_02_gisleile || boa tarde! tudo bem e você? a tela do meu notebook não está ligando.
+script_v1_historia_05_gravacao_04_gisleile || a câmera já está ativa.
+script_v1_historia_05_gravacao_06_gisleile || já apertei e está aberta a janela do "executar".
+script_v1_historia_05_gravacao_08_gisleile || apertei várias vezes a tecla que você falou.
+script_v1_historia_05_gravacao_10_gisleile || já está desligado o aparelho.
+script_v1_historia_05_gravacao_12_gisleile || ainda não consigo entrar na internet.
+script_v1_historia_05_gravacao_14_gisleile || já entrei nas opções, segui todas as instruções e consegui baixar também.
+script_v1_historia_05_gravacao_16_gisleile || entendi, tenho o que fazer pra ir mais rápido? e o que eu faço depois?
+script_v1_historia_05_gravacao_18_gisleile || ok. espera um pouco. pronto. apertei o botão de desligar, contei até 30 e depois soltei.
+script_v1_historia_05_gravacao_20_gisleile || ok. fiz o download dos drivers na ordem que você pediu, mas a internet ainda não está conectando.
+script_v1_historia_05_gravacao_22_gisleile || obrigada!
+script_v1_historia_06_gravacao_02_gisleile || bom dia. tudo bem. tenho problemas no teclado.
+script_v1_historia_06_gravacao_04_gisleile || sim, minha biometria já está salva e organizada.
+script_v1_historia_06_gravacao_06_gisleile || ok, apertei as teclas e digitei a palavra.
+script_v1_historia_06_gravacao_08_gisleile || sim, digitei e abriu uma janela com uma lista de funções.
+script_v1_historia_06_gravacao_10_gisleile || não, a bateria é fixa. é interna.
+script_v1_historia_06_gravacao_12_gisleile || ok, já acessei o gerenciador de tarefas e apertei em "teclado".
+script_v1_historia_06_gravacao_14_gisleile || pronto. encontrei a sugestão igual ao meu sistema operacional e baixei o driver.
+script_v1_historia_06_gravacao_16_gisleile || apertei o botão de ligar por 30 segundos e liguei o notebook, mas ainda não resolveu meu problema com a webcam.
+script_v1_historia_06_gravacao_18_gisleile || tudo bem. o que devo fazer?
+script_v1_historia_06_gravacao_20_gisleile || ok, eu já entrei no site da lenovo como você me pediu.
+script_v1_historia_06_gravacao_22_gisleile || baixei os downloads, isso vai resolver o problema?
+script_v1_historia_06_gravacao_24_gisleile || sim, preciso muito dessas teclas para terminar um trabalho.
+script_v1_historia_06_gravacao_26_gisleile || certo. muito obrigado pela ajuda!
+script_v1_historia_07_gravacao_02_gisleile || boa tarde, tudo certo, e você? preciso de ajuda com o meu computador. ele está desligando sozinho.
+script_v1_historia_07_gravacao_04_gisleile || não tenho outro monitor que possa usar para testar.
+script_v1_historia_07_gravacao_06_gisleile || sim, pode ser. como faço para realizar a drenagem de energia?
+script_v1_historia_07_gravacao_08_gisleile || pronto. desliguei o computador e retirei os periféricos. e agora?
+script_v1_historia_07_gravacao_10_gisleile || ok, vou avaliar de forma positiva, e claro.
+script_v1_historia_07_gravacao_12_gisleile || minha máquina é um notebook.
+script_v1_historia_07_gravacao_14_gisleile || tá bom, eu desliguei ele, usei os clipe no buraquinho na lateral do equipamento para abrir o menu. acho que funcionou. estou vendo aqui o menu com opções, acho que
+script_v1_historia_07_gravacao_16_gisleile || pronto. escolhi a opção.
+script_v1_historia_07_gravacao_18_gisleile || certo. na bios, não tem listras, e já movimentei a tela do notebook.
+script_v1_historia_07_gravacao_20_gisleile || podemos começar. o que devo fazer?
+script_v1_historia_07_gravacao_22_gisleile || sim, consegui abrir o gerenciador de dispositivos. o que faço agora?
+script_v1_historia_07_gravacao_24_gisleile || já abri o gerenciador de dispositivos e encontrei o "teclado".
+script_v1_historia_07_gravacao_26_gisleile || certo, encontrei "teclado".
+script_v1_historia_07_gravacao_28_gisleile || pronto. apertei em cima do nome da placa de vídeo e escolhi "desinstalar".
+script_v1_historia_07_gravacao_30_gisleile || olá, já fiz várias tentativas mas meu computador não desliga.
+script_v1_historia_07_gravacao_32_gisleile || o que preciso fazer para enviar meu notebook para a fábrica?
+script_v1_historia_07_gravacao_34_gisleile || ok! obrigado pela atenção.
+script_v1_historia_08_gravacao_02_gisleile || boa noite, tudo bem e você? o touchpad do meu notebook não funciona.
+script_v1_historia_08_gravacao_04_gisleile || não consigo fazer nada no touchpad.
+script_v1_historia_08_gravacao_06_gisleile || não tenho outro carregador que combine com meu notebook.
+script_v1_historia_08_gravacao_08_gisleile || testei o meu notebook em outra tomada, mas ainda não funcionou.
+script_v1_historia_08_gravacao_10_gisleile || minha máquina é um notebook.
+script_v1_historia_08_gravacao_12_gisleile || sim, pode ser. como faço para realizar a drenagem de energia?
+script_v1_historia_08_gravacao_14_gisleile || certo. desliguei meu notebook e retirei tudo que estava conectado a ele. e agora?
+script_v1_historia_08_gravacao_16_gisleile || olá. o problema é que não consigo desligar o meu computador.
+script_v1_historia_08_gravacao_18_gisleile || certo. o que faço depois que ela descarregar?
+script_v1_historia_08_gravacao_20_gisleile || coloquei o clipe de papel e apertei por alguns segundos. o menu abriu. tem 4 opções aqui. qual escolho?
+script_v1_historia_08_gravacao_22_gisleile || pronto. encontrei a opção.
+script_v1_historia_08_gravacao_24_gisleile || apertei a tecla windows e apareceram vários asteriscos.
+script_v1_historia_08_gravacao_26_gisleile || não está desligado o aparelho.
+script_v1_historia_08_gravacao_28_gisleile || aqui não tenho outro carregador. só lá no meu trabalho. não tem como testar agora.
+script_v1_historia_08_gravacao_30_gisleile || certo. muito obrigado pela ajuda!
+script_v1_historia_09_gravacao_02_gisleile || oi. então o problema é que quando aperto para abrir algum programa demora mais de 1 minuto para abrir. isso é normal?
+script_v1_historia_09_gravacao_04_gisleile || não tentei apagar os arquivos de log do sistema. como fazer?
+script_v1_historia_09_gravacao_06_gisleile || certo, já apertei o botão de ligar do meu computador por 30 segundos.
+script_v1_historia_09_gravacao_08_gisleile || apertei a tecla 8 e apareceram vários asteriscos.
+script_v1_historia_09_gravacao_10_gisleile || já abri o gerenciador de dispositivos e encontrei "teclado".
+script_v1_historia_09_gravacao_12_gisleile || ok, apertei as teclas e já digitei a palavra.
+script_v1_historia_09_gravacao_14_gisleile || ainda não. continua devagar.
+script_v1_historia_09_gravacao_16_gisleile || apertei o botão de ligar e já deu 30 segundos e desligou, e agora?
+script_v1_historia_09_gravacao_18_gisleile || já digitei, abriu a janela e com mais um monte de arquivos e pastas.
+script_v1_historia_09_gravacao_20_gisleile || certo. já escolhi os arquivos e apaguei todos, mas o problema de demorar ainda não acabou.
+script_v1_historia_09_gravacao_22_gisleile || consegui. ela ficou destacada e apertei em enter.
+script_v1_historia_09_gravacao_24_gisleile || já digitei, abriu a janela e com mais um monte de arquivos e pastas.
+script_v1_historia_09_gravacao_26_gisleile || ok. já escolhi os arquivos e apaguei todos.
+script_v1_historia_09_gravacao_28_gisleile || ainda não. fiz tudo como explicado e reiniciei, mas o problema com a velocidade continua, ele ainda está devagar.
+script_v1_historia_09_gravacao_30_gisleile || ok! muito obrigado!
+script_v1_historia_10_gravacao_02_gisleile || oi, eu comprei um notebook e usei ele por alguns dias mas agora ele desliga sozinho, eu não consigo mais mexer nele.
+script_v1_historia_10_gravacao_04_gisleile || não. como fazer o teste?
+script_v1_historia_10_gravacao_06_gisleile || minha máquina é um notebook.
+script_v1_historia_10_gravacao_08_gisleile || já digitei e cliquei e já apareceu a janela de arquivos.
+script_v1_historia_10_gravacao_10_gisleile || pronto. removi os periféricos do equipamento.
+script_v1_historia_10_gravacao_12_gisleile || estou apertando o botão há alguns segundos já.
+script_v1_historia_10_gravacao_14_gisleile || não sei entrar na bios.
+script_v1_historia_10_gravacao_16_gisleile || já pressionei e apareceu o "menu", agora? o que fazer?
+script_v1_historia_10_gravacao_18_gisleile || já cliquei no botão que liga. vou tentar ligar o equipamento agora.
+script_v1_historia_10_gravacao_20_gisleile || certo. fiz tudo que me pediu, e já cliquei em "desinstalar dispositivo".
+script_v1_historia_10_gravacao_22_gisleile || sim. a tecla 8 conseguiu funcionar.
+script_v1_historia_10_gravacao_24_gisleile || ok! obrigado pela atenção.
+script_v1_historia_11_gravacao_02_gisleile || bom dia. tudo bem. tenho problemas no teclado.
+script_v1_historia_11_gravacao_04_gisleile || certo, como faço para ligar o notebook usando o botão recovery?
+script_v1_historia_11_gravacao_06_gisleile || certo. fiz o que me sugeriu.
+script_v1_historia_11_gravacao_08_gisleile || certo, já fiz. preciso desinstalar outra coisa?
+script_v1_historia_11_gravacao_10_gisleile || aqui deu certo com o f2.já acessei a bios.
+script_v1_historia_11_gravacao_12_gisleile || ok. apertei a tecla.
+script_v1_historia_11_gravacao_14_gisleile || sim, deu certo. instalei os drivers e o aparelho reiniciou.
+script_v1_historia_11_gravacao_16_gisleile || certo, como instalar de novo o drive?
+script_v1_historia_11_gravacao_18_gisleile || ok. apertei a tecla.
+script_v1_historia_11_gravacao_20_gisleile || abri o gerenciador de dispositivos e encontrei "teclado".
+script_v1_historia_11_gravacao_22_gisleile || certo. o que faço depois que ela descarregar?
+script_v1_historia_11_gravacao_24_gisleile || sim, tem energia elétrica no lugar.
+script_v1_historia_11_gravacao_26_gisleile || obrigada.
+script_v1_historia_12_gravacao_02_gisleile || bom dia. tudo bem. tenho problema no meu teclado a tecla caps lock não funciona.
+script_v1_historia_12_gravacao_04_gisleile || certo. fiz o que me sugeriu.
+script_v1_historia_12_gravacao_06_gisleile || já fiz o processo escolhendo a aba e apertando a tecla.
+script_v1_historia_12_gravacao_08_gisleile || certo, encontrei "teclado".
+script_v1_historia_12_gravacao_10_gisleile || certo, fiz o procedimento na lateral do meu computador.
+script_v1_historia_12_gravacao_12_gisleile || certo. apertei o botão liga/desliga por 30 segundos mas não foi possível ligar o notebook ainda.
+script_v1_historia_12_gravacao_14_gisleile || não, ele não carrega e também diminui mais e mais.
+script_v1_historia_12_gravacao_16_gisleile || o que preciso fazer para enviar meu notebook para a fábrica?
+script_v1_historia_12_gravacao_18_gisleile || certo. muito obrigado!
+script_v1_historia_13_gravacao_02_gisleile || bom dia. tudo bem. tenho problema no meu teclado a tecla caps lock não funciona.
+script_v1_historia_13_gravacao_04_gisleile || certo, e como é o teste?
+script_v1_historia_13_gravacao_06_gisleile || certo, vou aguardar.
+script_v1_historia_13_gravacao_08_gisleile || ok, mudei a conexão do wifi para o cabo.
+script_v1_historia_13_gravacao_10_gisleile || meu equipamento é um notebook.
+script_v1_historia_13_gravacao_12_gisleile || certo, já fiz os procedimentos.
+script_v1_historia_13_gravacao_14_gisleile || certo. fiz o que sugeriu, apertei e apareceu "menu". *aio e desktop.
+script_v1_historia_13_gravacao_16_gisleile || certo, já fiz os procedimentos.
+script_v1_historia_13_gravacao_18_gisleile || sim, tem janela.
+script_v1_historia_13_gravacao_20_gisleile || já fiz o que me pediu, pressionei as teclas e digitei o comando.
+script_v1_historia_13_gravacao_22_gisleile || abri o gerenciador de dispositivos e encontrei o "teclado".
+script_v1_historia_13_gravacao_24_gisleile || pronto. fiz o procedimento e escolhi a opção "desinstalar dispositivo"!
+script_v1_historia_13_gravacao_26_gisleile || certo! vou esperar.
+script_v1_historia_13_gravacao_28_gisleile || sim, tem janela.
+script_v1_historia_13_gravacao_30_gisleile || ok, muito obrigado!
+script_v1_historia_14_gravacao_02_gisleile || bom dia. tudo bem. tenho problema no meu teclado a tecla caps lock não funciona.
+script_v1_historia_14_gravacao_04_gisleile || tudo bem. o que devo fazer?
+script_v1_historia_14_gravacao_06_gisleile || ok, o que faço agora?
+script_v1_historia_14_gravacao_08_gisleile || certo. digitei o comando sugerido mas o computador não desligou.
+script_v1_historia_14_gravacao_10_gisleile || as listras continuam aparecendo na tela.
+script_v1_historia_14_gravacao_12_gisleile || sim, e já testei com ele mas também não deu certo.
+script_v1_historia_14_gravacao_14_gisleile || certo. vou fazer a verificação de erros no sistema.
+script_v1_historia_14_gravacao_16_gisleile || já segurei as teclas e abri a janela.
+script_v1_historia_14_gravacao_18_gisleile || pronto. apertei o botão e consegui entrar no "menu". o que fazer agora?
+script_v1_historia_14_gravacao_20_gisleile || ok. já escolhi os arquivos e apaguei todos.
+script_v1_historia_14_gravacao_22_gisleile || ok, apertei as teclas e já digitei a palavra.
+script_v1_historia_14_gravacao_24_gisleile || certo. abri o gerenciador de dispositivos e encontrei "teclado".
+script_v1_historia_14_gravacao_26_gisleile || certo, já fiz. preciso desinstalar outra coisa?
+script_v1_historia_14_gravacao_28_gisleile || certo, vou esperar.
+script_v1_historia_14_gravacao_30_gisleile || sim. a tecla funciona normal.
+script_v1_historia_14_gravacao_32_gisleile || ok, obrigada.
+script_v1_historia_15_gravacao_02_gisleile || bom dia. estou bem, e você como está? tenho problemas com a minha webcam.
+script_v1_historia_15_gravacao_04_gisleile || tá bom. o que preciso fazer?
+script_v1_historia_15_gravacao_06_gisleile || minha máquina é um desktop.
+script_v1_historia_15_gravacao_08_gisleile || certo, já cliquei na sugestão.
+script_v1_historia_15_gravacao_10_gisleile || pronto! digitei a palavra e apertei a tecla.
+script_v1_historia_15_gravacao_12_gisleile || acessei o site de suporte da lenovo e localizei o equipamento.
+script_v1_historia_15_gravacao_14_gisleile || certo. abri o gerenciador de dispositivos e encontrei "teclado".
+script_v1_historia_15_gravacao_16_gisleile || certo, vou esperar.
+script_v1_historia_15_gravacao_18_gisleile || sim, tem janela.
+script_v1_historia_15_gravacao_20_gisleile || ok. obrigado.
+script_v1_historia_16_gravacao_02_gisleile || bom dia. tudo bem. tenho problema no meu teclado a tecla caps lock não funciona.
+script_v1_historia_16_gravacao_04_gisleile || não, não tenho um kit teclado ou mouse bluetooth para conectar ao meu computador. somente com fio.
+script_v1_historia_16_gravacao_06_gisleile || ok. o que preciso fazer?
+script_v1_historia_16_gravacao_08_gisleile || ok, já fiz tudo isso, desliguei e removi tudo o que estava conectado.
+script_v1_historia_16_gravacao_10_gisleile || meu equipamento é um notebook.
+script_v1_historia_16_gravacao_12_gisleile || ok, vou esperar meu notebook ligar.
+script_v1_historia_16_gravacao_14_gisleile || já fiz o procedimento de movimentar a tela.
+script_v1_historia_16_gravacao_16_gisleile || escolhi a opção sugerida.
+script_v1_historia_16_gravacao_18_gisleile || sim, tem asteriscos aparecendo.
+script_v1_historia_16_gravacao_20_gisleile || ok. fiz o procedimento e cliquei em desinstalar o dispositivo.
+script_v1_historia_16_gravacao_22_gisleile || já fiz o procedimento de movimentar a tela.
+script_v1_historia_16_gravacao_24_gisleile || o gerenciador de dispositivos abriu e escolhi "teclado".
+script_v1_historia_16_gravacao_26_gisleile || certo. cliquei em "desinstalar dispositivo".
+script_v1_historia_16_gravacao_28_gisleile || certo, vou esperar.
+script_v1_historia_16_gravacao_30_gisleile || sim, todas as teclas funcionam normalmente.
+script_v1_historia_16_gravacao_32_gisleile || ok, obrigada.
+script_v1_historia_17_gravacao_02_gisleile || estou bem, obrigado. então, meu aparelho está aparecendo tela azul e depois para de funcionar.
+script_v1_historia_17_gravacao_04_gisleile || meu computador terminou de reiniciar depois que eu cliquei com o botão direito na opção desinstalar dispositivo.
+script_v1_historia_17_gravacao_06_gisleile || reiniciei o notebook, fiz o que pediu, mas a tela continua piscando.
+script_v1_historia_17_gravacao_08_gisleile || sim. a tecla 8 conseguiu funcionar.
+script_v1_historia_17_gravacao_10_gisleile || não, nada funciona ele continua ligado.
+script_v1_historia_17_gravacao_12_gisleile || sim, vou fazer drenagem.
+script_v1_historia_17_gravacao_14_gisleile || certo, apareceu "brasil abnt2" e "brasil abnt." qual posso escolher ?
+script_v1_historia_17_gravacao_16_gisleile || a bateria está em 50% agora.
+script_v1_historia_17_gravacao_18_gisleile || sim. a tecla 8 conseguiu funcionar.
+script_v1_historia_17_gravacao_20_gisleile || ok, obrigada! eu não sei bem como fazer.
+script_v1_historia_18_gravacao_02_gisleile || olá. o problema é que não consigo desligar o meu computador.
+script_v1_historia_18_gravacao_04_gisleile || oi. eu comprei a pouco tempo um notebook com touchscreen, mas eu toco na tela e ela não responde. o que eu posso fazer?
+script_v1_historia_18_gravacao_06_gisleile || ok, já apertei o botão no tempo que você pediu.
+script_v1_historia_18_gravacao_08_gisleile || não, ele desliga antes de iniciar o windows.
+script_v1_historia_18_gravacao_10_gisleile || certo, e já fiz. preciso desinstalar outra coisa?
+script_v1_historia_18_gravacao_12_gisleile || fiz o que você pediu. o computador não desligou.
+script_v1_historia_18_gravacao_14_gisleile || certo vou apertar as teclas alt+f4.
+script_v1_historia_18_gravacao_16_gisleile || o meu computador está desligado.
+script_v1_historia_18_gravacao_18_gisleile || certo, mas como fazer o teste?
+script_v1_historia_18_gravacao_20_gisleile || não está funcionando, o computador ainda está ligado.
+script_v1_historia_18_gravacao_22_gisleile || agradeço o atendimento!
+script_v1_historia_19_gravacao_02_gisleile || tudo bem obrigada. meu aparelho não está conectando com o bluetooth.
+script_v1_historia_19_gravacao_04_gisleile || que pena, como faço isso?
+script_v1_historia_19_gravacao_06_gisleile || já abri o gerenciador de dispositivos e encontrei o "teclado".
+script_v1_historia_19_gravacao_08_gisleile || certo, cliquei no bluetooth, o que fazer agora?
+script_v1_historia_19_gravacao_10_gisleile || o bluetooth não ligou. o que preciso fazer?
+script_v1_historia_19_gravacao_12_gisleile || o bluetooth não está ligado, como ativo?
+script_v1_historia_19_gravacao_14_gisleile || como faço?
+script_v1_historia_19_gravacao_16_gisleile || ok, digitei a palavra e criei a janela de arquivos da pasta sugerida.
+script_v1_historia_19_gravacao_18_gisleile || pronto. encontrei o número de série do notebook, digitei no campo do site que você passou e encontrei meu aparelho. estou terminando o download do chipset.
+script_v1_historia_19_gravacao_20_gisleile || certo, já fiz. preciso desinstalar outra coisa?
+script_v1_historia_19_gravacao_22_gisleile || instalei o driver, mas infelizmente o bluetooth não voltou a funcionar.
+script_v1_historia_19_gravacao_24_gisleile || ok, obrigada! eu não sei bem como fazer.
+script_v1_historia_20_gravacao_02_gisleile || bom dia. tenho problema no meu teclado. a tecla de interrogação não funciona.
+script_v1_historia_20_gravacao_04_gisleile || certo, já entrei na bios.
+script_v1_historia_20_gravacao_06_gisleile || sim, já apertei e escrevi o que me ensinou e apareceu na tela o gerenciador de dispositivos.
+script_v1_historia_20_gravacao_08_gisleile || testei o meu notebook em outra tomada, mas ainda não funcionou.
+script_v1_historia_20_gravacao_10_gisleile || apertei a tecla windows e entrei em configurações, hora e idioma e cheguei em região e idioma. a tecla de interrogação ainda não funciona.
+script_v1_historia_20_gravacao_12_gisleile || podemos começar. o que devo fazer?
+script_v1_historia_20_gravacao_14_gisleile || certo, fiz o que me pediu. encontrei "dispositivos de interface humana", e desinstalei "tela touch compatível com hid".
+script_v1_historia_20_gravacao_16_gisleile || cliquei em teclado padrão ps/2, depois selecionei a opção que você orientou e já ligou o notebook. posso testar a tecla?
+script_v1_historia_20_gravacao_18_gisleile || apertei as teclas que você pediu e abriu aqui o painel de controle.
+script_v1_historia_20_gravacao_20_gisleile || pronto. apertei no que me disse e também consegui reiniciar o computador.
+script_v1_historia_20_gravacao_22_gisleile || pronto. encontrei o número de série do notebook, digitei no campo do site que você passou e encontrei meu computador. estou terminando o download do chipset.
+script_v1_historia_20_gravacao_24_gisleile || desculpe, a tecla de interrogação ainda não funciona. tem algo mais que pode ser feito?
+script_v1_historia_20_gravacao_26_gisleile || que pena que não conseguimos resolver esse problema mas ficarei esperando o vídeo e enviarei meu computador o mais rápido possível.
+script_v1_historia_21_gravacao_02_gisleile || boa tarde. tenho problema no meu teclado. ele não funciona!
+script_v1_historia_21_gravacao_04_gisleile || pronto. desliguei o computador e retirei o cabo de energia da tomada.
+script_v1_historia_21_gravacao_06_gisleile || sim. apertei as teclas, digitei o que pediu e consegui abrir o gerenciador de dispositivos.
+script_v1_historia_21_gravacao_08_gisleile || não, ele está desligado. fiquei com medo de ligar e dar algum problema.
+script_v1_historia_21_gravacao_10_gisleile || já desliguei o computador.
+script_v1_historia_21_gravacao_12_gisleile || já reiniciei o windows mas quando tento abrir o programa demora quase 1 minuto para abrir.
+script_v1_historia_21_gravacao_14_gisleile || encontrei bios setup na tela e consegui entrar usando as teclas para cima e para baixo.
+script_v1_historia_21_gravacao_16_gisleile || entrei no site lenovo e coloquei o número de série do aparelho e cliquei na lupa para pesquisar o aparelho.
+script_v1_historia_21_gravacao_18_gisleile || fiz o procedimento de digitar as teclas na caixa e nenhum símbolo de "*" apareceu, mas todas as teclas funcionaram normalmente. meu problema está resolvido?
+script_v1_historia_21_gravacao_20_gisleile || tudo bem. o que devo fazer?
+script_v1_historia_21_gravacao_22_gisleile || sim, já apertei e escrevi o que me ensinou e apareceu na tela o gerenciador de dispositivos.
+script_v1_historia_21_gravacao_24_gisleile || minha máquina é um desktop.
+script_v1_historia_21_gravacao_26_gisleile || sim, parece que sim. voltou a funcionar. obrigado!
+script_v1_historia_21_gravacao_28_gisleile || sim. a tecla funciona normal.
+script_v1_historia_22_gravacao_02_gisleile || boa tarde, tudo certo, e você? preciso de ajuda com o meu computador. ele está desligando sozinho.
+script_v1_historia_22_gravacao_04_gisleile || não, meu teclado funciona mas a tecla de interrogação continua com defeito.
+script_v1_historia_22_gravacao_06_gisleile || sim, ele funciona normalmente. o notebook está ligando pelo botão que liga.
+script_v1_historia_22_gravacao_08_gisleile || certo, desliguei meu notebook e retirei o cabo da tomada.
+script_v1_historia_22_gravacao_10_gisleile || certo, já apertei o botão de ligar do meu computador por 30 segundos.
+script_v1_historia_22_gravacao_12_gisleile || já inseri o clipe e apareceu um menu, com várias opções.
+script_v1_historia_22_gravacao_14_gisleile || já reiniciei o windows mas quando tento abrir o programa demora quase 1 minuto para abrir.
+script_v1_historia_22_gravacao_16_gisleile || ok, vou esperar a mensagem. obrigado!
+script_v1_historia_23_gravacao_02_gisleile || oi. eu comprei a pouco tempo um notebook com touchscreen, mas eu toco na tela e ela não responde. o que eu posso fazer?
+script_v1_historia_23_gravacao_04_gisleile || certo. apertei as teclas "fn+s+v+ botão de ligar" e as segurei por 60 segundos. mas agora meu computador não liga.
+script_v1_historia_23_gravacao_06_gisleile || certo, até agora está indo, fiz como disse e depois que encontrei a aba security, apertei nessa opção set administrator password. depois apareceu uma caixa, é isso mesmo?
+script_v1_historia_23_gravacao_08_gisleile || reiniciei o meu notebook e ele ainda não está com o touchscreen funcionando.
+script_v1_historia_23_gravacao_10_gisleile || pronto. encontrei o número de série do notebook, digitei no campo do site que você passou e encontrei meu aparelho. estou terminando o download do chipset.
+script_v1_historia_23_gravacao_12_gisleile || fiz o download do driver e instalei. mas, meu problema continua. tem outra coisa para fazer?
+script_v1_historia_23_gravacao_14_gisleile || ok. vou acompanhar o funcionamento do sistema.
+script_v1_historia_24_gravacao_02_gisleile || bom dia. estou bem, e você como está? tenho problemas com a minha webcam.
+script_v1_historia_24_gravacao_04_gisleile || tudo bem. o que preciso fazer para ligar a webcam?
+script_v1_historia_24_gravacao_06_gisleile || apertei várias vezes a tecla que você falou.
+script_v1_historia_24_gravacao_08_gisleile || como posso fazer a configuração do idioma?
+script_v1_historia_24_gravacao_10_gisleile || certo. já escolhi os arquivos e apaguei todos, mas o problema de demorar ainda não acabou.
+script_v1_historia_24_gravacao_12_gisleile || o que mais preciso fazer?
+script_v1_historia_24_gravacao_14_gisleile || pronto. removi os periféricos do equipamento.
+script_v1_historia_24_gravacao_16_gisleile || sim, já cadastrei e configurei. gostava porque era uma segurança a mais, mas, aconteceu de parar de funcionar.
+script_v1_historia_24_gravacao_18_gisleile || sim, preciso fazer a drenagem de energia. como funciona?
+script_v1_historia_24_gravacao_20_gisleile || sim, procurei pela palavra-chave webcam e consegui entrar no aplicativo nativo. mas, não tem nenhuma imagem.
+script_v1_historia_24_gravacao_22_gisleile || entrei no site, inseri o número de série do meu notebook e já encontrei. o que devo fazer agora?
+script_v1_historia_24_gravacao_24_gisleile || fiz o download e abri os drivers de webcam. mas, desculpe, a webcam ainda não funciona.
+script_v1_historia_24_gravacao_26_gisleile || certo. apertei as teclas e digitei o que foi pedido. também consegui entrar no gerenciador de dispositivos e escolhi a câmera disponível em câmeras. e agora?
+script_v1_historia_24_gravacao_28_gisleile || aqui aparece que a câmera já está ligada.
+script_v1_historia_24_gravacao_30_gisleile || o que preciso fazer para enviar meu notebook para a fábrica?
+script_v1_historia_24_gravacao_32_gisleile || certo. muito obrigada.
+script_v1_historia_25_gravacao_02_gisleile || boa tarde! estou bem e você? meu notebook não funciona.
+script_v1_historia_25_gravacao_04_gisleile || sim, preciso muito dessas teclas para terminar um trabalho.
+script_v1_historia_25_gravacao_06_gisleile || sim, tenho um cabo de rede para fazer o teste.
+script_v1_historia_25_gravacao_08_gisleile || pronto. pesquisei o aparelho por número de série.
+script_v1_historia_25_gravacao_10_gisleile || sim, o monitor tem a imagem igual a tela do notebook.
+script_v1_historia_25_gravacao_12_gisleile || certo. muito obrigado!
+script_v2_historia_01_gravacao_02_gisleile || oi, estou bem e você? fiz contato por quê meu computador há alguns dias está desligando sozinho não consigo terminar minhas tarefas.
+script_v2_historia_01_gravacao_04_gisleile || toquei na tela, em vários lugares, mas não funciona.
+script_v2_historia_01_gravacao_06_gisleile || não tenho o cabo hdmi e nem a televisão.
+script_v2_historia_01_gravacao_08_gisleile || não consigo fazer nada no touchpad.
+script_v2_historia_01_gravacao_10_gisleile || não é isso. não sei qual é.
+script_v2_historia_01_gravacao_12_gisleile || sim, pode fazer drenagem.
+script_v2_historia_01_gravacao_14_gisleile || ok, já fiz tudo isso, desliguei e removi tudo o que estava conectado.
+script_v2_historia_01_gravacao_16_gisleile || a janela apareceu e selecionei a opção "yes" e confirmei como me pediu.
+script_v2_historia_01_gravacao_18_gisleile || eu apertei as teclas e continua ligado.
+script_v2_historia_01_gravacao_20_gisleile || certo. muito obrigado!
+script_v2_historia_02_gravacao_02_gisleile || olá, eu bem e você? a bateria do meu notebook tem um problema.
+script_v2_historia_02_gravacao_04_gisleile || não tenho outro monitor para fazer o teste.
+script_v2_historia_02_gravacao_06_gisleile || sim, energia funciona normal.
+script_v2_historia_02_gravacao_08_gisleile || sim, já testei outros aparelhos em outras tomadas, e funciona normal.
+script_v2_historia_02_gravacao_10_gisleile || ok, cliquei para desligar e retirei tudo que estava conectado ao computador.
+script_v2_historia_02_gravacao_12_gisleile || apertei o botão de ligar por 30 segundos e liguei o notebook, mas ainda não resolveu meu problema com a webcam.
+script_v2_historia_02_gravacao_14_gisleile || puxa, não consigo fazer esse teste porque não tenho outro monitor!
+script_v2_historia_02_gravacao_16_gisleile || não, não tenho outro cabo de rede. só tenho este instalado.
+script_v2_historia_02_gravacao_18_gisleile || não, o notebook não carrega.
+script_v2_historia_02_gravacao_20_gisleile || só um pendrive. já removi.
+script_v2_historia_02_gravacao_22_gisleile || muito bom, vou esperar.
+script_v2_historia_03_gravacao_02_gisleile || boa tarde, estou bem também. eu possuo um notebook que está apresentando problemas no touchpad.
+script_v2_historia_03_gravacao_04_gisleile || não, o touchpad ainda não funciona.
+script_v2_historia_03_gravacao_06_gisleile || o touchpad ainda não funciona.
+script_v2_historia_03_gravacao_08_gisleile || certo. o notebook foi desligado e retirei todos os fios que tinham nele.
+script_v2_historia_03_gravacao_10_gisleile || ok, apertei o botão e o notebook e parece que vai ligar.
+script_v2_historia_03_gravacao_12_gisleile || não, ele não carrega e também diminui mais e mais.
+script_v2_historia_03_gravacao_14_gisleile || já entrei no site, coloquei o número de série e encontrei meu notebook.
+script_v2_historia_03_gravacao_16_gisleile || pelo mouse usb funciona, mas o touchpad ainda não funciona.
+script_v2_historia_03_gravacao_18_gisleile || certo. já entrei e abri aqui. o que digito?
+script_v2_historia_03_gravacao_20_gisleile || cliquei em teclado padrão ps/2, depois selecionei a opção que você orientou e já ligou o notebook. posso testar a tecla?
+script_v2_historia_03_gravacao_22_gisleile || apareceu a mensagem "você não está conectado".
+script_v2_historia_04_gravacao_02_gisleile || não, não. a bateria não inchou mas quando ligo na tomada não carrega de jeito nenhum.
+script_v2_historia_04_gravacao_04_gisleile || eu não tenho outro cabo de rede. só tenho este instalado.
+script_v2_historia_04_gravacao_06_gisleile || ok, eu já entrei no site da lenovo como você me pediu.
+script_v2_historia_04_gravacao_08_gisleile || já entrei no site, coloquei o número de série e encontrei meu notebook.
+script_v2_historia_04_gravacao_10_gisleile || pronto. encontrei o número de série do notebook, digitei no campo do site que você passou e encontrei meu aparelho. estou terminando o download do driver do chipset.
+script_v2_historia_04_gravacao_12_gisleile || certo, instalei de novo o driver.
+script_v2_historia_04_gravacao_14_gisleile || a bateria está em 50% agora.
+script_v2_historia_04_gravacao_16_gisleile || não, a página da internet ainda não aparece.
+script_v2_historia_04_gravacao_18_gisleile || certo. muito obrigado pela ajuda!
+script_v2_historia_05_gravacao_02_gisleile || bom dia. estou bem, e você como está? tenho problemas com a minha webcam.
+script_v2_historia_05_gravacao_04_gisleile || certo. agora já desligado.
+script_v2_historia_05_gravacao_06_gisleile || entendi. conseguir abrir o gerenciador de dispositivos e o "teclado" também.
+script_v2_historia_05_gravacao_08_gisleile || ok, já apertei o botão no tempo que você pediu. o que preciso fazer agora?
+script_v2_historia_05_gravacao_10_gisleile || ok, apertei as teclas e já digitei a palavra.
+script_v2_historia_05_gravacao_12_gisleile || ainda não consigo entrar na internet.
+script_v2_historia_05_gravacao_14_gisleile || ainda não. fiz tudo como explicado e reiniciei, mas o problema com a velocidade continua, ele ainda está devagar.
+script_v2_historia_05_gravacao_16_gisleile || certo. encontrei no canto inferior da sua área de trabalho perto das informações de data hora e clima.
+script_v2_historia_05_gravacao_18_gisleile || pronto. desliguei o computador e retirei o cabo de energia da tomada.
+script_v2_historia_05_gravacao_20_gisleile || fiz tudo certo. fiz o download dos drivers igual me explicou, mas ainda a internet não voltou ao normal.
+script_v2_historia_05_gravacao_22_gisleile || entendi. obrigado!
+script_v2_historia_06_gravacao_02_gisleile || boa tarde, eu estou ótimo e você? o leitor de digital no notebook não me reconhecendo.
+script_v2_historia_06_gravacao_04_gisleile || escolhi o que sugeriu.
+script_v2_historia_06_gravacao_06_gisleile || a tecla de interrogação continua sem funcionar. o que eu faço?
+script_v2_historia_06_gravacao_08_gisleile || certo. abri o gerenciador de dispositivos e encontrei "teclado".
+script_v2_historia_06_gravacao_10_gisleile || não, a minha bateria é dentro.
+script_v2_historia_06_gravacao_12_gisleile || sim. consegui encontrar o grupo "sensores".
+script_v2_historia_06_gravacao_14_gisleile || ok, o que faço agora?
+script_v2_historia_06_gravacao_16_gisleile || cliquei e segurei e já passaram os 30 segundos.
+script_v2_historia_06_gravacao_18_gisleile || o que preciso fazer para enviar meu notebook para a fábrica?
+script_v2_historia_06_gravacao_20_gisleile || ok, digitei a palavra e criei a janela de arquivos da pasta sugerida.
+script_v2_historia_06_gravacao_22_gisleile || fiz o download do driver e instalei. mas, meu problema continua. tem outra coisa para fazer?
+script_v2_historia_06_gravacao_24_gisleile || como eu faço o que me pediu?
+script_v2_historia_06_gravacao_26_gisleile || certo, obrigado por me ajudar.
+script_v2_historia_07_gravacao_02_gisleile || bom dia. estou bem, e você como está? tenho problemas com a minha webcam.
+script_v2_historia_07_gravacao_04_gisleile || desculpe, não tenho outro carregador.
+script_v2_historia_07_gravacao_06_gisleile || acho que deu certo, ele está normal.
+script_v2_historia_07_gravacao_08_gisleile || já retirei todos os periféricos do aparelho.
+script_v2_historia_07_gravacao_10_gisleile || certo, já apertei o botão de ligar do meu computador por 30 segundos.
+script_v2_historia_07_gravacao_12_gisleile || meu equipamento é um notebook.
+script_v2_historia_07_gravacao_14_gisleile || consegui. apertei o botão e entrei no "menu". o que preciso agora?
+script_v2_historia_07_gravacao_16_gisleile || isso demora muito? se precisar, pode ser. vamos instalar o driver de vídeo.
+script_v2_historia_07_gravacao_18_gisleile || abri "adaptadores de vídeo". o que preciso procurar?
+script_v2_historia_07_gravacao_20_gisleile || claro, podemos. vamos instalar de novo o driver de vídeo.
+script_v2_historia_07_gravacao_22_gisleile || sim, parece que sim. voltou a funcionar. obrigado!
+script_v2_historia_07_gravacao_24_gisleile || abri "adaptadores de vídeo". o que preciso procurar?
+script_v2_historia_07_gravacao_26_gisleile || encontrei a placa de vídeo integrada.
+script_v2_historia_07_gravacao_28_gisleile || certo, apareceu "brasil abnt2" e "brasil abnt." qual posso escolher ?
+script_v2_historia_07_gravacao_30_gisleile || ok. e se eu continuar sem conseguir desligar a máquina?
+script_v2_historia_07_gravacao_32_gisleile || entendo, mas como eu faço para enviar para a fábrica?
+script_v2_historia_07_gravacao_34_gisleile || obrigado pela paciência em explicar.
+script_v2_historia_08_gravacao_02_gisleile || tudo bem, e com você? o meu notebook não liga.
+script_v2_historia_08_gravacao_04_gisleile || não, o touchpad ainda não funciona.
+script_v2_historia_08_gravacao_06_gisleile || desculpe, não tenho outro carregador.
+script_v2_historia_08_gravacao_08_gisleile || testei o meu notebook em outra tomada, mas ainda não funcionou.
+script_v2_historia_08_gravacao_10_gisleile || não, a minha bateria é dentro.
+script_v2_historia_08_gravacao_12_gisleile || sim, podemos fazer a drenagem de energia. o que posso fazer?
+script_v2_historia_08_gravacao_14_gisleile || tudo bem. desliguei o notebook e desliguei todos os cabos que estão conectados. o que faço agora?
+script_v2_historia_08_gravacao_16_gisleile || claro. o que está faltando para saber se conseguiu arrumar?
+script_v2_historia_08_gravacao_18_gisleile || ok. apertei a tecla e saí da caixa de senha.
+script_v2_historia_08_gravacao_20_gisleile || coloquei o clipe de papel e apertei por alguns segundos. o menu abriu. tem 4 opções aqui. qual escolho?
+script_v2_historia_08_gravacao_22_gisleile || pronto. já selecionei a opção "yes" e reiniciei o meu computador.
+script_v2_historia_08_gravacao_24_gisleile || certo. já entrei e abri aqui. o que digito?
+script_v2_historia_08_gravacao_26_gisleile || sim, já apertei e escrevi o que me ensinou e apareceu na tela o gerenciador de dispositivos.
+script_v2_historia_08_gravacao_28_gisleile || como posso responder essa pesquisa?
+script_v2_historia_08_gravacao_30_gisleile || certo, vou responder à pesquisa de satisfação. muito obrigado!
+script_v2_historia_09_gravacao_02_gisleile || estou bem, obrigado. então, meu aparelho está aparecendo tela azul e depois para de funcionar.
+script_v2_historia_09_gravacao_04_gisleile || é verdade, pode sim estar cheio, ainda não tentei apagar os arquivos de log. você pode me explicar como faço?
+script_v2_historia_09_gravacao_06_gisleile || entendi, já conectei o cabo e estou abrindo o navegador.
+script_v2_historia_09_gravacao_08_gisleile || têm, apareceu a janela. mas o que eu faço?
+script_v2_historia_09_gravacao_10_gisleile || certo. já escolhi os arquivos e apaguei todos.
+script_v2_historia_09_gravacao_12_gisleile || pronto. já selecionei a opção "yes" e reiniciei o meu computador.
+script_v2_historia_09_gravacao_14_gisleile || desculpe. mas ainda está lento.
+script_v2_historia_09_gravacao_16_gisleile || sim. apertei as teclas, digitei o que pediu e consegui abrir o gerenciador de dispositivos.
+script_v2_historia_09_gravacao_18_gisleile || pressionei as teclas e digitei o comando. já abriu a janela aqui. tem várias opções aqui.
+script_v2_historia_09_gravacao_20_gisleile || ainda não. selecionei arquivos e apaguei, mas não parece ter dado resultado.
+script_v2_historia_09_gravacao_22_gisleile || sim, já cliquei no botão que liga. vou tentar ligar o equipamento agora.
+script_v2_historia_09_gravacao_24_gisleile || certo. já entrei e abri aqui. o que digito?
+script_v2_historia_09_gravacao_26_gisleile || não sei o que é bios.
+script_v2_historia_09_gravacao_28_gisleile || ainda não. fiz tudo como explicado e reiniciei, mas o problema com a velocidade continua, ele ainda está devagar.
+script_v2_historia_09_gravacao_30_gisleile || ok! obrigado pela atenção.
+script_v2_historia_10_gravacao_02_gisleile || oi, tudo em paz. a tela do meu notebook tem problemas, listras horizontais estão aparecendo.
+script_v2_historia_10_gravacao_04_gisleile || não sei o que é bios.
+script_v2_historia_10_gravacao_06_gisleile || minha máquina é um notebook.
+script_v2_historia_10_gravacao_08_gisleile || certo. desliguei meu notebook e retirei tudo que estava conectado a ele.
+script_v2_historia_10_gravacao_10_gisleile || já retirei todos os periféricos do aparelho.
+script_v2_historia_10_gravacao_12_gisleile || tudo bem. sim. o problema é com o leitor biométrico dele.
+script_v2_historia_10_gravacao_14_gisleile || não sei o que é bios.
+script_v2_historia_10_gravacao_16_gisleile || ok. consegui encontrar o grupo teclado.
+script_v2_historia_10_gravacao_18_gisleile || já abri o gerenciador de dispositivos e encontrei a opção "teclado".
+script_v2_historia_10_gravacao_20_gisleile || já fiz o procedimento de movimentar a tela.
+script_v2_historia_10_gravacao_22_gisleile || fiz o que me explicou mas a imagem ainda não abre.
+script_v2_historia_10_gravacao_24_gisleile || ok. muito obrigado por me ajudar
+script_v2_historia_11_gravacao_02_gisleile || tudo bem. meu problema é com o teclado, algumas teclas estão invertidas.
+script_v2_historia_11_gravacao_04_gisleile || mas não sei como fazer. seguirei o que pedir.
+script_v2_historia_11_gravacao_06_gisleile || ok, eu já entrei no site da lenovo como você me pediu.
+script_v2_historia_11_gravacao_08_gisleile || entrei no link.
+script_v2_historia_11_gravacao_10_gisleile || certo. já entrei e abri aqui. o que digito?
+script_v2_historia_11_gravacao_12_gisleile || fiz o que me explicou mas a imagem ainda não abre.
+script_v2_historia_11_gravacao_14_gisleile || a tecla de interrogação continua sem funcionar. o que eu faço?
+script_v2_historia_11_gravacao_16_gisleile || isso demora muito? se precisar, pode ser. vamos instalar o driver de vídeo.
+script_v2_historia_11_gravacao_18_gisleile || ok. e se eu continuar sem conseguir desligar a máquina?
+script_v2_historia_11_gravacao_20_gisleile || encontrei a placa de vídeo integrada.
+script_v2_historia_11_gravacao_22_gisleile || sim eu vou! vou avaliar o atendimento na pesquisa de satisfação
+script_v2_historia_11_gravacao_24_gisleile || sim, parece que sim. voltou a funcionar. obrigado!
+script_v2_historia_11_gravacao_26_gisleile || certo. muito obrigado!
+script_v2_historia_12_gravacao_02_gisleile || oi, tudo bem. meu problema é com o teclado, algumas teclas estão invertidas.
+script_v2_historia_12_gravacao_04_gisleile || ok. vou fazer os procedimentos que você sugerir.
+script_v2_historia_12_gravacao_06_gisleile || tudo bem, apertei as teclas e o símbolo "*" apareceu. as teclas voltaram a funcionar. deu certo?
+script_v2_historia_12_gravacao_08_gisleile || certo, encontrei a opção.
+script_v2_historia_12_gravacao_10_gisleile || certo, já fiz. preciso desinstalar outra coisa?
+script_v2_historia_12_gravacao_12_gisleile || certo. desliguei o wifi e testei a conexão pelo cabo de rede.
+script_v2_historia_12_gravacao_14_gisleile || não está funcionando, o computador ainda está ligado.
+script_v2_historia_12_gravacao_16_gisleile || que pena, como faço isso?
+script_v2_historia_12_gravacao_18_gisleile || obrigado, vou abrir o whatsapp para ver a mensagem.
+script_v2_historia_13_gravacao_02_gisleile || boa noite,tudo bem. bom, o problema está nas teclas de direção.
+script_v2_historia_13_gravacao_04_gisleile || ok. como funciona esse teste?
+script_v2_historia_13_gravacao_06_gisleile || ótimo, muito obrigado.
+script_v2_historia_13_gravacao_08_gisleile || certo. agora já desligado.
+script_v2_historia_13_gravacao_10_gisleile || meu equipamento é um notebook.
+script_v2_historia_13_gravacao_12_gisleile || certo. fiz o que me pediu, e já cliquei em "desinstalar dispositivo".
+script_v2_historia_13_gravacao_14_gisleile || estou fazendo como me explicou e o menu abriu. o que faço depois?
+script_v2_historia_13_gravacao_16_gisleile || ok, já acessei o gerenciador de tarefas e apertei em "teclado". o que preciso fazer agora?
+script_v2_historia_13_gravacao_18_gisleile || ok, fiz o teste na tecla de interrogação, mas continua sem funcionar. como fazer agora?
+script_v2_historia_13_gravacao_20_gisleile || certo, já fiz os procedimentos.
+script_v2_historia_13_gravacao_22_gisleile || já abri o gerenciador de dispositivos e encontrei "teclado".
+script_v2_historia_13_gravacao_24_gisleile || pronto. abri o menu "bios setup" e apertei as teclas que você pediu.
+script_v2_historia_13_gravacao_26_gisleile || ok, sem problemas estou esperando.
+script_v2_historia_13_gravacao_28_gisleile || sim. a tecla 8 conseguiu funcionar.
+script_v2_historia_13_gravacao_30_gisleile || posso sim. obrigada!
+script_v2_historia_14_gravacao_02_gisleile || olá, no meu teclado, o número 8 está indo sozinho.
+script_v2_historia_14_gravacao_04_gisleile || sim, mas como fazer o teste?
+script_v2_historia_14_gravacao_06_gisleile || tudo bem.
+script_v2_historia_14_gravacao_08_gisleile || ok, já digitei e cliquei e já apareceu a janela de arquivos.
+script_v2_historia_14_gravacao_10_gisleile || apertei as teclas e digitei a palavra.
+script_v2_historia_14_gravacao_12_gisleile || pode, vamos instalar de novo o driver de vídeo.
+script_v2_historia_14_gravacao_14_gisleile || já fiz, escolhendo a opção.
+script_v2_historia_14_gravacao_16_gisleile || já fiz o que pediu. e agora?
+script_v2_historia_14_gravacao_18_gisleile || a tela continua preta.
+script_v2_historia_14_gravacao_20_gisleile || já fiz o procedimento de movimentar a tela.
+script_v2_historia_14_gravacao_22_gisleile || apertei as teclas que você disse e apareceu no monitor uma tela, precisa digitar algo, é isso mesmo?
+script_v2_historia_14_gravacao_24_gisleile || abri o gerenciador de dispositivos e encontrei a opção "teclado".
+script_v2_historia_14_gravacao_26_gisleile || o gerenciador de dispositivos abriu e escolhi "teclado".
+script_v2_historia_14_gravacao_28_gisleile || ok, esperei um pouco e o windows já reiniciou.
+script_v2_historia_14_gravacao_30_gisleile || sim, agora voltou a funcionar a tecla 8.
+script_v2_historia_14_gravacao_32_gisleile || ok, vou avaliar de forma positiva, e claro.
+script_v2_historia_15_gravacao_02_gisleile || oi, tudo bem. meu problema é com o teclado, algumas teclas estão invertidas.
+script_v2_historia_15_gravacao_04_gisleile || ok, como será o teste?
+script_v2_historia_15_gravacao_06_gisleile || não, só esse carregador.
+script_v2_historia_15_gravacao_08_gisleile || certo, já apertei a tecla.
+script_v2_historia_15_gravacao_10_gisleile || consegui. ela ficou destacada e apertei em enter.
+script_v2_historia_15_gravacao_12_gisleile || ok, já acessei o gerenciador de tarefas e apertei em "teclado".
+script_v2_historia_15_gravacao_14_gisleile || pronto. fiz o procedimento e escolhi a opção "desinstalar dispositivo"!
+script_v2_historia_15_gravacao_16_gisleile || tudo bem. vou esperar.
+script_v2_historia_15_gravacao_18_gisleile || sim, tem asteriscos aparecendo.
+script_v2_historia_15_gravacao_20_gisleile || posso sim. obrigada!
+script_v2_historia_16_gravacao_02_gisleile || bom dia! estou bem, mas minha tela não está ligando.
+script_v2_historia_16_gravacao_04_gisleile || não, não tenho um kit teclado ou mouse bluetooth para conectar ao meu computador. somente com fio.
+script_v2_historia_16_gravacao_06_gisleile || podemos começar. o que devo fazer?
+script_v2_historia_16_gravacao_08_gisleile || certo. agora já desligado.
+script_v2_historia_16_gravacao_10_gisleile || meu computador é um notebook.
+script_v2_historia_16_gravacao_12_gisleile || fiz o procedimento e apertei e o sistema abriu no menu.
+script_v2_historia_16_gravacao_14_gisleile || já fiz, escolhendo a opção.
+script_v2_historia_16_gravacao_16_gisleile || entrei no aplicativo "webcam", mas não abre nenhuma imagem na tela.
+script_v2_historia_16_gravacao_18_gisleile || certo. já entrei e abri aqui. o que digito?
+script_v2_historia_16_gravacao_20_gisleile || apertei as teclas e digitei a palavra.
+script_v2_historia_16_gravacao_22_gisleile || fiz o procedimento e está dando certo.
+script_v2_historia_16_gravacao_24_gisleile || abri o gerenciador de dispositivos e encontrei "teclado".
+script_v2_historia_16_gravacao_26_gisleile || o dispositivo já está habilitado.
+script_v2_historia_16_gravacao_28_gisleile || tudo bem. vou esperar.
+script_v2_historia_16_gravacao_30_gisleile || sim, todas as teclas funcionam normalmente.
+script_v2_historia_16_gravacao_32_gisleile || sim, obrigada por ajudar.
+script_v2_historia_17_gravacao_02_gisleile || tudo bem, e com você? o meu computador parar de funcionar e abre o problema da tela azul.
+script_v2_historia_17_gravacao_04_gisleile || sim é um notebook, possui as luzes acesas.
+script_v2_historia_17_gravacao_06_gisleile || sim, o sistema operacional é original de fábrica.
+script_v2_historia_17_gravacao_08_gisleile || tudo bem, espero.
+script_v2_historia_17_gravacao_10_gisleile || sim, tudo atualizado.
+script_v2_historia_17_gravacao_12_gisleile || fiz o download e executei os drivers da webcam mas ela ainda não abre.
+script_v2_historia_17_gravacao_14_gisleile || claro, se for para consertar.
+script_v2_historia_17_gravacao_16_gisleile || puxa, não consigo fazer esse teste porque não tenho outro monitor!
+script_v2_historia_17_gravacao_18_gisleile || ok. e se eu continuar sem conseguir desligar a máquina?
+script_v2_historia_17_gravacao_20_gisleile || obrigada.
+script_v2_historia_18_gravacao_02_gisleile || olá, eu bem e você? a bateria do meu notebook tem um problema.
+script_v2_historia_18_gravacao_04_gisleile || já fiz o que me pediu, pressionei as teclas e digitei o comando.
+script_v2_historia_18_gravacao_06_gisleile || ah, legal, vou fazer. apertei as teclas.
+script_v2_historia_18_gravacao_08_gisleile || não, eu apertei as teclas e continua ligado.
+script_v2_historia_18_gravacao_10_gisleile || tudo bem. o que devo fazer?
+script_v2_historia_18_gravacao_12_gisleile || ainda não. fiz o que pediu mas ele continua ligado, não mudou nada.
+script_v2_historia_18_gravacao_14_gisleile || certo, já apertei o botão de ligar do meu computador por 30 segundos.
+script_v2_historia_18_gravacao_16_gisleile || sim, o monitor tem a imagem igual a tela do notebook.
+script_v2_historia_18_gravacao_18_gisleile || sim, tem janela.
+script_v2_historia_18_gravacao_20_gisleile || boa noite. tudo bem, e você? o meu notebook não liga.
+script_v2_historia_18_gravacao_22_gisleile || obrigada!
+script_v2_historia_19_gravacao_02_gisleile || bom dia. tudo bem, e você? o bluetooth do meu notebook não funciona.
+script_v2_historia_19_gravacao_04_gisleile || sei, mas como verificar?
+script_v2_historia_19_gravacao_06_gisleile || encontrei sim. vi a opção "drivers e software", posso clicar aqui?
+script_v2_historia_19_gravacao_08_gisleile || pronto, já cliquei em bluetooth. agora eu faço o que?
+script_v2_historia_19_gravacao_10_gisleile || eu cliquei em bluetooth. o que fazer agora?
+script_v2_historia_19_gravacao_12_gisleile || eu apertei aqui em bluetooth, continua não funcionando.
+script_v2_historia_19_gravacao_14_gisleile || pode ser, mas eu não sei como fazer.como faço?
+script_v2_historia_19_gravacao_16_gisleile || abri o gerenciador de dispositivos e encontrei "teclado".
+script_v2_historia_19_gravacao_18_gisleile || encontrei aqui a opção compatível com o meu sistema e já está terminando de baixar.
+script_v2_historia_19_gravacao_20_gisleile || sim, o sistema operacional está atualizado, acredito que tudo está certo.
+script_v2_historia_19_gravacao_22_gisleile || bom o driver deu certo, consegui instalar. mas o bluetooth continua com problema.
+script_v2_historia_19_gravacao_24_gisleile || melhor, obrigada.
+script_v2_historia_20_gravacao_02_gisleile || boa tarde. tenho problema no meu teclado. ele não funciona!
+script_v2_historia_20_gravacao_04_gisleile || entrei no site lenovo.
+script_v2_historia_20_gravacao_06_gisleile || pronto. instalei de novo o driver.
+script_v2_historia_20_gravacao_08_gisleile || cliquei duas vezes no arquivo e o programa acabou de fechar. a tecla ainda não funciona. acho que o problema é o computador?
+script_v2_historia_20_gravacao_10_gisleile || escolhi brasil abnt2 porque meu teclado tem a tecla ç. antes estava na em abnt. a tecla de interrogação ainda não funciona.
+script_v2_historia_20_gravacao_12_gisleile || o touchpad ainda não funciona.
+script_v2_historia_20_gravacao_14_gisleile || abri "adaptadores de vídeo" mas abriu outras 2 listas aqui. qual escolho?
+script_v2_historia_20_gravacao_16_gisleile || escolhi brasil abnt2 porque meu teclado tem a tecla ç. antes estava na em abnt. a tecla de interrogação ainda não funciona.
+script_v2_historia_20_gravacao_18_gisleile || apertei o botão de ligar por 30 segundos e liguei o notebook, mas ainda não resolveu meu problema com a webcam.
+script_v2_historia_20_gravacao_20_gisleile || já segurei o botão de ligar e já deu 30 segundos e desligou, e agora?
+script_v2_historia_20_gravacao_22_gisleile || certo, encontrei "teclado".
+script_v2_historia_20_gravacao_24_gisleile || o teclado funciona mas a tecla de interrogação continua com defeito.
+script_v2_historia_20_gravacao_26_gisleile || que pena que não conseguimos resolver esse problema mas ficarei esperando o vídeo e enviarei meu computador o mais rápido possível.
+script_v2_historia_21_gravacao_02_gisleile || oi, estou bem obrigada! bom gostaria de ajuda com o meu teclado, ele parou de funcionar do nada.
+script_v2_historia_21_gravacao_04_gisleile || certo, desliguei o computador.
+script_v2_historia_21_gravacao_06_gisleile || certo, como posso testar a câmera no aplicativo?
+script_v2_historia_21_gravacao_08_gisleile || que ruim, apertei o botão power por 30 segundos, mas ainda não ligou.
+script_v2_historia_21_gravacao_10_gisleile || pronto. desliguei o computador e retirei o cabo de energia da tomada.
+script_v2_historia_21_gravacao_12_gisleile || tudo bem, apertei as teclas e o símbolo "*" apareceu. as teclas voltaram a funcionar. deu certo?
+script_v2_historia_21_gravacao_14_gisleile || certo, abri o subgrupo "adaptadores de vídeo". o que preciso encontrar?
+script_v2_historia_21_gravacao_16_gisleile || certo. encontrei no canto inferior da sua área de trabalho perto das informações de data hora e clima.
+script_v2_historia_21_gravacao_18_gisleile || alívio, o que podemos fazer para o teclado voltar a funcionar normalmente?
+script_v2_historia_21_gravacao_20_gisleile || não consigo fazer nada no touchpad.
+script_v2_historia_21_gravacao_22_gisleile || parece difícil, mas tudo bem. fiz como explicou. apertei junto "windows + r", digitei o que você mencionou e abriu uma janela. encontrei o teclado padrão.
+script_v2_historia_21_gravacao_24_gisleile || muito bem, como acessar o botão recovery para ligar o notebook?
+script_v2_historia_21_gravacao_26_gisleile || voltou a funcionar. maravilha. obrigada!
+script_v2_historia_21_gravacao_28_gisleile || sim, vou ajudar vocês, obrigada por terem me ajudado.
+script_v2_historia_22_gravacao_02_gisleile || oi, tudo bem. meu computador está com problemas no teclado, nenhuma tecla funciona.
+script_v2_historia_22_gravacao_04_gisleile || não, a temperatura continua a mesma, não está superaquecendo.
+script_v2_historia_22_gravacao_06_gisleile || não, o computador está desligado.
+script_v2_historia_22_gravacao_08_gisleile || já retirei todos os periféricos do aparelho.
+script_v2_historia_22_gravacao_10_gisleile || certo, já apertei o botão de ligar do meu computador por 30 segundos.
+script_v2_historia_22_gravacao_12_gisleile || procurei a palavra-chave webcam e entrei mas não tem nada.
+script_v2_historia_22_gravacao_14_gisleile || oi, estou bem obrigada! bom gostaria de ajuda com o meu teclado, ele parou de funcionar do nada.
+script_v2_historia_22_gravacao_16_gisleile || certo. estou pressionando o botão que você sugeriu.
+script_v2_historia_23_gravacao_02_gisleile || boa tarde. preciso de ajuda com o touchpad. a seta do mouse não se move.
+script_v2_historia_23_gravacao_04_gisleile || não, apertei e segurei o botão de ligar por 30 segundos. depois que ligou o notebook, abri a webcam mas não aparece nada.
+script_v2_historia_23_gravacao_06_gisleile || certo, fiz o procedimento na lateral do meu computador.
+script_v2_historia_23_gravacao_08_gisleile || apertei o botão de ligar, mas ainda não aparece nada.
+script_v2_historia_23_gravacao_10_gisleile || pronto. encontrei o número de série do notebook, digitei no campo do site que você passou e encontrei meu aparelho. estou terminando o download do chipset.
+script_v2_historia_23_gravacao_12_gisleile || pronto está baixado. olha só, meu touchscreen está funcionando, acho que deu certo. obrigada!
+script_v2_historia_23_gravacao_14_gisleile || não se preocupe, vou sim! obrigada pela disposição!
+script_v2_historia_24_gravacao_02_gisleile || olá. o problema é que não consigo desligar o meu computador.
+script_v2_historia_24_gravacao_04_gisleile || sim, mas como ligo a webcam?
+script_v2_historia_24_gravacao_06_gisleile || fiz isso como me explicou mas a imagem ainda não abre.
+script_v2_historia_24_gravacao_08_gisleile || como faço para verificar nas configurações do aplicativo da webcam se a permissão para uso da câmera está ativada?
+script_v2_historia_24_gravacao_10_gisleile || não, o sistema está sem erros. tudo limpo.
+script_v2_historia_24_gravacao_12_gisleile || sim, preciso desligar meu aparelho da tomada?
+script_v2_historia_24_gravacao_14_gisleile || certo. o notebook foi desligado e retirei todos os fios que tinham nele.
+script_v2_historia_24_gravacao_16_gisleile || não, apertei e segurei o botão de ligar por 30 segundos. depois que ligou o notebook, abri a webcam mas não aparece nada.
+script_v2_historia_24_gravacao_18_gisleile || certo, como posso testar a câmera no aplicativo?
+script_v2_historia_24_gravacao_20_gisleile || pronto. encontrei a sugestão igual ao meu sistema operacional e baixei o driver.
+script_v2_historia_24_gravacao_22_gisleile || entrei no site, inseri o número de série do meu notebook e já encontrei. o que devo fazer agora?
+script_v2_historia_24_gravacao_24_gisleile || fiz o download e abri os drivers de webcam. mas, desculpe, a webcam ainda não funciona.
+script_v2_historia_24_gravacao_26_gisleile || pronto. encontrei a sugestão igual ao meu sistema operacional e baixei o driver.
+script_v2_historia_24_gravacao_28_gisleile || a câmera já está ativa.
+script_v2_historia_24_gravacao_30_gisleile || que pena, como faço isso?
+script_v2_historia_24_gravacao_32_gisleile || melhor, obrigada.
+script_v2_historia_25_gravacao_02_gisleile || boa noite,tudo bem. bom, o problema está nas teclas de direção.
+script_v2_historia_25_gravacao_04_gisleile || sim, o notebook tem leds acesos.
+script_v2_historia_25_gravacao_06_gisleile || tenho um monitor sim, você quer que eu teste nesse outro?
+script_v2_historia_25_gravacao_08_gisleile || não tenho o cabo hdmi e nem a televisão.
+script_v2_historia_25_gravacao_10_gisleile || não mudou nada na tela.
+script_v2_historia_25_gravacao_12_gisleile || deixa eu ver vou lá no menu iniciar e farei o que pediu.
+script_v3_historia_01_gravacao_02_gisleile || bom dia. liguei meu notebook e poucos minutos depois a tela dele apagou.
+script_v3_historia_01_gravacao_04_gisleile || puxa, não consigo fazer esse teste porque não tenho outro monitor!
+script_v3_historia_01_gravacao_06_gisleile || eu tinha uma tv com entrada hdmi, mas quebrou.
+script_v3_historia_01_gravacao_08_gisleile || beleza, já fechei e abri a tela do notebook!
+script_v3_historia_01_gravacao_10_gisleile || ela está do mesmo jeito.
+script_v3_historia_01_gravacao_12_gisleile || não tenho outro cabo de rede para testar.
+script_v3_historia_01_gravacao_14_gisleile || desliguei o aparelho e não tem outro dispositivo usb conectado. e agora?
+script_v3_historia_01_gravacao_16_gisleile || certo. apertei as teclas e digitei o que foi pedido. também consegui entrar no gerenciador de dispositivos e escolhi a câmera disponível em câmeras. e agora?
+script_v3_historia_01_gravacao_18_gisleile || apertei o botão de ligar, mas ainda não aparece nada.
+script_v3_historia_01_gravacao_20_gisleile || tudo bem. vou esperar a mensagem. obrigado!
+script_v3_historia_02_gravacao_02_gisleile || oi, obrigado. a bateria do meu notebook está com problema.
+script_v3_historia_02_gravacao_04_gisleile || não, não. a bateria não inchou mas quando ligo na tomada não carrega de jeito nenhum.
+script_v3_historia_02_gravacao_06_gisleile || não, não tenho outro cabo de rede. só tenho este instalado.
+script_v3_historia_02_gravacao_08_gisleile || sim, a tomada funciona normal, porque consegui carregar meu celular na mesma tomada.
+script_v3_historia_02_gravacao_10_gisleile || entendi. só tinha um mouse conectado no usb mas já tirei.
+script_v3_historia_02_gravacao_12_gisleile || certo, vou esperar reiniciar o computador.
+script_v3_historia_02_gravacao_14_gisleile || não tem led aceso.
+script_v3_historia_02_gravacao_16_gisleile || aqui não tenho outro carregador. só lá no meu trabalho. não tem como testar agora.
+script_v3_historia_02_gravacao_18_gisleile || sim, pode fazer drenagem.
+script_v3_historia_02_gravacao_20_gisleile || dá para retirar sim. eu já tinha tentado tirar e colocar de novo, mas não deu certo.
+script_v3_historia_02_gravacao_22_gisleile || que bom. vou aguardar então. muito obrigado.
+script_v3_historia_03_gravacao_02_gisleile || boa tarde. preciso de ajuda com o touchpad. a seta do mouse não se move.
+script_v3_historia_03_gravacao_04_gisleile || apertei o botão de ligar por 30 segundos e liguei o notebook, mas ainda não resolveu meu problema com a webcam.
+script_v3_historia_03_gravacao_06_gisleile || o mouse usb funciona, mas pelo touchpad não.
+script_v3_historia_03_gravacao_08_gisleile || não mudou nada na tela.
+script_v3_historia_03_gravacao_10_gisleile || ok. espera um pouco. pronto. apertei o botão de desligar, contei até 30 e depois soltei.
+script_v3_historia_03_gravacao_12_gisleile || não, o touchpad ainda não funciona.
+script_v3_historia_03_gravacao_14_gisleile || pronto. entrei no site da lenovo e coloquei o número de série do aparelho.
+script_v3_historia_03_gravacao_16_gisleile || não, o touchpad ainda não funciona.
+script_v3_historia_03_gravacao_18_gisleile || ok! desliguei o aparelho e retirei todos os periféricos.
+script_v3_historia_03_gravacao_20_gisleile || entendi, segui suas instruções e tentei restaurar as configurações padrões. que pena. ainda não resolveu.
+script_v3_historia_03_gravacao_22_gisleile || não era o que eu queria, mas agradeço muito pela ajuda. vou esperar o vídeo no celular.
+script_v3_historia_04_gravacao_02_gisleile || costumo usar a internet via cabo, mas agora o notebook não está aceitando quando conecto.
+script_v3_historia_04_gravacao_04_gisleile || sim. o que preciso para fazer a drenagem de energia?
+script_v3_historia_04_gravacao_06_gisleile || ok, eu já entrei no site da lenovo como você me pediu.
+script_v3_historia_04_gravacao_08_gisleile || certo, encontrei "teclado".
+script_v3_historia_04_gravacao_10_gisleile || pronto. encontrei sistema operacional que uso, cliquei na opção e baixei o driver.
+script_v3_historia_04_gravacao_12_gisleile || apertei a tecla e saiu da caixa de senha.
+script_v3_historia_04_gravacao_14_gisleile || entendi, já conectei o cabo e estou abrindo o navegador.
+script_v3_historia_04_gravacao_16_gisleile || não mudou nada na tela.
+script_v3_historia_04_gravacao_18_gisleile || tudo bem. muito obrigado.
+script_v3_historia_05_gravacao_02_gisleile || boa noite. tudo bem, e você? o meu notebook não liga.
+script_v3_historia_05_gravacao_04_gisleile || pronto. abri o menu "bios setup" e apertei as teclas que você pediu.
+script_v3_historia_05_gravacao_06_gisleile || a janela apareceu e selecionei a opção "yes" e confirmei como me pediu.
+script_v3_historia_05_gravacao_08_gisleile || pronto! pressionei as teclas "windows + r" e digitei o comando.
+script_v3_historia_05_gravacao_10_gisleile || reiniciei o notebook, fiz o que pediu, mas a tela continua piscando.
+script_v3_historia_05_gravacao_12_gisleile || entendi o que fazer, e se mesmo assim não funcionar?
+script_v3_historia_05_gravacao_14_gisleile || tentei em um wifi diferente mas realmente não consigo acessar a internet.
+script_v3_historia_05_gravacao_16_gisleile || sim eu vou! vou avaliar o atendimento na pesquisa de satisfação
+script_v3_historia_05_gravacao_18_gisleile || ok. fiz o passo a passo, depois apareceu "menu". *aio e desktop.
+script_v3_historia_05_gravacao_20_gisleile || fiz o download e executei os drivers da webcam mas ela ainda não abre.
+script_v3_historia_05_gravacao_22_gisleile || entendi. obrigado!
+script_v3_historia_06_gravacao_02_gisleile || tudo bem. sim. o problema é com o leitor biométrico dele.
+script_v3_historia_06_gravacao_04_gisleile || sim, já cadastrei e configurei. gostava porque era uma segurança a mais, mas, aconteceu de parar de funcionar.
+script_v3_historia_06_gravacao_06_gisleile || mas não sei como fazer. seguirei o que pedir.
+script_v3_historia_06_gravacao_08_gisleile || apertei as teclas windows e r, digitei a palavra e abriu uma janela com vários itens. acho que é o gerenciador de dispositivos.
+script_v3_historia_06_gravacao_10_gisleile || não. meu aparelho não é deste tipo. é um modelo mais básico.
+script_v3_historia_06_gravacao_12_gisleile || sim. consegui encontrar o grupo "sensores".
+script_v3_historia_06_gravacao_14_gisleile || certo. já testei na outra tomada da minha tv.
+script_v3_historia_06_gravacao_16_gisleile || já reiniciei o computador, mas só consegui abrir com a senha.
+script_v3_historia_06_gravacao_18_gisleile || como faço?
+script_v3_historia_06_gravacao_20_gisleile || entrei no site pedido, coloquei o número de série do meu notebook e consegui encontrar. o que faço em seguida?
+script_v3_historia_06_gravacao_22_gisleile || baixei e instalei o driver, mas só acessou com a senha. não aceita a digital.
+script_v3_historia_06_gravacao_24_gisleile || é muito difícil fazer isso?
+script_v3_historia_06_gravacao_26_gisleile || que alívio. agradeço muito! vou esperar o vídeo no meu celular.
+script_v3_historia_07_gravacao_02_gisleile || ótimo. então, o problema é com a tela do meu notebook, que começo a usar e minutos depois fica piscando.
+script_v3_historia_07_gravacao_04_gisleile || não tenho outro monitor para testes. até tenho a tv, mas meu filho está vendo desenho e não vou poder usar agora.
+script_v3_historia_07_gravacao_06_gisleile || que chato hein? como vou fazer ? vocês me ajudam?
+script_v3_historia_07_gravacao_08_gisleile || já retirei todos os periféricos do aparelho.
+script_v3_historia_07_gravacao_10_gisleile || ok. apertei a tecla e saí da caixa de senha.
+script_v3_historia_07_gravacao_12_gisleile || minha máquina é um notebook.
+script_v3_historia_07_gravacao_14_gisleile || entendi. apertei o botão e já abriu a janela do menu, mas tem várias listas para escolher.
+script_v3_historia_07_gravacao_16_gisleile || já fiz o procedimento de movimentar a tela.
+script_v3_historia_07_gravacao_18_gisleile || fiz o download e executei os drivers da webcam mas ela ainda não abre.
+script_v3_historia_07_gravacao_20_gisleile || isso demora muito? se precisar, pode ser. vamos instalar o driver de vídeo.
+script_v3_historia_07_gravacao_22_gisleile || certo, fiz o procedimento na lateral do meu computador.
+script_v3_historia_07_gravacao_24_gisleile || abri "adaptadores de vídeo" mas abriu outras 2 listas aqui. qual escolho?
+script_v3_historia_07_gravacao_26_gisleile || encontrei a placa de vídeo integrada.no meu tem intel(r) hd graphics.
+script_v3_historia_07_gravacao_28_gisleile || cliquei com o botão direito e desinstalei.
+script_v3_historia_07_gravacao_30_gisleile || oi, tudo bem. algumas teclas do meu teclado não funcionam.
+script_v3_historia_07_gravacao_32_gisleile || que chato hein? como vou fazer ? vocês me ajudam?
+script_v3_historia_07_gravacao_34_gisleile || ótimo. vou aguardar. muito obrigado.
+script_v3_historia_08_gravacao_02_gisleile || boa noite. então, o problema é meu notebook que até ontem funcionava mas hoje não liga de jeito nenhum.
+script_v3_historia_08_gravacao_04_gisleile || certo. na bios, não tem listras, e já movimentei a tela do notebook.
+script_v3_historia_08_gravacao_06_gisleile || não, não tenho outro cabo de rede. só tenho este instalado.
+script_v3_historia_08_gravacao_08_gisleile || já testei na outra tomada da minha tv.
+script_v3_historia_08_gravacao_10_gisleile || minha máquina é um notebook.
+script_v3_historia_08_gravacao_12_gisleile || pode fazer a drenagem de energia. só me explicar como faz, por que eu não sei.
+script_v3_historia_08_gravacao_14_gisleile || eu não tenho outro monitor.
+script_v3_historia_08_gravacao_16_gisleile || que ruim, apertei o botão power por 30 segundos, mas ainda não ligou.
+script_v3_historia_08_gravacao_18_gisleile || sim eu vou! vou avaliar o atendimento na pesquisa de satisfação
+script_v3_historia_08_gravacao_20_gisleile || apertei o clipe de papel no buraquinho da lateral do notebook e apertei por alguns segundos até aparecer o menu. e agora?
+script_v3_historia_08_gravacao_22_gisleile || tudo bem, como testar a câmera no aplicativo?
+script_v3_historia_08_gravacao_24_gisleile || ok. já liguei.
+script_v3_historia_08_gravacao_26_gisleile || perfeito, funcionou. estou muito feliz. agradeço muito pela ajuda.
+script_v3_historia_08_gravacao_28_gisleile || sim, podemos fazer a drenagem de energia. o que posso fazer?
+script_v3_historia_08_gravacao_30_gisleile || maravilha. de novo meu muito obrigado! espero o vídeo no meu celular.
+script_v3_historia_09_gravacao_02_gisleile || oi. então o problema é que quando aperto para abrir algum programa demora mais de 1 minuto para abrir. isso é normal?
+script_v3_historia_09_gravacao_04_gisleile || entendi. ainda não tentei apagar os arquivos de log do sistema. como resolver e deixar ele mais rápido?
+script_v3_historia_09_gravacao_06_gisleile || certo, já fiz o processo escolhendo a aba e apertando a tecla.
+script_v3_historia_09_gravacao_08_gisleile || liguei de novo o notebook mas não está lendo minhas digitais.
+script_v3_historia_09_gravacao_10_gisleile || certo. fiz o que pediu e apareceu uma janela de arquivos da pasta sugerida.
+script_v3_historia_09_gravacao_12_gisleile || sei sim, já escolhi e estou apagando todos os arquivos aqui.
+script_v3_historia_09_gravacao_14_gisleile || desculpe. mas ainda está lento.
+script_v3_historia_09_gravacao_16_gisleile || ok, apertei as teclas e já digitei a palavra.
+script_v3_historia_09_gravacao_18_gisleile || beleza, também digitei o que pediu e abriu uma pasta com vários arquivos. posso apagar tudo também?
+script_v3_historia_09_gravacao_20_gisleile || já reiniciei o computador, mas só consegui abrir com a senha.
+script_v3_historia_09_gravacao_22_gisleile || certo. já entrei e abri aqui. o que digito?
+script_v3_historia_09_gravacao_24_gisleile || já digitei, abriu a janela e com mais um monte de arquivos e pastas.
+script_v3_historia_09_gravacao_26_gisleile || já escolhi e apaguei todos os arquivos.
+script_v3_historia_09_gravacao_28_gisleile || já reiniciei o windows mas quando tento abrir o programa demora quase 1 minuto para abrir.
+script_v3_historia_09_gravacao_30_gisleile || concordo, agradeço a ajuda.
+script_v3_historia_10_gravacao_02_gisleile || boa noite. comprei um notebook para minha filha há pouco tempo, mas agora ele está com listras na tela.
+script_v3_historia_10_gravacao_04_gisleile || entendi, mas eu não sei como se faz. pode me ajudar?
+script_v3_historia_10_gravacao_06_gisleile || oi, eu comprei um notebook e usei ele por alguns dias mas agora ele desliga sozinho, eu não consigo mais mexer nele.
+script_v3_historia_10_gravacao_08_gisleile || não, ele está desligado. fiquei com medo de ligar e dar algum problema.
+script_v3_historia_10_gravacao_10_gisleile || está bem! estou vendo e estou fazendo a análise de erros no sistema dele.
+script_v3_historia_10_gravacao_12_gisleile || a janela abriu e apertei a escolha sugerida.
+script_v3_historia_10_gravacao_14_gisleile || não sei como acessar a bios.
+script_v3_historia_10_gravacao_16_gisleile || ok, apertei as teclas e já digitei a palavra.
+script_v3_historia_10_gravacao_18_gisleile || já escolhi a opção sugerida.
+script_v3_historia_10_gravacao_20_gisleile || tudo bem e você? não consigo usar o wifi em meu notebook.
+script_v3_historia_10_gravacao_22_gisleile || sim, o erro da tela azul sempre acontece e de repente.
+script_v3_historia_10_gravacao_24_gisleile || certo. muito obrigado pela ajuda!
+script_v3_historia_11_gravacao_02_gisleile || oi, tudo joia. sim, o teclado parou de funcionar e não sei como consertar.
+script_v3_historia_11_gravacao_04_gisleile || não tem problema.
+script_v3_historia_11_gravacao_06_gisleile || já está desligado o aparelho.
+script_v3_historia_11_gravacao_08_gisleile || meu equipamento é um notebook.
+script_v3_historia_11_gravacao_10_gisleile || pressionei o clipe do papel no buraquinho da lateral do notebook e apareceu logo em seguida o menu, o que faço depois?
+script_v3_historia_11_gravacao_12_gisleile || consegui. ela ficou destacada e apertei em enter.
+script_v3_historia_11_gravacao_14_gisleile || sim, funciona, acabei de testar.
+script_v3_historia_11_gravacao_16_gisleile || que pena, como faço isso?
+script_v3_historia_11_gravacao_18_gisleile || ok, já fiz como me pediu. e agora?
+script_v3_historia_11_gravacao_20_gisleile || abri o gerenciador de dispositivos e encontrei "teclado".
+script_v3_historia_11_gravacao_22_gisleile || já fiz o que pediu. e agora?
+script_v3_historia_11_gravacao_24_gisleile || ah, que legal. voltou a funcionar. consigo digitar agora. muito obrigado.
+script_v3_historia_11_gravacao_26_gisleile || com certeza. pode deixar!
+script_v3_historia_12_gravacao_02_gisleile || estou bem. o problema é com meu teclado. estava funcionando bem até ontem mas hoje a tecla caps lock não funciona.
+script_v3_historia_12_gravacao_04_gisleile || sim, pode fazer drenagem.
+script_v3_historia_12_gravacao_06_gisleile || já fiz o que me pediu, pressionei as teclas e digitei o comando.
+script_v3_historia_12_gravacao_08_gisleile || certo, encontrei "teclado".
+script_v3_historia_12_gravacao_10_gisleile || já reiniciei o windows mas quando tento abrir o programa demora quase 1 minuto para abrir.
+script_v3_historia_12_gravacao_12_gisleile || muito bom, vou esperar.
+script_v3_historia_12_gravacao_14_gisleile || o teclado funciona mas a tecla de interrogação continua com defeito.
+script_v3_historia_12_gravacao_16_gisleile || qual fábrica?
+script_v3_historia_12_gravacao_18_gisleile || entendi. vou esperar.
+script_v3_historia_13_gravacao_02_gisleile || oi. as teclas do meu teclado, as setas cima, baixo, direita e esquerda estão com problema.
+script_v3_historia_13_gravacao_04_gisleile || sim, preciso muito dessas teclas para terminar um trabalho.
+script_v3_historia_13_gravacao_06_gisleile || ótimo. vou aguardar. muito obrigado.
+script_v3_historia_13_gravacao_08_gisleile || já está desligado o aparelho.
+script_v3_historia_13_gravacao_10_gisleile || meu computador é um notebook.
+script_v3_historia_13_gravacao_12_gisleile || certo, estou esperando ligar novamente o notebook.
+script_v3_historia_13_gravacao_14_gisleile || o menu já abriu aqui, e agora?
+script_v3_historia_13_gravacao_16_gisleile || certo, abri o subgrupo "adaptadores de vídeo". o que preciso encontrar?
+script_v3_historia_13_gravacao_18_gisleile || sim. a tecla 8 conseguiu funcionar.
+script_v3_historia_13_gravacao_20_gisleile || pronto! pressionei as teclas "windows + r" e digitei o comando.
+script_v3_historia_13_gravacao_22_gisleile || abri o gerenciador de dispositivos e encontrei "teclado".
+script_v3_historia_13_gravacao_24_gisleile || certo, já fiz. preciso desinstalar outra coisa?
+script_v3_historia_13_gravacao_26_gisleile || ok, esperei um pouco e o windows já reiniciou.
+script_v3_historia_13_gravacao_28_gisleile || apertei a tecla 8 e apareceram vários asteriscos.
+script_v3_historia_13_gravacao_30_gisleile || certo. obrigado pela ajuda. eu estou triste porque não consegui resolver o problema, mas vou esperar o vídeo.
+script_v3_historia_14_gravacao_02_gisleile || bom dia. tudo bem, e você? o meu teclado não funciona.
+script_v3_historia_14_gravacao_04_gisleile || ok, o que faço agora?
+script_v3_historia_14_gravacao_06_gisleile || concordo, agradeço a ajuda.
+script_v3_historia_14_gravacao_08_gisleile || já está desligado o aparelho.
+script_v3_historia_14_gravacao_10_gisleile || meu computador é um notebook.
+script_v3_historia_14_gravacao_12_gisleile || entendi, já fiz o que me pediu, apertei várias vezes as teclas f1, f2.
+script_v3_historia_14_gravacao_14_gisleile || o dispositivo já está habilitado.
+script_v3_historia_14_gravacao_16_gisleile || já fiz o processo escolhendo a aba e apertando a tecla.
+script_v3_historia_14_gravacao_18_gisleile || coloquei um clipe que encontrei aqui perto no buraquinho na lateral do computador e apertei até aparecer o menu. o que eu faço agora?
+script_v3_historia_14_gravacao_20_gisleile || ok, já apertei esc e saí da caixa de senha. e agora?
+script_v3_historia_14_gravacao_22_gisleile || tá bom, consegui apertar as teclas "windows + r" e digitar o comando que você pediu.
+script_v3_historia_14_gravacao_24_gisleile || certo, abri o subgrupo "adaptadores de vídeo". o que preciso encontrar?
+script_v3_historia_14_gravacao_26_gisleile || certo, já fiz. preciso desinstalar outra coisa?
+script_v3_historia_14_gravacao_28_gisleile || estou esperando reiniciar.
+script_v3_historia_14_gravacao_30_gisleile || sim.agora o número 8 não está apertando sozinho, está normal. muito obrigada!
+script_v3_historia_14_gravacao_32_gisleile || posso sim, tchau.
+script_v3_historia_15_gravacao_02_gisleile || boa noite, estou bem e você? quero ajuda com o teclado, eu digito uma letra ou número mas não aparece o que eu quero.
+script_v3_historia_15_gravacao_04_gisleile || não tem problema.
+script_v3_historia_15_gravacao_06_gisleile || sim, meu teclado funciona.
+script_v3_historia_15_gravacao_08_gisleile || apertei a tecla windows + r.
+script_v3_historia_15_gravacao_10_gisleile || pronto. entrei no site da lenovo e coloquei o número de série do aparelho.
+script_v3_historia_15_gravacao_12_gisleile || certo, vou aguardar.
+script_v3_historia_15_gravacao_14_gisleile || certo. encontrei no canto inferior da sua área de trabalho perto das informações de data hora e clima.
+script_v3_historia_15_gravacao_16_gisleile || ok, vou esperar meu notebook ligar.
+script_v3_historia_15_gravacao_18_gisleile || acho que deu certo, ele está normal.
+script_v3_historia_15_gravacao_20_gisleile || vou avaliar sim, até mais.
+script_v3_historia_16_gravacao_02_gisleile || boa tarde, tudo certo, e você? preciso de ajuda com o meu computador. ele está desligando sozinho.
+script_v3_historia_16_gravacao_04_gisleile || eu não tenho um teclado e um mouse, precisa?
+script_v3_historia_16_gravacao_06_gisleile || alívio, o que podemos fazer para o teclado voltar a funcionar normalmente?
+script_v3_historia_16_gravacao_08_gisleile || já fiz o que me pediu, pressionei as teclas e digitei o comando.
+script_v3_historia_16_gravacao_10_gisleile || meu computador é um notebook.
+script_v3_historia_16_gravacao_12_gisleile || entendi, já conectei o cabo e estou abrindo o navegador.
+script_v3_historia_16_gravacao_14_gisleile || ok, selecionei a opção que você me pediu.
+script_v3_historia_16_gravacao_16_gisleile || tudo bem, já fiz o que pediu e já desinstalei o dispositivo.
+script_v3_historia_16_gravacao_18_gisleile || sim, tem asteriscos aparecendo.
+script_v3_historia_16_gravacao_20_gisleile || encontrei a tecla esc e consegui sair da caixa de senha. o que preciso fazer?
+script_v3_historia_16_gravacao_22_gisleile || já fiz o que me pediu, pressionei as teclas e digitei o comando.
+script_v3_historia_16_gravacao_24_gisleile || ok. consegui encontrar o grupo teclado.
+script_v3_historia_16_gravacao_26_gisleile || certo. abri o gerenciador de dispositivos e encontrei "teclado".
+script_v3_historia_16_gravacao_28_gisleile || ok. vou esperar.
+script_v3_historia_16_gravacao_30_gisleile || apertei várias vezes a tecla que você falou.
+script_v3_historia_16_gravacao_32_gisleile || sim, posso avaliar. obrigado por acabar com o problema.
+script_v3_historia_17_gravacao_02_gisleile || estou bem, obrigado. então, meu aparelho está aparecendo tela azul e depois para de funcionar.
+script_v3_historia_17_gravacao_04_gisleile || e depois que descarregar?
+script_v3_historia_17_gravacao_06_gisleile || tenho certeza que é original, comprei e comecei a usar.
+script_v3_historia_17_gravacao_08_gisleile || ok. fiz o download dos drivers na ordem sugerida, mas a internet ainda não funciona.
+script_v3_historia_17_gravacao_10_gisleile || sim, tudo atualizado.
+script_v3_historia_17_gravacao_12_gisleile || certo, abri o subgrupo "adaptadores de vídeo". o que preciso encontrar?
+script_v3_historia_17_gravacao_14_gisleile || sim, tudo atualizado.
+script_v3_historia_17_gravacao_16_gisleile || pronto. encontrei o número de série do notebook, digitei no campo do site que você passou e encontrei meu aparelho. estou terminando o download do driver do chipset.
+script_v3_historia_17_gravacao_18_gisleile || ok. vou continuar usando, e ver se o problema volta.
+script_v3_historia_17_gravacao_20_gisleile || ok, obrigado por me ajudar
+script_v3_historia_18_gravacao_02_gisleile || boa noite, tudo bem. pode me ajudar com o meu notebook, estou usando ele mas quando aperto o botão para desligar, não funciona, continua ligado.
+script_v3_historia_18_gravacao_04_gisleile || fiz o que você pediu. o computador não desligou.
+script_v3_historia_18_gravacao_06_gisleile || certo, já apertei o botão de ligar do meu computador por 30 segundos.
+script_v3_historia_18_gravacao_08_gisleile || não, nada funciona ele continua ligado.
+script_v3_historia_18_gravacao_10_gisleile || certo. fiz o que sugeriu, apertei e apareceu "menu". *aio e desktop.
+script_v3_historia_18_gravacao_12_gisleile || não está funcionando, o computador ainda está ligado.
+script_v3_historia_18_gravacao_14_gisleile || é muito difícil fazer isso?
+script_v3_historia_18_gravacao_16_gisleile || não, eu apertei as teclas e continua ligado.
+script_v3_historia_18_gravacao_18_gisleile || entendi. ainda não tentei apagar os arquivos de log do sistema. como resolver e deixar ele mais rápido?
+script_v3_historia_18_gravacao_20_gisleile || entendi, tenho o que fazer pra ir mais rápido? e o que eu faço depois?
+script_v3_historia_18_gravacao_22_gisleile || não, era só isso.obrigado. vou esperar o vídeo no celular.
+script_v3_historia_19_gravacao_02_gisleile || estou bem obrigada. meu aparelho não está conectando com o bluetooth.
+script_v3_historia_19_gravacao_04_gisleile || espera eu ver, tem como me explicar?
+script_v3_historia_19_gravacao_06_gisleile || certo. encontrei no canto inferior da sua área de trabalho perto das informações de data hora e clima.
+script_v3_historia_19_gravacao_08_gisleile || certo, cliquei no bluetooth, o que fazer agora?
+script_v3_historia_19_gravacao_10_gisleile || desculpe, o bluetooth não funciona, o problema continua. e agora ?
+script_v3_historia_19_gravacao_12_gisleile || o bluetooth não ligou. o que preciso fazer?
+script_v3_historia_19_gravacao_14_gisleile || que bom. vou aguardar então. muito obrigado.
+script_v3_historia_19_gravacao_16_gisleile || ok, consegui entrar no site da lenovo e encontrei o meu aparelho.
+script_v3_historia_19_gravacao_18_gisleile || baixei os downloads, isso vai resolver o problema?
+script_v3_historia_19_gravacao_20_gisleile || reiniciou e também instalei os drivers.
+script_v3_historia_19_gravacao_22_gisleile || sim, está instalado, mas o bluetooth não funciona, o problema continua.
+script_v3_historia_19_gravacao_24_gisleile || tudo bem. se precisar vou enviar para a fábrica, obrigada pela ajuda!
+script_v3_historia_20_gravacao_02_gisleile || oi, boa tarde! tudo certo com você? pode me ajudar com meu notebook, a tela dele está piscando.
+script_v3_historia_20_gravacao_04_gisleile || já segurei as teclas e abri a janela.
+script_v3_historia_20_gravacao_06_gisleile || consegui. apertei o botão e entrei no "menu". o que preciso agora?
+script_v3_historia_20_gravacao_08_gisleile || fiz isso como me explicou mas a imagem ainda não abre.
+script_v3_historia_20_gravacao_10_gisleile || fiz o que você pediu. o computador não desligou.
+script_v3_historia_20_gravacao_12_gisleile || sim, mas como fazer o teste?
+script_v3_historia_20_gravacao_14_gisleile || oi. eu comprei a pouco tempo um notebook com touchscreen, mas eu toco na tela e ela não responde. o que eu posso fazer?
+script_v3_historia_20_gravacao_16_gisleile || escolhi a opção brasil abnt, por que no meu teclado não tem uma tecla ç. a tecla que está com problema, continua ruim.
+script_v3_historia_20_gravacao_18_gisleile || já segurei as teclas e abri a janela.
+script_v3_historia_20_gravacao_20_gisleile || sim, já cliquei no botão que liga. vou tentar ligar o equipamento agora.
+script_v3_historia_20_gravacao_22_gisleile || abri o gerenciador de dispositivos e encontrei "teclado".
+script_v3_historia_20_gravacao_24_gisleile || fiz o que você pediu. o computador não desligou.
+script_v3_historia_20_gravacao_26_gisleile || ok. muito obrigado por me ajudar
+script_v3_historia_21_gravacao_02_gisleile || olá. o problema é que não consigo desligar o meu computador.
+script_v3_historia_21_gravacao_04_gisleile || já desliguei o aparelho e não tem outro dispositivo usb conectado. e agora?
+script_v3_historia_21_gravacao_06_gisleile || ok. já reiniciei a máquina, mas o problema de demorar não acabou.
+script_v3_historia_21_gravacao_08_gisleile || ótimo, o notebook ligou mas o teclado não responde, nenhuma tecla.
+script_v3_historia_21_gravacao_10_gisleile || certo. desliguei o meu computador.
+script_v3_historia_21_gravacao_12_gisleile || aqui não tenho outro carregador. só lá no meu trabalho. não tem como testar agora.
+script_v3_historia_21_gravacao_14_gisleile || foi um pouco difícil mas achei a bios setup.
+script_v3_historia_21_gravacao_16_gisleile || sim, fiz todo esse processo apertando no idioma atual, seguindo para opções e agora, na opção "adicionar um teclado" abriu uma janela com as opções brasil abnt2 e brasil abnt
+script_v3_historia_21_gravacao_18_gisleile || tudo bem, apertei as teclas e o símbolo "*" apareceu. as teclas voltaram a funcionar. deu certo?
+script_v3_historia_21_gravacao_20_gisleile || o que mais preciso fazer?
+script_v3_historia_21_gravacao_22_gisleile || certo, encontrei teclado padrão ps/2, cliquei com o botão direito do mouse e escolhi desinstalar dispositivo.
+script_v3_historia_21_gravacao_24_gisleile || abri o gerenciador de dispositivos e encontrei "teclado".
+script_v3_historia_21_gravacao_26_gisleile || sim, perfeito.
+script_v3_historia_21_gravacao_28_gisleile || ok, vou avaliar de forma positiva, e claro.
+script_v3_historia_22_gravacao_02_gisleile || oi, eu comprei um notebook e usei ele por alguns dias mas agora ele desliga sozinho, eu não consigo mais mexer nele.
+script_v3_historia_22_gravacao_04_gisleile || não, funciona o preenchimento da pesquisa de satisfação?
+script_v3_historia_22_gravacao_06_gisleile || feito. abri o site da lenovo e digitei o número de série do equipamento.
+script_v3_historia_22_gravacao_08_gisleile || já retirei todos os periféricos do aparelho.
+script_v3_historia_22_gravacao_10_gisleile || certo. o que faço depois que ela descarregar?
+script_v3_historia_22_gravacao_12_gisleile || já digitei, abriu a janela e com mais um monte de arquivos e pastas.
+script_v3_historia_22_gravacao_14_gisleile || o computador desligou depois de uns segundos que escolhi a opção "bios setup".
+script_v3_historia_22_gravacao_16_gisleile || se não tem outro jeito, então tudo bem! eu espero o vídeo no meu celular.
+script_v3_historia_23_gravacao_02_gisleile || comprei um notebook onde posso tocar na tela mas quando toco não acontece nada.
+script_v3_historia_23_gravacao_04_gisleile || apertei as teclas windows + r e digite o comando e apareceu uma tela com uma lista.
+script_v3_historia_23_gravacao_06_gisleile || certo, até agora está indo, fiz como disse e depois que encontrei a aba security, apertei nessa opção set administrator password. depois apareceu uma caixa, é isso mesmo?
+script_v3_historia_23_gravacao_08_gisleile || toquei na tela, em vários lugares, mas não funciona.
+script_v3_historia_23_gravacao_10_gisleile || pronto. encontrei o número de série do notebook, digitei no campo do site que você passou e encontrei meu aparelho. estou terminando o download do chipset.
+script_v3_historia_23_gravacao_12_gisleile || ótimo, consegui, está funcionando.
+script_v3_historia_23_gravacao_14_gisleile || certo. já entrei e abri aqui. o que digito?
+script_v3_historia_24_gravacao_02_gisleile || boa noite, a webcam do notebook não está abrindo.
+script_v3_historia_24_gravacao_04_gisleile || como faço para arrumar o idioma do teclado?
+script_v3_historia_24_gravacao_06_gisleile || fiz o download e abri os drivers de webcam. mas, desculpe, a webcam ainda não funciona.
+script_v3_historia_24_gravacao_08_gisleile || no aplicativo da câmera? não sei como saber dentro das configurações se a permissão da câmera está ativada.
+script_v3_historia_24_gravacao_10_gisleile || fiz o download e abri os drivers de webcam. mas, desculpe, a webcam ainda não funciona.
+script_v3_historia_24_gravacao_12_gisleile || sim, mas como fazer o teste?
+script_v3_historia_24_gravacao_14_gisleile || certo. o notebook foi desligado e retirei todos os fios que tinham nele.
+script_v3_historia_24_gravacao_16_gisleile || aqui aparece que a câmera já está ligada.
+script_v3_historia_24_gravacao_18_gisleile || certo, como posso testar a câmera no aplicativo?
+script_v3_historia_24_gravacao_20_gisleile || entrei no aplicativo "webcam", mas não abre nenhuma imagem na tela.
+script_v3_historia_24_gravacao_22_gisleile || entrei no site pedido, coloquei o número de série do meu notebook e consegui encontrar. o que faço em seguida?
+script_v3_historia_24_gravacao_24_gisleile || pronto. apertei as teclas e apareceu a janela.
+script_v3_historia_24_gravacao_26_gisleile || fiz o que você pediu. o sistema já está atualizado.
+script_v3_historia_24_gravacao_28_gisleile || ok. vou acompanhar o funcionamento do sistema.
+script_v3_historia_24_gravacao_30_gisleile || sei, mas como verificar?
+script_v3_historia_24_gravacao_32_gisleile || não, era só isso.obrigado. vou esperar o vídeo no celular.
+script_v3_historia_25_gravacao_02_gisleile || olá. tenho um notebook que uso para trabalho mas ele não funciona, não consigo usar.
+script_v3_historia_25_gravacao_04_gisleile || não, a temperatura está normal.
+script_v3_historia_25_gravacao_06_gisleile || sim, tenho um monitor externo que dá para fazer testes.
+script_v3_historia_25_gravacao_08_gisleile || sim, tem asteriscos aparecendo.
+script_v3_historia_25_gravacao_10_gisleile || sim. depois de tentar ligar pelo botão recovery, meu notebook está ligando.
+script_v3_historia_25_gravacao_12_gisleile || ok! muito obrigado!

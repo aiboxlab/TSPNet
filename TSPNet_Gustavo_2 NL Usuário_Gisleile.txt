@@ -1,0 +1,34 @@
+script_v1_historia_02_gravacao_02_gustavo.mp4  ||  bom dia, tudo bem e você? preciso de ajuda com a bateria do meu notebook.
+script_v1_historia_02_gravacao_04_gustavo.mp4  ||  não, a bateria do notebook ainda não funciona.
+script_v1_historia_02_gravacao_06_gustavo.mp4  ||  ok. apertei as teclas e digitei a palavra.
+script_v1_historia_02_gravacao_08_gustavo.mp4  ||  sim. a tomada funciona normal, porque consegui carregar meu celular na tomada.
+script_v1_historia_02_gravacao_10_gustavo.mp4  ||  certo, digitei a palavra e criei a janela de arquivos da pasta sugerida.
+script_v1_historia_02_gravacao_12_gustavo.mp4  ||  ok. já liguei.
+script_v1_historia_02_gravacao_14_gustavo.mp4  ||  não, a bateria do notebook ainda não carrega.
+script_v1_historia_02_gravacao_16_gustavo.mp4  ||  desculpe, não tenho outro carregador.
+script_v1_historia_02_gravacao_18_gustavo.mp4  ||  não, a bateria do notebook não carrega.
+script_v1_historia_02_gravacao_20_gustavo.mp4  ||  ok, vou apertar as teclas.
+script_v1_historia_02_gravacao_22_gustavo.mp4  ||  ok. muito obrigado!
+script_v1_historia_25_gravacao_02_gustavo.mp4  ||  boa tarde! estou bem e você? meu notebook não funciona.
+script_v1_historia_25_gravacao_04_gustavo.mp4  ||  sim, o erro da tela azul sempre acontece e de repente.
+script_v1_historia_25_gravacao_06_gustavo.mp4  ||  sim, tenho um monitor que podemos usar para realizar um teste.
+script_v1_historia_25_gravacao_08_gustavo.mp4  ||  pronto. removi os periféricos do equipamento.
+script_v1_historia_25_gravacao_10_gustavo.mp4  ||  sim, o erro da tela azul sempre acontece e de repente.
+script_v1_historia_25_gravacao_12_gustavo.mp4  ||  certo. muito obrigado!
+script_v3_historia_02_gravacao_02_gustavo.mp4  ||  oi, obrigado. a bateria do meu notebook está com problema.
+script_v3_historia_02_gravacao_04_gustavo.mp4  ||  não, a tela do notebook ainda não acendeu.
+script_v3_historia_02_gravacao_06_gustavo.mp4  ||  não é isso. não sei qual é.
+script_v3_historia_02_gravacao_08_gustavo.mp4  ||  também pensei nisso e até já testei em outras tomadas mas não deu certo.
+script_v3_historia_02_gravacao_10_gustavo.mp4  ||  entendi, a janela apareceu e cliquei na informação que eu vi.
+script_v3_historia_02_gravacao_12_gustavo.mp4  ||  ok, esperei um pouco e o windows já reiniciou.
+script_v3_historia_02_gravacao_14_gustavo.mp4  ||  não, não tem led aceso.
+script_v3_historia_02_gravacao_16_gustavo.mp4  ||  não. não tenho um kit teclado ou mouse conectado ao meu computador.
+script_v3_historia_02_gravacao_18_gustavo.mp4  ||  depois de clicar no botão recovery o notebook está ligando.
+script_v3_historia_02_gravacao_20_gustavo.mp4  ||  não, a bateria é dentro.
+script_v3_historia_02_gravacao_22_gustavo.mp4  ||  tudo bem. muito obrigado.
+script_v3_historia_25_gravacao_02_gustavo.mp4  ||  olá. a bateria do meu notebook não funciona.
+script_v3_historia_25_gravacao_04_gustavo.mp4  ||  a bateria do meu notebook não funciona.
+script_v3_historia_25_gravacao_06_gustavo.mp4  ||  eu não tenho um teclado e um mouse, precisa?
+script_v3_historia_25_gravacao_08_gustavo.mp4  ||  sim, está conectado ao meu segundo monitor.
+script_v3_historia_25_gravacao_10_gustavo.mp4  ||  sim, o monitor tem a imagem igual a tela do notebook.
+script_v3_historia_25_gravacao_12_gustavo.mp4  ||  posso sim. obrigada!
